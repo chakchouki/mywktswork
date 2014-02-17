@@ -1,0 +1,3403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+|1|ZERO_RESULTS||||||
+|2|ZERO_RESULTS||||||
+|3|ZERO_RESULTS||||||
+|4|ZERO_RESULTS||||||
+|5|ZERO_RESULTS||||||
+|6|ZERO_RESULTS||||||
+|7|OK|2411 Luxemburg City, Luxembourg|2411|Luxembourg|Luxembourg|Luxembourg|
+|8|OK|Zwaarveld 27, Zwaarveld, 9220 Hamme, Belgium|9220|Belgium|East Flanders|OV|
+|9|OK|Route de Bruxelles 29, 1430 Rebecq, Belgium|1430|Belgium|Walloon Brabant|BW|
+|10|OK|Chaussée de Charleroi 100, 5070 Fosses-la-Ville, Belgium|5070|Belgium|Namur|NA|
+|11|OK|Chaussée de Douai, Belgium||Belgium|Hainaut|HT|
+|12|OK|Gentsevaart 30, 4565 EV Kapellebrug, The Netherlands|4565 EV|The Netherlands|Hulst|Hulst|
+|13|OK|Hogenakkerhoekstraat 4, 9150 Kruibeke, Belgium|9150|Belgium|East Flanders|OV|
+|14|OK|Rue de Wergìfosse 39, 4630 Soumagne, Belgium|4630|Belgium|Liege|LG|
+|15|ZERO_RESULTS||||||
+|16|OK|Nonnenkuil 18, 5111 CP Baarle-Nassau, The Netherlands|5111 CP|The Netherlands|Baarle-Nassau|Baarle-Nassau|
+|17|OK|Stationsstraat 128, 8780 Oostrozebeke, Belgium|8780|Belgium|West Flanders|WV|
+|18|OK|De Valkenberg 15, 6301 PM Valkenburg, The Netherlands|6301 PM|The Netherlands|Valkenburg aan de Geul|Valkenburg aan de Geul|
+|19|ZERO_RESULTS||||||
+|20|OK|Brest, France||France|Finistere|29|
+|21|ZERO_RESULTS||||||
+|22|ZERO_RESULTS||||||
+|23|ZERO_RESULTS||||||
+|24|OK|Saint-Étienne-du-Rouvray, France||France|Seine-Maritime|76|
+|25|OK|Carpiquet, France||France|Calvados|14|
+|26|ZERO_RESULTS||||||
+|27|OK|Coulommiers, 77120 Coulommiers, France|77120|France|Seine-et-Marne|77|
+|28|OK|Montsoult, France||France|Val-d'Oise|95|
+|29|OK|Meaux, 77100 Meaux, France|77100|France|Seine-et-Marne|77|
+|30|OK|Saint-Privat-la-Montagne, France||France|Moselle|57|
+|31|OK|Villaines-sous-Bois, France||France|Val-d'Oise|95|
+|32|ZERO_RESULTS||||||
+|33|ZERO_RESULTS||||||
+|34|ZERO_RESULTS||||||
+|35|OK|Niort, France||France|Deux-Sevres|79|
+|36|OK|Limoges-Bellegarde Airport, 81 Avenue de l'Aéroport, 87100 Limoges, France|87100|France|Haute-Vienne|87|
+|37|OK|Sainte-Menehould, France||France|Marne|51|
+|38|OK|Culan, France||France|Cher|18|
+|39|OK|Culan, France||France|Cher|18|
+|40|ZERO_RESULTS||||||
+|41|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|42|OK|Le Poiré-sur-Vie, France||France|Vendee|85|
+|43|OK|60800 Duvy, France|60800|France|Oise|60|
+|44|OK|Saint-Remy-sur-Bussy, France||France|Marne|51|
+|45|OK|Couëron, France||France|Loire-Atlantique|44|
+|46|ZERO_RESULTS||||||
+|47|ZERO_RESULTS||||||
+|48|ZERO_RESULTS||||||
+|49|ZERO_RESULTS||||||
+|50|ZERO_RESULTS||||||
+|51|ZERO_RESULTS||||||
+|52|OK|Saint-Denis, France||France|Seine-Saint-Denis|93|
+|53|ZERO_RESULTS||||||
+|54|ZERO_RESULTS||||||
+|55|OK|Creil, France||France|Oise|60|
+|56|OK|Toulouse, France||France|Haute-Garonne|31|
+|57|OK|Saint-Jacques-de-la-Lande, France||France|Ille-et-Vilaine|35|
+|58|OK|Loon-Plage, France||France|Nord|59|
+|59|ZERO_RESULTS||||||
+|60|OK|Feignies, France||France|Nord|59|
+|61|OK|Raillencourt-Sainte-Olle, France||France|Nord|59|
+|62|OK|Somain, France||France|Nord|59|
+|63|OK|Cesson-Sévigné, France||France|Ille-et-Vilaine|35|
+|64|ZERO_RESULTS||||||
+|65|OK|Theix, France||France|Morbihan|56|
+|66|OK|Chalon-sur-Saône, France||France|Saône-et-Loire|71|
+|67|OK|Montpellier, France||France|Hérault|34|
+|68|OK|Perpignan, France||France|Pyrénées-Orientales|66|
+|69|ZERO_RESULTS||||||
+|70|OK|Le Havre, France||France|Seine-Maritime|76|
+|71|ZERO_RESULTS||||||
+|72|OK|Saint-Privat-la-Montagne, France||France|Moselle|57|
+|73|OK|Mont-de-Marsan, France||France|Landes|40|
+|74|OK|Bordeaux, France||France|Gironde|33|
+|75|OK|Toulouse, France||France|Haute-Garonne|31|
+|76|OK|Bordeaux, France||France|Gironde|33|
+|77|ZERO_RESULTS||||||
+|78|ZERO_RESULTS||||||
+|79|OK|Saint-Étienne-du-Rouvray, France||France|Seine-Maritime|76|
+|80|OK|Saint-Étienne-du-Rouvray, France||France|Seine-Maritime|76|
+|81|ZERO_RESULTS||||||
+|82|ZERO_RESULTS||||||
+|83|OK|Sotteville-lès-Rouen, France||France|Seine-Maritime|76|
+|84|ZERO_RESULTS||||||
+|85|OK|Joué-lès-Tours, France||France|Indre-et-Loire|Indre-et-Loire|
+|86|OK|Vezin-le-Coquet, France||France|Ille-et-Vilaine|35|
+|87|OK|Saint-Germain-sur-Moine, France||France|Maine-et-Loire|Maine-et-Loire|
+|88|ZERO_RESULTS||||||
+|89|OK|Dunkirk, France||France|Nord|59|
+|90|ZERO_RESULTS||||||
+|91|ZERO_RESULTS||||||
+|92|ZERO_RESULTS||||||
+|93|OK|La Chapelle, 18340 Saint-Germain-des-Bois, France|18340|France|Cher|18|
+|94|ZERO_RESULTS||||||
+|95|OK|Saint-Martin-Boulogne, France||France|Pas-de-Calais|62|
+|96|OK|Alixan, France||France|Drome|26|
+|97|OK|Metz, France||France|Moselle|57|
+|98|OK|Saint-Vallier, France||France|Drome|26|
+|99|OK|St-Priest-en-Jarez, France||France|Loire|42|
+|100|ZERO_RESULTS||||||
+|101|OK|Verrières-le-Buisson, France||France|Essonne|91|
+|102|OK|Saint-Pierre-de-Chandieu, France||France|Rhône|69|
+|103|ZERO_RESULTS||||||
+|104|ZERO_RESULTS||||||
+|105|ZERO_RESULTS||||||
+|106|OK|85170 Belleville-sur-Vie, France|85170|France|Vendee|85|
+|107|OK|Antigny, France||France|Vendee|85|
+|108|OK|85120 Loge-Fougereuse, France|85120|France|Vendee|85|
+|109|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|110|OK|22170 Châtelaudren, France|22170|France|Cotes-d'Armor|22|
+|111|OK|Bordeaux-Mérignac Airport (BOD), Avenue René Cassin, 33700 Mérignac, France|33700|France|Gironde|33|
+|112|OK|72000 Le Mans, France|72000|France|Sarthe|72|
+|113|OK|Bidart, France||France|Pyrénées-Atlantiques|64|
+|114|OK|SM Du Haras National d'Hennebont, Rue Victor Hugo, 56700 Hennebont, France|56700|France|Morbihan|56|
+|115|OK|Couëron, France||France|Loire-Atlantique|44|
+|116|OK|Nersac, France||France|Charente|16|
+|117|OK|Route de Lombia, 64160 Sedze-Maubecq, France|64160|France|Pyrénées-Atlantiques|64|
+|118|OK|Bergerac, France||France|Dordogne|24|
+|119|ZERO_RESULTS||||||
+|120|OK|Vezin-le-Coquet, France||France|Ille-et-Vilaine|35|
+|121|OK|Route de Verrières, 86410 Lhommaizé, France|86410|France|Vienne|86|
+|122|OK|Saint-Germain-sur-Moine, France||France|Maine-et-Loire|Maine-et-Loire|
+|123|ZERO_RESULTS||||||
+|124|OK|Centre Hospitalier de Vitré, 30 Route de Rennes, 35500 Vitré, France|35500|France|Ille-et-Vilaine|35|
+|125|OK|Bizanos, France||France|Pyrénées-Atlantiques|64|
+|126|OK|85170 Belleville-sur-Vie, France|85170|France|Vendee|85|
+|127|OK|Aytré, France||France|Charente-maritime|17|
+|128|ZERO_RESULTS||||||
+|129|OK|Périgueux, France||France|Dordogne|24|
+|130|OK|Niort, France||France|Deux-Sevres|79|
+|131|OK|Castelculier, France||France|Lot-et-Garonne|Lot-et-Garonne|
+|132|OK|Chateau de la Groulais, 4 Allée Olivier V de Clisson, 44130 Blain, France|44130|France|Loire-Atlantique|44|
+|133|OK|Machecoul, France||France|Loire-Atlantique|44|
+|134|OK|Le Poiré-sur-Vie, France||France|Vendee|85|
+|135|OK|Le Rheu, France||France|Ille-et-Vilaine|35|
+|136|OK|Pithiviers-le-Vieil, France||France|Loiret|45|
+|137|OK|Gonfreville-l'Orcher, France||France|Seine-Maritime|76|
+|138|ZERO_RESULTS||||||
+|139|ZERO_RESULTS||||||
+|140|OK|Dijon, France||France|Côte-d'Or|21|
+|141|ZERO_RESULTS||||||
+|142|ZERO_RESULTS||||||
+|143|OK|Vitrolles, France||France|Bouches-du-Rhone|13|
+|144|ZERO_RESULTS||||||
+|145|OK|Seyssins, France||France|Isere|38|
+|146|OK|Loriol-sur-Drôme, France||France|Drome|26|
+|147|OK|Le Muy, France||France|Var|83|
+|148|OK|Voreppe, France||France|Isere|38|
+|149|OK|Cagnes-sur-Mer, France||France|Alpes-Maritimes|06|
+|150|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|151|OK|Santeny, France||France|Val-de-Marne|94|
+|152|OK|Toulouse, France||France|Haute-Garonne|31|
+|153|ZERO_RESULTS||||||
+|154|ZERO_RESULTS||||||
+|155|OK|Vezin-le-Coquet, France||France|Ille-et-Vilaine|35|
+|156|ZERO_RESULTS||||||
+|157|ZERO_RESULTS||||||
+|158|OK|Cranves-Sales, France||France|Haute-Savoie|74|
+|159|OK|La Roche-sur-Foron, France||France|Haute-Savoie|74|
+|160|ZERO_RESULTS||||||
+|161|OK|Saint-Germain-sur-Moine, France||France|Maine-et-Loire|Maine-et-Loire|
+|162|OK|Longvic, France||France|Côte-d'Or|21|
+|163|OK|Dijon, France||France|Côte-d'Or|21|
+|164|OK|Marseille, France||France|Bouches-du-Rhone|13|
+|165|OK|Le Mée-sur-Seine, France||France|Seine-et-Marne|77|
+|166|ZERO_RESULTS||||||
+|167|ZERO_RESULTS||||||
+|168|ZERO_RESULTS||||||
+|169|OK|74140 Douvaine, France|74140|France|Haute-Savoie|74|
+|170|OK|Beffroi, 24 Rue Gontier Patin, 80100 Abbeville, France|80100|France|Somme|80|
+|171|OK|80700 Roye, France|80700|France|Somme|80|
+|172|OK|85170 Belleville-sur-Vie, France|85170|France|Vendee|85|
+|173|OK|Brest, France||France|Finistere|29|
+|174|OK|Brest, France||France|Finistere|29|
+|175|OK|Vezin-le-Coquet, France||France|Ille-et-Vilaine|35|
+|176|ZERO_RESULTS||||||
+|177|OK|Limoges-Bellegarde Airport, 81 Avenue de l'Aéroport, 87100 Limoges, France|87100|France|Haute-Vienne|87|
+|178|OK|Route de Verrières, 86410 Dienné, France|86410|France|Vienne|86|
+|179|OK|Vezin-le-Coquet, France||France|Ille-et-Vilaine|35|
+|180|ZERO_RESULTS||||||
+|181|ZERO_RESULTS||||||
+|182|OK|Perpignan, France||France|Pyrénées-Orientales|66|
+|183|OK|Perpignan, France||France|Pyrénées-Orientales|66|
+|184|OK|11200 Lézignan-Corbières, France|11200|France|Aude|11|
+|185|OK|11400 Castelnaudary, France|11400|France|Aude|11|
+|186|OK|Montpellier, France||France|Hérault|34|
+|187|OK|Vitrolles, France||France|Bouches-du-Rhone|13|
+|188|OK|Clermont-Ferrand, France||France|Puy-de-Dome|63|
+|189|ZERO_RESULTS||||||
+|190|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|191|ZERO_RESULTS||||||
+|192|OK|Joué-lès-Tours, France||France|Indre-et-Loire|Indre-et-Loire|
+|193|OK|Caen – Carpiquet Airport, Route de Caumont, 14650 Carpiquet, France|14650|France|Calvados|14|
+|194|OK|Flavigny-sur-Moselle, France||France|Meurthe-et-Moselle|54|
+|195|OK|9 Route de Châlons, 51800 Sainte-Menehould, France|51800|France|Marne|51|
+|196|OK|Sainte-Menehould, France||France|Marne|51|
+|197|OK|Saint-Memmie, France||France|Marne|51|
+|198|OK|52200 Langres, France|52200|France|Haute-Marne|52|
+|199|OK|52700 Saint-Blin, France|52700|France|Haute-Marne|52|
+|200|OK|52200 Langres, France|52200|France|Haute-Marne|52|
+|201|OK|Saint-Remy-sur-Bussy, France||France|Marne|51|
+|202|OK|Verdun, France||France|Meuse|55|
+|203|ZERO_RESULTS||||||
+|204|ZERO_RESULTS||||||
+|205|ZERO_RESULTS||||||
+|206|OK|Albi, France||France|Tarn|81|
+|207|OK|Luc-la-Primaube, France||France|Aveyron|12|
+|208|OK|Sainte-Geneviève-sur-Argence, France||France|Aveyron|12|
+|209|OK|Sévérac-le-Château, France||France|Aveyron|12|
+|210|ZERO_RESULTS||||||
+|211|OK|Metz, France||France|Moselle|57|
+|212|OK|Metz, France||France|Moselle|57|
+|213|OK|Montpellier, France||France|Hérault|34|
+|214|OK|Juvignac, France||France|Hérault|34|
+|215|ZERO_RESULTS||||||
+|216|OK|Aérodrome Morin - Védrines, 300 Rue Maurice Delpouys, 82000 Montauban, France|82000|France|Tarn-et-Garonne|82|
+|217|OK|Montpellier, France||France|Hérault|34|
+|218|OK|Nimes, France||France|Gard|30|
+|219|OK|Millau, France||France|Aveyron|12|
+|220|ZERO_RESULTS||||||
+|221|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|222|ZERO_RESULTS||||||
+|223|OK|1 Rue de l'Orée du Bois, 80290 Lachapelle, France|80290|France|Somme|80|
+|224|OK|Chateau de la Groulais, 4 Allée Olivier V de Clisson, 44130 Blain, France|44130|France|Loire-Atlantique|44|
+|225|OK|Machecoul, France||France|Loire-Atlantique|44|
+|226|OK|Marais salants de Guérande, Route des Marais, 44350 Guérande, France|44350|France|Loire-Atlantique|44|
+|227|ZERO_RESULTS||||||
+|228|OK|Machecoul, France||France|Loire-Atlantique|44|
+|229|OK|Herbignac, France||France|Loire-Atlantique|44|
+|230|ZERO_RESULTS||||||
+|231|OK|Saumur, France||France|Maine-et-Loire|Maine-et-Loire|
+|232|ZERO_RESULTS||||||
+|233|OK|Saumur, France||France|Maine-et-Loire|Maine-et-Loire|
+|234|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|235|ZERO_RESULTS||||||
+|236|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|237|OK|50800 Villedieu-les-Poêles, France|50800|France|Manche|50|
+|238|ZERO_RESULTS||||||
+|239|OK|I.U.T., 53000 Laval, France|53000|France|Mayenne|53|
+|240|OK|Ferme de Saint-Gilles, 50180 Saint-Gilles, France|50180|France|Manche|50|
+|241|OK|Gorron, France||France|Mayenne|53|
+|242|OK|Cimetière de Valognes, 50700 Valognes, France|50700|France|Manche|50|
+|243|OK|53 La Varenne d'Azé, 41100 Azé, France|41100|France|Loir-et-Cher|41|
+|244|OK|50800 Villedieu-les-Poêles, France|50800|France|Manche|50|
+|245|ZERO_RESULTS||||||
+|246|OK|Périers, France||France|Manche|50|
+|247|ZERO_RESULTS||||||
+|248|OK|Pontorson, France||France|Manche|50|
+|249|OK|61400 Mortagne-au-Perche, France|61400|France|Orne|61|
+|250|OK|61400 Mortagne-au-Perche, France|61400|France|Orne|61|
+|251|OK|Rémalard, France||France|Orne|61|
+|252|ZERO_RESULTS||||||
+|253|ZERO_RESULTS||||||
+|254|ZERO_RESULTS||||||
+|255|OK|Oisseau-le-Petit, France||France|Sarthe|72|
+|256|OK|14 Falaise, 86220 Les Ormes, France|86220|France|Vienne|86|
+|257|ZERO_RESULTS||||||
+|258|OK|Avenue du Teinchurier, 19100 Brive-la-Gaillarde, France|19100|France|Correze|19|
+|259|ZERO_RESULTS||||||
+|260|OK|23800 Colondannes, France|23800|France|Creuse|23|
+|261|OK|Rue de Quety, 57420 Cheminot, France|57420|France|Moselle|57|
+|262|ZERO_RESULTS||||||
+|263|ZERO_RESULTS||||||
+|264|OK|70000 Vesoul, France|70000|France|Haute-Saône|70|
+|265|OK|Saône, France||France|Doubs|25|
+|266|ZERO_RESULTS||||||
+|267|OK|70100 Gray, France|70100|France|Haute-Saône|70|
+|268|OK|23800 Dun-le-Palestel, France|23800|France|Creuse|23|
+|269|OK|Colondannes, France||France|Creuse|23|
+|270|OK|Seilhac, France||France|Correze|19|
+|271|OK|Bonnac-la-Côte, France||France|Haute-Vienne|87|
+|272|ZERO_RESULTS||||||
+|273|OK|Loches, France||France|Indre-et-Loire|Indre-et-Loire|
+|274|ZERO_RESULTS||||||
+|275|ZERO_RESULTS||||||
+|276|ZERO_RESULTS||||||
+|277|ZERO_RESULTS||||||
+|278|OK|Joué-l'Abbé, France||France|Sarthe|72|
+|279|ZERO_RESULTS||||||
+|280|OK|Holiday Villages Le Campoloro, Prunete, 20221 Cervione, France|20221|France|Haute-Corse|2B|
+|281|ZERO_RESULTS||||||
+|282|OK|Muséum d'histoire naturelle de Marseille, Palais Longchamp, Rue Espérandieu, 13004 Marseille, France|13004|France|Bouches-du-Rhone|13|
+|283|ZERO_RESULTS||||||
+|284|OK|58 Voie communale 5 de Corbigny à Cropigny, 58800 Corbigny, France|58800|France|Nievre|58|
+|285|ZERO_RESULTS||||||
+|286|OK|France||France|||
+|287|ZERO_RESULTS||||||
+|288|OK|Flavigny-sur-Moselle, France||France|Meurthe-et-Moselle|54|
+|289|OK|Parc Animalier de Fougerolles Saint-Valbert, 70220 Fougerolles, France|70220|France|Haute-Saône|70|
+|290|ZERO_RESULTS||||||
+|291|OK|Mulhouse, France||France|Haut-Rhin|68|
+|292|OK|220 Avenue de Coulins, 13420 Gémenos, France|13420|France|Bouches-du-Rhone|13|
+|293|OK|Gémenos, France||France|Bouches-du-Rhone|13|
+|294|OK|Vaulx-en-Velin, France||France|Rhône|69|
+|295|OK|42 Rue Sigmund Freud, 69120 Vaulx-en-Velin, France|69120|France|Rhône|69|
+|296|OK|Monthou-sur-Cher, France||France|Loir-et-Cher|41|
+|297|OK|Avenue de Vendôme, 41000 Blois, France|41000|France|Loir-et-Cher|41|
+|298|OK|Monthou-sur-Cher, France||France|Loir-et-Cher|41|
+|299|OK|Blois, France||France|Loir-et-Cher|41|
+|300|OK|Saint-Germain-du-Puy, France||France|Cher|18|
+|301|ZERO_RESULTS||||||
+|302|OK|Culan, France||France|Cher|18|
+|303|OK|85 La Verrie, 44450 Saint-Julien-de-Concelles, France|44450|France|Loire-Atlantique|44|
+|304|OK|France||France|||
+|305|OK|44 Route de Nantes, 44120 Vertou, France|44120|France|Loire-Atlantique|44|
+|306|ZERO_RESULTS||||||
+|307|OK|Eyrans, 33650 Saint-Médard-d'Eyrans, France|33650|France|Gironde|33|
+|308|OK|Rochefort, 17300 Rochefort, France|17300|France|Charente-maritime|17|
+|309|ZERO_RESULTS||||||
+|310|OK|Syndicat des Eaux des Cantons Centre nord de Toulouse, Chemin de Fenouillet, 31200 Toulouse, France|31200|France|Haute-Garonne|31|
+|311|OK|Toulouse, France||France|Haute-Garonne|31|
+|312|OK|Toulouse, France||France|Haute-Garonne|31|
+|313|ZERO_RESULTS||||||
+|314|OK|21000 Dijon, France|21000|France|Côte-d'Or|21|
+|315|ZERO_RESULTS||||||
+|316|OK|Terminiers, France||France|Eure-et-Loir|28|
+|317|OK|Terminiers, France||France|Eure-et-Loir|28|
+|318|ZERO_RESULTS||||||
+|319|OK|Sandillon, France||France|Loiret|45|
+|320|ZERO_RESULTS||||||
+|321|ZERO_RESULTS||||||
+|322|OK|Nourray, France||France|Loir-et-Cher|41|
+|323|ZERO_RESULTS||||||
+|324|OK|Nevers, France||France|Nievre|58|
+|325|OK|Mairie du Coudray, Rue du Gord, 28630 Le Coudray, France|28630|France|Eure-et-Loir|28|
+|326|ZERO_RESULTS||||||
+|327|ZERO_RESULTS||||||
+|328|OK|Monjou, 15800 Jou-sous-Monjou, France|15800|France|Cantal|15|
+|329|ZERO_RESULTS||||||
+|330|OK|Monjou, 15800 Jou-sous-Monjou, France|15800|France|Cantal|15|
+|331|ZERO_RESULTS||||||
+|332|OK|Nantes, France||France|Loire-Atlantique|44|
+|333|OK|Le Rheu, France||France|Ille-et-Vilaine|35|
+|334|OK|Niort, France||France|Deux-Sevres|79|
+|335|OK|105 Rue de la Plaine des Bouchers, 67100 Strasbourg, France|67100|France|Bas-Rhin|67|
+|336|OK|Strasbourg, 67000 Strasbourg, France|67000|France|Bas-Rhin|67|
+|337|OK|Oissel, France||France|Seine-Maritime|76|
+|338|OK|Noyal-Châtillon-sur-Seiche, France||France|Ille-et-Vilaine|35|
+|339|OK|Oissel, France||France|Seine-Maritime|76|
+|340|ZERO_RESULTS||||||
+|341|ZERO_RESULTS||||||
+|342|OK|Université de Nantes - Maison des Échanges Internationaux et de la Francophonie, 44000 Nantes, France|44000|France|Loire-Atlantique|44|
+|343|OK|28500 Mézières-en-Drouais, France|28500|France|Eure-et-Loir|28|
+|344|OK|Landivisiau, France||France|Finistere|29|
+|345|OK|Saint-Évarzec, France||France|Finistere|29|
+|346|ZERO_RESULTS||||||
+|347|OK|Wiwersheim, France||France|Bas-Rhin|67|
+|348|ZERO_RESULTS||||||
+|349|OK|8 Rue de la Gare, 68640 Waldighofen, France|68640|France|Haut-Rhin|68|
+|350|OK|Route de Ribeauvillé, 68150 Ostheim, France|68150|France|Haut-Rhin|68|
+|351|OK|Waldighofen, France||France|Haut-Rhin|68|
+|352|OK|Ostheim, France||France|Haut-Rhin|68|
+|353|OK|Saint-Germain-du-Puy, France||France|Cher|18|
+|354|OK|Saint-Germain-du-Puy, France||France|Cher|18|
+|355|OK|36400 La Châtre, France|36400|France|Indre|36|
+|356|OK|Garchy, France||France|Nievre|58|
+|357|ZERO_RESULTS||||||
+|358|ZERO_RESULTS||||||
+|359|OK|Le Pont-Chrétien-Chabenet, France||France|Indre|36|
+|360|OK|36 Route d'Issoudun, 36100 Issoudun, France|36100|France|Indre|36|
+|361|OK|Route de la Grimaudière, 86330 La Grimaudière, France|86330|France|Vienne|86|
+|362|OK|Route de la Grimaudière, 86330 La Grimaudière, France|86330|France|Vienne|86|
+|363|OK|Iteuil, France||France|Vienne|86|
+|364|OK|84 Avenue Jean Jaurès, 69600 Oullins, France|69600|France|Rhône|69|
+|365|OK|Oullins, France||France|Rhône|69|
+|366|OK|Beaurepaire, France||France|Isere|38|
+|367|OK|Office du Tourisme Territoire de Beaurepaire, 24 Avenue des Terreaux, 38270 Beaurepaire, France|38270|France|Isere|38|
+|368|OK|Ruy, France||France|Isere|38|
+|369|ZERO_RESULTS||||||
+|370|OK|Le Havre - Octeville Airport (LEH), Rue Louis Blériot, 76620 Le Havre, France|76620|France|Seine-Maritime|76|
+|371|ZERO_RESULTS||||||
+|372|OK|León, Guanajuato, Mexico||Mexico|||
+|373|ZERO_RESULTS||||||
+|374|ZERO_RESULTS||||||
+|375|OK|Pithiviers-le-Vieil, France||France|Loiret|45|
+|376|OK|Douchy, France||France|Loiret|45|
+|377|OK|Creil, France||France|Oise|60|
+|378|OK|Pithiviers-le-Vieil, France||France|Loiret|45|
+|379|OK|Milly-la-Forêt, France||France|Essonne|91|
+|380|ZERO_RESULTS||||||
+|381|ZERO_RESULTS||||||
+|382|ZERO_RESULTS||||||
+|383|OK|Lézinnes, France||France|Yonne|89|
+|384|ZERO_RESULTS||||||
+|385|OK|Bénesse-lès-Dax, France||France|Landes|40|
+|386|OK|Libourne, France||France|Gironde|33|
+|387|OK|Libourne, France||France|Gironde|33|
+|388|OK|Toulenne, France||France|Gironde|33|
+|389|OK|Craponne-sur-Arzon, France||France|Haute-Loire|43|
+|390|ZERO_RESULTS||||||
+|391|OK|Craponne-sur-Arzon, France||France|Haute-Loire|43|
+|392|OK|Costaros, France||France|Haute-Loire|43|
+|393|ZERO_RESULTS||||||
+|394|ZERO_RESULTS||||||
+|395|OK|16 Rue du Maréchal Lefebvre, 67100 Strasbourg, France|67100|France|Bas-Rhin|67|
+|396|OK|60800 Duvy, France|60800|France|Oise|60|
+|397|ZERO_RESULTS||||||
+|398|OK|Trappes, France||France|Yvelines|78|
+|399|OK|Fretin, France||France|Nord|59|
+|400|OK|Saint-Herblain, France||France|Loire-Atlantique|44|
+|401|OK|Chemaudin, France||France|Doubs|25|
+|402|OK|Loos-en-Gohelle, France||France|Pas-de-Calais|62|
+|403|OK|83 Route de Toulon, 83200 Toulon, France|83200|France|Var|83|
+|404|OK|Collégien, France||France|Seine-et-Marne|77|
+|405|OK|Jaux, France||France|Oise|60|
+|406|ZERO_RESULTS||||||
+|407|OK|MZ Voyages Villeneuve, 10 Rue Henri Leduc, 94190 Villeneuve-Saint-Georges, France|94190|France|Val-de-Marne|94|
+|408|OK|33 Avenue de Mérignac, 33200 Mérignac, France|33200|France|Gironde|33|
+|409|OK|Montoir Centre, 44550 Montoir-de-Bretagne, France|44550|France|Loire-Atlantique|44|
+|410|OK|Montfavet, 84140 Morières-lès-Avignon, France|84140|France|Vaucluse|84|
+|411|OK|Vendargues, France||France|Hérault|34|
+|412|OK|Loon-Plage, France||France|Nord|59|
+|413|OK|Gennevilliers, 92230 Gennevilliers, France|92230|France|Hauts-de-Seine|92|
+|414|OK|Boulevard du Général de Gaulle, 95190 Goussainville, France|95190|France|Val-d'Oise|95|
+|415|OK|Calais, France||France|Pas-de-Calais|62|
+|416|OK|Quimper, France||France|Finistere|29|
+|417|OK|Rochefort, 17300 Rochefort, France|17300|France|Charente-maritime|17|
+|418|OK|Aérodrome de Niort - Souché (NIT), 79000 Niort, France|79000|France|Deux-Sevres|79|
+|419|OK|Toulouse, France||France|Haute-Garonne|31|
+|420|ZERO_RESULTS||||||
+|421|OK|Albi, France||France|Tarn|81|
+|422|OK|Muséum d'histoire naturelle de Marseille, Palais Longchamp, Rue Espérandieu, 13004 Marseille, France|13004|France|Bouches-du-Rhone|13|
+|423|OK|Office de Tourisme de Narbonne, 31 Rue Jean Jaurès, 11100 Narbonne, France|11100|France|Aude|11|
+|424|OK|Trith-Saint-Léger, France||France|Nord|59|
+|425|ZERO_RESULTS||||||
+|426|OK|Les Ponts-de-Cé, France||France|Maine-et-Loire|Maine-et-Loire|
+|427|OK|Portet-sur-Garonne, France||France|Haute-Garonne|31|
+|428|OK|Chassieu, France||France|Rhône|69|
+|429|OK|Creil, France||France|Oise|60|
+|430|OK|Somain, France||France|Nord|59|
+|431|OK|Jaunay-Clan, France||France|Vienne|86|
+|432|OK|Z.A Artigues, 33370 Artigues-près-Bordeaux, France|33370|France|Gironde|33|
+|433|OK|La Roche-sur-Yon, France||France|Vendee|85|
+|434|OK|Montpellier, France||France|Hérault|34|
+|435|OK|Cesson-Sévigné, France||France|Ille-et-Vilaine|35|
+|436|ZERO_RESULTS||||||
+|437|OK|Perpignan, France||France|Pyrénées-Orientales|66|
+|438|ZERO_RESULTS||||||
+|439|OK|Limoges-Bellegarde Airport, 81 Avenue de l'Aéroport, 87100 Limoges, France|87100|France|Haute-Vienne|87|
+|440|OK|Amiens, France||France|Somme|80|
+|441|ZERO_RESULTS||||||
+|442|OK|Mâcon, France||France|Saône-et-Loire|71|
+|443|OK|Dardilly, France||France|Rhône|69|
+|444|ZERO_RESULTS||||||
+|445|OK|Boulevard de l'Europe, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|446|OK|Beauvais-Tillé Airport, 60000 Beauvais|60000|France|Oise|Oise|
+|447|OK|Frontignan, France||France|Hérault|34|
+|448|OK|Béziers Aventure, Bois de Bourbaki, Route de Bessan D28, 34500 Béziers, France|34500|France|Hérault|34|
+|449|OK|Périgueux, France||France|Dordogne|24|
+|450|OK|Marsannay-la-Côte, France||France|Côte-d'Or|21|
+|451|ZERO_RESULTS||||||
+|452|OK|60800 Duvy, France|60800|France|Oise|60|
+|453|ZERO_RESULTS||||||
+|454|OK|340 Avenue de la Marne, 59700 Marcq-en-Barœul, France|59700|France|Nord|59|
+|455|OK|Manosque, France||France|Alpes-de-Haute-Provence|04|
+|456|ZERO_RESULTS||||||
+|457|OK|Saint-Doulchard, France||France|Cher|18|
+|458|OK|Chambray-lès-Tours, France||France|Indre-et-Loire|Indre-et-Loire|
+|459|OK|Lampertheim, France||France|Bas-Rhin|67|
+|460|ZERO_RESULTS||||||
+|461|OK|Montpellier, France||France|Hérault|34|
+|462|OK|Talange, France||France|Moselle|57|
+|463|OK|Nanterre, France||France|Hauts-de-Seine|92|
+|464|OK|Cesson-Sévigné, France||France|Ille-et-Vilaine|35|
+|465|OK|Aérodrome de Lognes (XLG), 77185 Lognes, France|77185|France|Seine-et-Marne|77|
+|466|ZERO_RESULTS||||||
+|467|OK|Sotteville-sous-le-Val, France||France|Seine-Maritime|76|
+|468|OK|Karting Kart Thiais, 2 Avenue du Docteur Marie, 94320 Thiais, France|94320|France|Val-de-Marne|94|
+|469|OK|Chassieu, France||France|Rhône|69|
+|470|ZERO_RESULTS||||||
+|471|OK|Fenouillet, France||France|Haute-Garonne|31|
+|472|OK|1451 Chemin de la Plaine, 06250 Mougins, France|06250|France|Alpes-Maritimes|06|
+|473|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|474|ZERO_RESULTS||||||
+|475|OK|Besançon, France||France|Doubs|25|
+|476|ZERO_RESULTS||||||
+|477|OK|Pérols, France||France|Hérault|34|
+|478|OK|Lescar, France||France|Pyrénées-Atlantiques|64|
+|479|OK|Le Havre, France||France|Seine-Maritime|76|
+|480|OK|Boulazac, France||France|Dordogne|24|
+|481|OK|Cormontreuil, France||France|Marne|51|
+|482|OK|Anglet, France||France|Pyrénées-Atlantiques|64|
+|483|OK|La Valette-du-Var, France||France|Var|83|
+|484|OK|60800 Duvy, France|60800|France|Oise|60|
+|485|OK|42 Avenue de la Perrière, 56100 Lorient, France|56100|France|Morbihan|56|
+|486|ZERO_RESULTS||||||
+|487|OK|60800 Duvy, France|60800|France|Oise|60|
+|488|ZERO_RESULTS||||||
+|489|OK|112 Avenue Daumesnil, 75012 Paris, France|75012|France|Paris|75|
+|490|OK|60800 Duvy, France|60800|France|Oise|60|
+|491|OK|134 Avenue Aristide Briand, 92220 Bagneux, France|92220|France|Hauts-de-Seine|92|
+|492|OK|60800 Duvy, France|60800|France|Oise|60|
+|493|ZERO_RESULTS||||||
+|494|OK|Quimper, France||France|Finistere|29|
+|495|OK|80 Route de Steendam, 59210 Coudekerque-Branche, France|59210|France|Nord|59|
+|496|OK|1491 Avenue du Maréchal Juin, 40000 Mont-de-Marsan, France|40000|France|Landes|40|
+|497|OK|Mont-de-Marsan, France||France|Landes|40|
+|498|OK|63 Boulevard de Thibaud, 31100 Toulouse, France|31100|France|Haute-Garonne|31|
+|499|OK|Bayonne, France||France|Pyrénées-Atlantiques|64|
+|500|OK|Bayonne, France||France|Pyrénées-Atlantiques|64|
+|501|OK|Mont-de-Marsan, France||France|Landes|40|
+|502|OK|Laxou, France||France|Meurthe-et-Moselle|54|
+|503|ZERO_RESULTS||||||
+|504|ZERO_RESULTS||||||
+|505|OK|Laxou, France||France|Meurthe-et-Moselle|54|
+|506|OK|Rozerotte, France||France|Vosges|88|
+|507|ZERO_RESULTS||||||
+|508|OK|Avenue de Virecourt, 54290 Virecourt, France|54290|France|Meurthe-et-Moselle|54|
+|509|ZERO_RESULTS||||||
+|510|OK|Golbey, France||France|Vosges|88|
+|511|ZERO_RESULTS||||||
+|512|ZERO_RESULTS||||||
+|513|OK|16 Quai d'Orival, 76410 Saint-Aubin-lès-Elbeuf, France|76410|France|Seine-Maritime|76|
+|514|OK|Libourne, France||France|Gironde|33|
+|515|OK|Pugnac, France||France|Gironde|33|
+|516|OK|Toulenne, France||France|Gironde|33|
+|517|OK|Libourne, France||France|Gironde|33|
+|518|ZERO_RESULTS||||||
+|519|ZERO_RESULTS||||||
+|520|ZERO_RESULTS||||||
+|521|ZERO_RESULTS||||||
+|522|ZERO_RESULTS||||||
+|523|ZERO_RESULTS||||||
+|524|ZERO_RESULTS||||||
+|525|ZERO_RESULTS||||||
+|526|OK|Châteaubernard, France||France|Charente|16|
+|527|OK|Pauillac, France||France|Gironde|33|
+|528|OK|16 Quai d'Orival, 76410 Saint-Aubin-lès-Elbeuf, France|76410|France|Seine-Maritime|76|
+|529|ZERO_RESULTS||||||
+|530|OK|Onjon, France||France|Aube|10|
+|531|OK|67430 Diemeringen, France|67430|France|Bas-Rhin|67|
+|532|ZERO_RESULTS||||||
+|533|OK|Diemeringen, 67430 Diemeringen, France|67430|France|Bas-Rhin|67|
+|534|OK|Clermont-Ferrand, France||France|Puy-de-Dome|63|
+|535|OK|Saint-Pourçain-sur-Sioule, France||France|Allier|03|
+|536|OK|La Croix des Mottes, 03440 Buxières-les-Mines, France|03440|France|Allier|03|
+|537|OK|Buxières-les-Mines, France||France|Allier|03|
+|538|OK|Montbeugny, France||France|Allier|03|
+|539|ZERO_RESULTS||||||
+|540|OK|60800 Duvy, France|60800|France|Oise|60|
+|541|OK|France||France|||
+|542|OK|Périgny, France||France|Charente-maritime|17|
+|543|OK|Couëron, France||France|Loire-Atlantique|44|
+|544|OK|Niort, France||France|Deux-Sevres|79|
+|545|OK|17 Grande Rue de Périgny, 17180 Périgny, France|17180|France|Charente-maritime|17|
+|546|ZERO_RESULTS||||||
+|547|OK|17 Grande Rue de Périgny, 17180 Périgny, France|17180|France|Charente-maritime|17|
+|548|ZERO_RESULTS||||||
+|549|OK|Treillières, France||France|Loire-Atlantique|44|
+|550|OK|Aérodrome de Niort - Souché (NIT), 79000 Niort, France|79000|France|Deux-Sevres|79|
+|551|OK|Saintes, France||France|Charente-maritime|17|
+|552|OK|Périgny, France||France|Charente-maritime|17|
+|553|OK|85170 Belleville-sur-Vie, France|85170|France|Vendee|85|
+|554|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|555|ZERO_RESULTS||||||
+|556|OK|Bizanos, France||France|Pyrénées-Atlantiques|64|
+|557|OK|Nersac, France||France|Charente|16|
+|558|ZERO_RESULTS||||||
+|559|OK|Alixan, France||France|Drome|26|
+|560|ZERO_RESULTS||||||
+|561|OK|Metz, France||France|Moselle|57|
+|562|OK|Machecoul, France||France|Loire-Atlantique|44|
+|563|OK|Machecoul, France||France|Loire-Atlantique|44|
+|564|OK|13200 Arles, France|13200|France|Bouches-du-Rhone|13|
+|565|OK|Arles, France||France|Bouches-du-Rhone|13|
+|566|ZERO_RESULTS||||||
+|567|ZERO_RESULTS||||||
+|568|ZERO_RESULTS||||||
+|569|ZERO_RESULTS||||||
+|570|OK|52 Avenue François Arago, 92000 Nanterre, France|92000|France|Hauts-de-Seine|92|
+|571|OK|Bénesse-lès-Dax, France||France|Landes|40|
+|572|OK|64300 Castétis, France|64300|France|Pyrénées-Atlantiques|64|
+|573|OK|Vic-en-Bigorre, France||France|Hautes-Pyrénées|65|
+|574|OK|Espoey, France||France|Pyrénées-Atlantiques|64|
+|575|OK|Bénesse-lès-Dax, France||France|Landes|40|
+|576|ZERO_RESULTS||||||
+|577|OK|Bénesse-lès-Dax, France||France|Landes|40|
+|578|OK|Lillebonne, France||France|Seine-Maritime|76|
+|579|ZERO_RESULTS||||||
+|580|ZERO_RESULTS||||||
+|581|ZERO_RESULTS||||||
+|582|OK|Pléboulle, France||France|Cotes-d'Armor|22|
+|583|ZERO_RESULTS||||||
+|584|OK|Pléboulle, France||France|Cotes-d'Armor|22|
+|585|OK|Pontivy, France||France|Morbihan|56|
+|586|OK|Plouédern, France||France|Finistere|29|
+|587|OK|Saint-Évarzec, France||France|Finistere|29|
+|588|OK|56500 Locminé, France|56500|France|Morbihan|56|
+|589|OK|Rue de Pontivy, 22600 Loudéac, France|22600|France|Cotes-d'Armor|22|
+|590|OK|Broons, France||France|Cotes-d'Armor|22|
+|591|OK|Lillebonne, France||France|Seine-Maritime|76|
+|592|OK|Brest, France||France|Finistere|29|
+|593|OK|Riom, France||France|Puy-de-Dome|63|
+|594|ZERO_RESULTS||||||
+|595|OK|Route de la Zone Nord, 01340 Cras-sur-Reyssouze, France|01340|France|Ain|01|
+|596|OK|Cras-sur-Reyssouze, France||France|Ain|01|
+|597|OK|01190 Gorrevod, France|01190|France|Ain|01|
+|598|OK|Villeneuve, France||France|Ain|01|
+|599|ZERO_RESULTS||||||
+|600|OK|71120 Vendenesse-lès-Charolles, France|71120|France|Saône-et-Loire|71|
+|601|OK|Auxonne, France||France|Côte-d'Or|21|
+|602|OK|Auxonne, France||France|Côte-d'Or|21|
+|603|OK|Perreux, France||France|Loire|42|
+|604|OK|Perreux, France||France|Loire|42|
+|605|ZERO_RESULTS||||||
+|606|OK|98 Rue de la République, 69310 Pierre-Bénite, France|69310|France|Rhône|69|
+|607|ZERO_RESULTS||||||
+|608|ZERO_RESULTS||||||
+|609|ZERO_RESULTS||||||
+|610|ZERO_RESULTS||||||
+|611|OK|Seyssins, France||France|Isere|38|
+|612|OK|Loriol-sur-Drôme, France||France|Drome|26|
+|613|OK|Le Muy, France||France|Var|83|
+|614|OK|Voreppe, France||France|Isere|38|
+|615|OK|Cagnes-sur-Mer, France||France|Alpes-Maritimes|06|
+|616|OK|Vitrolles, France||France|Bouches-du-Rhone|13|
+|617|OK|Santeny, France||France|Val-de-Marne|94|
+|618|OK|Toulouse, France||France|Haute-Garonne|31|
+|619|ZERO_RESULTS||||||
+|620|OK|21000 Dijon, France|21000|France|Côte-d'Or|21|
+|621|OK|Couëron, France||France|Loire-Atlantique|44|
+|622|ZERO_RESULTS||||||
+|623|ZERO_RESULTS||||||
+|624|OK|Pithiviers-le-Vieil, France||France|Loiret|45|
+|625|OK|Arles, France||France|Bouches-du-Rhone|13|
+|626|OK|Aérodrome de Chelles-le Pin, 77500 Chelles, France|77500|France|Seine-et-Marne|77|
+|627|OK|Saint-Privat-la-Montagne, France||France|Moselle|57|
+|628|OK|Bruges, Belgium||Belgium|West Flanders|WV|
+|629|OK|68600 Volgelsheim, France|68600|France|Haut-Rhin|68|
+|630|OK|Route du Haut Koenigsbourg, 67600 Sélestat, France|67600|France|Bas-Rhin|67|
+|631|OK|The Hague, The Netherlands||The Netherlands|The Hague|The Hague|
+|632|OK|The Hague, The Netherlands||The Netherlands|The Hague|The Hague|
+|633|ZERO_RESULTS||||||
+|634|OK|Flavigny-sur-Moselle, France||France|Meurthe-et-Moselle|54|
+|635|OK|Parc Animalier de Fougerolles Saint-Valbert, 70220 Fougerolles, France|70220|France|Haute-Saône|70|
+|636|OK|Molsheim, France||France|Bas-Rhin|67|
+|637|OK|21200 Levernois, France|21200|France|Côte-d'Or|21|
+|638|INVALID_REQUEST||||||
+|639|OK|Antigny, France||France|Vendee|85|
+|640|OK|85120 Loge-Fougereuse, France|85120|France|Vendee|85|
+|641|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|642|OK|22170 Châtelaudren, France|22170|France|Cotes-d'Armor|22|
+|643|OK|Bordeaux-Mérignac Airport (BOD), Avenue René Cassin, 33700 Mérignac, France|33700|France|Gironde|33|
+|644|OK|72000 Le Mans, France|72000|France|Sarthe|72|
+|645|ZERO_RESULTS||||||
+|646|OK|SM Du Haras National d'Hennebont, Rue Victor Hugo, 56700 Hennebont, France|56700|France|Morbihan|56|
+|647|OK|Couëron, France||France|Loire-Atlantique|44|
+|648|OK|Nersac, France||France|Charente|16|
+|649|OK|Route de Lombia, 64160 Sedze-Maubecq, France|64160|France|Pyrénées-Atlantiques|64|
+|650|OK|Bergerac, France||France|Dordogne|24|
+|651|ZERO_RESULTS||||||
+|652|OK|Vezin-le-Coquet, France||France|Ille-et-Vilaine|35|
+|653|OK|Route de Verrières, 86410 Lhommaizé, France|86410|France|Vienne|86|
+|654|OK|Saint-Germain-sur-Moine, France||France|Maine-et-Loire|Maine-et-Loire|
+|655|ZERO_RESULTS||||||
+|656|OK|Centre Hospitalier de Vitré, 30 Route de Rennes, 35500 Vitré, France|35500|France|Ille-et-Vilaine|35|
+|657|OK|Bizanos, France||France|Pyrénées-Atlantiques|64|
+|658|OK|85170 Belleville-sur-Vie, France|85170|France|Vendee|85|
+|659|OK|Aytré, France||France|Charente-maritime|17|
+|660|ZERO_RESULTS||||||
+|661|OK|Périgueux, France||France|Dordogne|24|
+|662|OK|Niort, France||France|Deux-Sevres|79|
+|663|OK|Castelculier, France||France|Lot-et-Garonne|Lot-et-Garonne|
+|664|OK|Chateau de la Groulais, 4 Allée Olivier V de Clisson, 44130 Blain, France|44130|France|Loire-Atlantique|44|
+|665|OK|Machecoul, France||France|Loire-Atlantique|44|
+|666|OK|Le Poiré-sur-Vie, France||France|Vendee|85|
+|667|ZERO_RESULTS||||||
+|668|OK|Pithiviers-le-Vieil, France||France|Loiret|45|
+|669|OK|Gonfreville-l'Orcher, France||France|Seine-Maritime|76|
+|670|OK|Bon-Encontre, France||France|Lot-et-Garonne|Lot-et-Garonne|
+|671|OK|Vitrolles, France||France|Bouches-du-Rhone|13|
+|672|ZERO_RESULTS||||||
+|673|OK|Saint-Étienne-du-Rouvray, France||France|Seine-Maritime|76|
+|674|OK|Carpiquet, France||France|Calvados|14|
+|675|ZERO_RESULTS||||||
+|676|OK|Coulommiers, 77120 Coulommiers, France|77120|France|Seine-et-Marne|77|
+|677|OK|Montsoult, France||France|Val-d'Oise|95|
+|678|OK|Meaux, 77100 Meaux, France|77100|France|Seine-et-Marne|77|
+|679|OK|Saint-Privat-la-Montagne, France||France|Moselle|57|
+|680|OK|Villaines-sous-Bois, France||France|Val-d'Oise|95|
+|681|ZERO_RESULTS||||||
+|682|ZERO_RESULTS||||||
+|683|ZERO_RESULTS||||||
+|684|OK|Niort, France||France|Deux-Sevres|79|
+|685|OK|Limoges-Bellegarde Airport, 81 Avenue de l'Aéroport, 87100 Limoges, France|87100|France|Haute-Vienne|87|
+|686|OK|Sainte-Menehould, France||France|Marne|51|
+|687|OK|Culan, France||France|Cher|18|
+|688|OK|Culan, France||France|Cher|18|
+|689|ZERO_RESULTS||||||
+|690|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|691|OK|Le Poiré-sur-Vie, France||France|Vendee|85|
+|692|OK|60800 Duvy, France|60800|France|Oise|60|
+|693|OK|Saint-Remy-sur-Bussy, France||France|Marne|51|
+|694|OK|Couëron, France||France|Loire-Atlantique|44|
+|695|ZERO_RESULTS||||||
+|696|ZERO_RESULTS||||||
+|697|ZERO_RESULTS||||||
+|698|ZERO_RESULTS||||||
+|699|ZERO_RESULTS||||||
+|700|ZERO_RESULTS||||||
+|701|OK|Saint-Denis, France||France|Seine-Saint-Denis|93|
+|702|ZERO_RESULTS||||||
+|703|ZERO_RESULTS||||||
+|704|OK|Creil, France||France|Oise|60|
+|705|OK|Toulouse, France||France|Haute-Garonne|31|
+|706|OK|Saint-Jacques-de-la-Lande, France||France|Ille-et-Vilaine|35|
+|707|OK|Loon-Plage, France||France|Nord|59|
+|708|ZERO_RESULTS||||||
+|709|OK|Feignies, France||France|Nord|59|
+|710|OK|Raillencourt-Sainte-Olle, France||France|Nord|59|
+|711|OK|Somain, France||France|Nord|59|
+|712|OK|Cesson-Sévigné, France||France|Ille-et-Vilaine|35|
+|713|ZERO_RESULTS||||||
+|714|OK|Theix, France||France|Morbihan|56|
+|715|OK|Chalon-sur-Saône, France||France|Saône-et-Loire|71|
+|716|OK|Montpellier, France||France|Hérault|34|
+|717|OK|Perpignan, France||France|Pyrénées-Orientales|66|
+|718|ZERO_RESULTS||||||
+|719|OK|Le Havre, France||France|Seine-Maritime|76|
+|720|ZERO_RESULTS||||||
+|721|OK|Saint-Privat-la-Montagne, France||France|Moselle|57|
+|722|OK|Mont-de-Marsan, France||France|Landes|40|
+|723|OK|Bordeaux, France||France|Gironde|33|
+|724|OK|Toulouse, France||France|Haute-Garonne|31|
+|725|OK|Bordeaux, France||France|Gironde|33|
+|726|ZERO_RESULTS||||||
+|727|OK|Mérignac, France||France|Gironde|33|
+|728|OK|Boulazac, France||France|Dordogne|24|
+|729|OK|Bergerac, France||France|Dordogne|24|
+|730|OK|Le Mans, France||France|Sarthe|72|
+|731|OK|Pau, France||France|Pyrénées-Atlantiques|64|
+|732|ZERO_RESULTS||||||
+|733|OK|Saint-Geours-de-Maremne, France||France|Landes|40|
+|734|ZERO_RESULTS||||||
+|735|ZERO_RESULTS||||||
+|736|ZERO_RESULTS||||||
+|737|ZERO_RESULTS||||||
+|738|ZERO_RESULTS||||||
+|739|ZERO_RESULTS||||||
+|740|ZERO_RESULTS||||||
+|741|ZERO_RESULTS||||||
+|742|ZERO_RESULTS||||||
+|743|ZERO_RESULTS||||||
+|744|ZERO_RESULTS||||||
+|745|ZERO_RESULTS||||||
+|746|ZERO_RESULTS||||||
+|747|ZERO_RESULTS||||||
+|748|ZERO_RESULTS||||||
+|749|ZERO_RESULTS||||||
+|750|ZERO_RESULTS||||||
+|751|ZERO_RESULTS||||||
+|752|ZERO_RESULTS||||||
+|753|ZERO_RESULTS||||||
+|754|ZERO_RESULTS||||||
+|755|ZERO_RESULTS||||||
+|756|ZERO_RESULTS||||||
+|757|ZERO_RESULTS||||||
+|758|ZERO_RESULTS||||||
+|759|ZERO_RESULTS||||||
+|760|ZERO_RESULTS||||||
+|761|ZERO_RESULTS||||||
+|762|ZERO_RESULTS||||||
+|763|ZERO_RESULTS||||||
+|764|ZERO_RESULTS||||||
+|765|ZERO_RESULTS||||||
+|766|ZERO_RESULTS||||||
+|767|ZERO_RESULTS||||||
+|768|ZERO_RESULTS||||||
+|769|ZERO_RESULTS||||||
+|770|ZERO_RESULTS||||||
+|771|ZERO_RESULTS||||||
+|772|ZERO_RESULTS||||||
+|773|ZERO_RESULTS||||||
+|774|ZERO_RESULTS||||||
+|775|ZERO_RESULTS||||||
+|776|ZERO_RESULTS||||||
+|777|ZERO_RESULTS||||||
+|778|ZERO_RESULTS||||||
+|779|ZERO_RESULTS||||||
+|780|ZERO_RESULTS||||||
+|781|ZERO_RESULTS||||||
+|782|ZERO_RESULTS||||||
+|783|ZERO_RESULTS||||||
+|784|ZERO_RESULTS||||||
+|785|ZERO_RESULTS||||||
+|786|ZERO_RESULTS||||||
+|787|ZERO_RESULTS||||||
+|788|ZERO_RESULTS||||||
+|789|ZERO_RESULTS||||||
+|790|OK|Saint-Avold, France||France|Moselle|57|
+|791|ZERO_RESULTS||||||
+|792|ZERO_RESULTS||||||
+|793|ZERO_RESULTS||||||
+|794|ZERO_RESULTS||||||
+|795|OK|Les Mureaux, France||France|Yvelines|78|
+|796|ZERO_RESULTS||||||
+|797|ZERO_RESULTS||||||
+|798|ZERO_RESULTS||||||
+|799|ZERO_RESULTS||||||
+|800|ZERO_RESULTS||||||
+|801|ZERO_RESULTS||||||
+|802|ZERO_RESULTS||||||
+|803|ZERO_RESULTS||||||
+|804|ZERO_RESULTS||||||
+|805|ZERO_RESULTS||||||
+|806|ZERO_RESULTS||||||
+|807|ZERO_RESULTS||||||
+|808|ZERO_RESULTS||||||
+|809|ZERO_RESULTS||||||
+|810|ZERO_RESULTS||||||
+|811|ZERO_RESULTS||||||
+|812|ZERO_RESULTS||||||
+|813|ZERO_RESULTS||||||
+|814|ZERO_RESULTS||||||
+|815|ZERO_RESULTS||||||
+|816|ZERO_RESULTS||||||
+|817|ZERO_RESULTS||||||
+|818|ZERO_RESULTS||||||
+|819|ZERO_RESULTS||||||
+|820|ZERO_RESULTS||||||
+|821|ZERO_RESULTS||||||
+|822|ZERO_RESULTS||||||
+|823|ZERO_RESULTS||||||
+|824|ZERO_RESULTS||||||
+|825|ZERO_RESULTS||||||
+|826|OK|Le Mesnil-Amelot, France||France|Seine-et-Marne|77|
+|827|ZERO_RESULTS||||||
+|828|ZERO_RESULTS||||||
+|829|ZERO_RESULTS||||||
+|830|ZERO_RESULTS||||||
+|831|ZERO_RESULTS||||||
+|832|ZERO_RESULTS||||||
+|833|ZERO_RESULTS||||||
+|834|ZERO_RESULTS||||||
+|835|OK|Saint-Avold, France||France|Moselle|57|
+|836|ZERO_RESULTS||||||
+|837|ZERO_RESULTS||||||
+|838|ZERO_RESULTS||||||
+|839|ZERO_RESULTS||||||
+|840|ZERO_RESULTS||||||
+|841|ZERO_RESULTS||||||
+|842|ZERO_RESULTS||||||
+|843|ZERO_RESULTS||||||
+|844|ZERO_RESULTS||||||
+|845|ZERO_RESULTS||||||
+|846|ZERO_RESULTS||||||
+|847|ZERO_RESULTS||||||
+|848|ZERO_RESULTS||||||
+|849|ZERO_RESULTS||||||
+|850|ZERO_RESULTS||||||
+|851|ZERO_RESULTS||||||
+|852|ZERO_RESULTS||||||
+|853|ZERO_RESULTS||||||
+|854|ZERO_RESULTS||||||
+|855|ZERO_RESULTS||||||
+|856|ZERO_RESULTS||||||
+|857|ZERO_RESULTS||||||
+|858|ZERO_RESULTS||||||
+|859|ZERO_RESULTS||||||
+|860|ZERO_RESULTS||||||
+|861|ZERO_RESULTS||||||
+|862|ZERO_RESULTS||||||
+|863|ZERO_RESULTS||||||
+|864|ZERO_RESULTS||||||
+|865|ZERO_RESULTS||||||
+|866|ZERO_RESULTS||||||
+|867|ZERO_RESULTS||||||
+|868|ZERO_RESULTS||||||
+|869|ZERO_RESULTS||||||
+|870|ZERO_RESULTS||||||
+|871|ZERO_RESULTS||||||
+|872|ZERO_RESULTS||||||
+|873|ZERO_RESULTS||||||
+|874|ZERO_RESULTS||||||
+|875|ZERO_RESULTS||||||
+|876|ZERO_RESULTS||||||
+|877|ZERO_RESULTS||||||
+|878|ZERO_RESULTS||||||
+|879|ZERO_RESULTS||||||
+|880|ZERO_RESULTS||||||
+|881|ZERO_RESULTS||||||
+|882|ZERO_RESULTS||||||
+|883|ZERO_RESULTS||||||
+|884|ZERO_RESULTS||||||
+|885|ZERO_RESULTS||||||
+|886|ZERO_RESULTS||||||
+|887|ZERO_RESULTS||||||
+|888|ZERO_RESULTS||||||
+|889|ZERO_RESULTS||||||
+|890|ZERO_RESULTS||||||
+|891|ZERO_RESULTS||||||
+|892|ZERO_RESULTS||||||
+|893|ZERO_RESULTS||||||
+|894|ZERO_RESULTS||||||
+|895|ZERO_RESULTS||||||
+|896|ZERO_RESULTS||||||
+|897|ZERO_RESULTS||||||
+|898|ZERO_RESULTS||||||
+|899|ZERO_RESULTS||||||
+|900|ZERO_RESULTS||||||
+|901|ZERO_RESULTS||||||
+|902|ZERO_RESULTS||||||
+|903|ZERO_RESULTS||||||
+|904|ZERO_RESULTS||||||
+|905|ZERO_RESULTS||||||
+|906|ZERO_RESULTS||||||
+|907|ZERO_RESULTS||||||
+|908|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|909|OK|Feignies, France||France|Nord|59|
+|910|OK|Aubervilliers, France||France|Seine-Saint-Denis|93|
+|911|OK|Saint-Fons, France||France|Rhône|69|
+|912|OK|Chassieu, France||France|Rhône|69|
+|913|ZERO_RESULTS||||||
+|914|OK|La Chapelle-Saint-Luc, France||France|Aube|10|
+|915|ZERO_RESULTS||||||
+|916|ZERO_RESULTS||||||
+|917|ZERO_RESULTS||||||
+|918|OK|Aytré, France||France|Charente-maritime|17|
+|919|OK|Toulouse, France||France|Haute-Garonne|31|
+|920|ZERO_RESULTS||||||
+|921|ZERO_RESULTS||||||
+|922|OK|Alençon, France||France|Orne|61|
+|923|ZERO_RESULTS||||||
+|924|ZERO_RESULTS||||||
+|925|ZERO_RESULTS||||||
+|926|OK|Vallorbe, 1337 Vallorbe, Switzerland|1337|Switzerland|||
+|927|ZERO_RESULTS||||||
+|928|ZERO_RESULTS||||||
+|929|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|930|OK|Dunkirk, France||France|Nord|59|
+|931|OK|Office de Tourisme de Chateaudun, 1 Rue de Luynes, 28200 Châteaudun, France|28200|France|Eure-et-Loir|28|
+|932|ZERO_RESULTS||||||
+|933|OK|Cadaujac, 33140 Cadaujac, France|33140|France|Gironde|33|
+|934|ZERO_RESULTS||||||
+|935|ZERO_RESULTS||||||
+|936|OK|Limoges, France||France|Haute-Vienne|87|
+|937|ZERO_RESULTS||||||
+|938|OK|Juvignac, France||France|Hérault|34|
+|939|OK|Macon, GA, USA||United States|Bibb|Bibb|
+|940|OK|Centre Hospitalier de Vitré, 30 Route de Rennes, 35500 Vitré, France|35500|France|Ille-et-Vilaine|35|
+|941|OK|Bizanos, France||France|Pyrénées-Atlantiques|64|
+|942|ZERO_RESULTS||||||
+|943|OK|85170 Belleville-sur-Vie, France|85170|France|Vendee|85|
+|944|OK|Brive-la-Gaillarde, France||France|Correze|19|
+|945|OK|Saint-Étienne-du-Rouvray, France||France|Seine-Maritime|76|
+|946|OK|70000 Vesoul, France|70000|France|Haute-Saône|70|
+|947|OK|Musée municipal - Vendôme, 41 Cours Abbaye, 41100 Vendôme, France|41100|France|Loir-et-Cher|41|
+|948|ZERO_RESULTS||||||
+|949|OK|Rennes, France||France|Ille-et-Vilaine|35|
+|950|OK|Brest, France||France|Finistere|29|
+|951|ZERO_RESULTS||||||
+|952|OK|Toulouse, France||France|Haute-Garonne|31|
+|953|OK|33 Avenue de Mérignac, 33200 Mérignac, France|33200|France|Gironde|33|
+|954|ZERO_RESULTS||||||
+|955|ZERO_RESULTS||||||
+|956|OK|Saint-Doulchard, France||France|Cher|18|
+|957|OK|Libercourt, France||France|Pas-de-Calais|62|
+|958|OK|Chaignot, 21490 Varois-et-Chaignot, France|21490|France|Côte-d'Or|21|
+|959|OK|Perpignan, France||France|Pyrénées-Orientales|66|
+|960|OK|Viriat, France||France|Ain|01|
+|961|OK|Toulouse, France||France|Haute-Garonne|31|
+|962|OK|61400 Mortagne-au-Perche, France|61400|France|Orne|61|
+|963|OK|Reims, France||France|Marne|51|
+|964|OK|Réquista, 12200 La Bastide-l'Évêque, France|12200|France|Aveyron|12|
+|965|OK|Colondannes, France||France|Creuse|23|
+|966|OK|I.U.T., 53000 Laval, France|53000|France|Mayenne|53|
+|967|OK|Le Havre - Octeville Airport (LEH), Rue Louis Blériot, 76620 Le Havre, France|76620|France|Seine-Maritime|76|
+|968|OK|Brétigny-sur-Orge, France||France|Essonne|91|
+|969|OK|Muséum d'histoire naturelle de Marseille, Palais Longchamp, Rue Espérandieu, 13004 Marseille, France|13004|France|Bouches-du-Rhone|13|
+|970|OK|Le Mans, France||France|Sarthe|72|
+|971|OK|Mairie, 1 Place de l'Hôtel de ville, 68210 Dannemarie, France|68210|France|Haut-Rhin|68|
+|972|ZERO_RESULTS||||||
+|973|OK|Saint-Ouen-l'Aumône, France||France|Val-d'Oise|95|
+|974|OK|Mont-de-Marsan, France||France|Landes|40|
+|975|OK|Vitrolles, France||France|Bouches-du-Rhone|13|
+|976|OK|Rue de Péronne, 80200 Doingt, France|80200|France|Somme|80|
+|977|OK|Bayonne, France||France|Pyrénées-Atlantiques|64|
+|978|OK|55100 Belleville-sur-Meuse, France|55100|France|Meuse|55|
+|979|OK|Bailleau le Pin, 28120 Bailleau-le-Pin, France|28120|France|Eure-et-Loir|28|
+|980|OK|Bidart, France||France|Pyrénées-Atlantiques|64|
+|981|OK|SM Du Haras National d'Hennebont, Rue Victor Hugo, 56700 Hennebont, France|56700|France|Morbihan|56|
+|982|ZERO_RESULTS||||||
+|983|OK|Reims, France||France|Marne|51|
+|984|ZERO_RESULTS||||||
+|985|OK|Le Havre - Octeville Airport (LEH), Rue Louis Blériot, 76620 Le Havre, France|76620|France|Seine-Maritime|76|
+|986|ZERO_RESULTS||||||
+|987|OK|Coulommiers, 77120 Coulommiers, France|77120|France|Seine-et-Marne|77|
+|988|OK|Office de Tourisme, 3 Rue du Général Leclerc, 91220 Brétigny-sur-Orge, France|91220|France|Essonne|91|
+|989|OK|Cranves-Sales, France||France|Haute-Savoie|74|
+|990|OK|17400 Saint-Jean-d'Angély, France|17400|France|Charente-maritime|17|
+|991|ZERO_RESULTS||||||
+|992|OK|Cité du Train - Musée français du chemin de fer, 2 Rue Alfred de Glehn, 68200 Mulhouse, France|68200|France|Haut-Rhin|68|
+|993|OK|Pôle Recherche Enseignement Supérieur, 166 Cours de l'Argonne, 33800 Bordeaux, France|33800|France|Gironde|33|
+|994|OK|Marmande, 86230 Vellèches, France|86230|France|Vienne|86|
+|995|OK|Agen, France||France|Lot-et-Garonne|Lot-et-Garonne|
+|996|OK|Toulouse, France||France|Haute-Garonne|31|
+|997|ZERO_RESULTS||||||
+|998|OK|31800 Saint-Gaudens, France|31800|France|Haute-Garonne|31|
+|999|ZERO_RESULTS||||||
+|1000|OK|Oullins, France||France|Rhône|69|
+|1001|OK|Challans, France||France|Vendee|85|
+|1002|OK|Rémalard, France||France|Orne|61|
+|1003|OK|Couëron, France||France|Loire-Atlantique|44|
+|1004|OK|Valence, France||France|Drome|26|
+|1005|OK|Route de Verrières, 86410 Dienné, France|86410|France|Vienne|86|
+|1006|ZERO_RESULTS||||||
+|1007|ZERO_RESULTS||||||
+|1008|OK|Plouigneau, France||France|Finistere|29|
+|1009|OK|Quimper, France||France|Finistere|29|
+|1010|OK|Noyal-sur-Vilaine, France||France|Ille-et-Vilaine|35|
+|1011|OK|Pontivy, France||France|Morbihan|56|
+|1012|ZERO_RESULTS||||||
+|1013|ZERO_RESULTS||||||
+|1014|ZERO_RESULTS||||||
+|1015|OK|Chateau de la Groulais, 4 Allée Olivier V de Clisson, 44130 Blain, France|44130|France|Loire-Atlantique|44|
+|1016|OK|Saumur, France||France|Maine-et-Loire|Maine-et-Loire|
+|1017|OK|Ferme de Saint-Gilles, 50180 Saint-Gilles, France|50180|France|Manche|50|
+|1018|ZERO_RESULTS||||||
+|1019|OK|Gannat, France||France|Allier|03|
+|1020|OK|Nersac, France||France|Charente|16|
+|1021|ZERO_RESULTS||||||
+|1022|ZERO_RESULTS||||||
+|1023|OK|Strasbourg, France||France|Bas-Rhin|67|
+|1024|OK|Granada, Spain||Spain|Granada|Granada|
+|1025|OK|Laignes, France||France|Côte-d'Or|21|
+|1026|ZERO_RESULTS||||||
+|1027|ZERO_RESULTS||||||
+|1028|ZERO_RESULTS||||||
+|1029|OK|Saint-Quentin-Fallavier, France||France|Isere|38|
+|1030|OK|Oullins, France||France|Rhône|69|
+|1031|ZERO_RESULTS||||||
+|1032|ZERO_RESULTS||||||
+|1033|OK|Carcassonne, France||France|Aude|11|
+|1034|ZERO_RESULTS||||||
+|1035|OK|Loches, France||France|Indre-et-Loire|Indre-et-Loire|
+|1036|ZERO_RESULTS||||||
+|1037|OK|Aérodrome Morin - Védrines, 300 Rue Maurice Delpouys, 82000 Montauban, France|82000|France|Tarn-et-Garonne|82|
+|1038|OK|Machecoul, France||France|Loire-Atlantique|44|
+|1039|OK|Machecoul, France||France|Loire-Atlantique|44|
+|1040|OK|Aurillac, France||France|Cantal|15|
+|1041|OK|Le Pontet, France||France|Vaucluse|84|
+|1042|OK|Montpellier, France||France|Hérault|34|
+|1043|OK|Seyssins, France||France|Isere|38|
+|1044|OK|Illzach, France||France|Haut-Rhin|68|
+|1045|ZERO_RESULTS||||||
+|1046|OK|Lyss, 3250 Lyss, Switzerland|3250|Switzerland|||
+|1047|OK|Sarre-Union, France||France|Bas-Rhin|67|
+|1048|OK|Sainte-Menehould, France||France|Marne|51|
+|1049|ZERO_RESULTS||||||
+|1050|OK|Caen – Carpiquet Airport (CFR), Route de Caumont, 14650 Carpiquet, France|14650|France|Calvados|14|
+|1051|OK|Gémenos, France||France|Bouches-du-Rhone|13|
+|1052|OK|Albi, France||France|Tarn|81|
+|1053|OK|Nimes, France||France|Gard|30|
+|1054|OK|Chemin de Lombia, 64160 Urost, France|64160|France|Pyrénées-Atlantiques|64|
+|1055|OK|11400 Castelnaudary, France|11400|France|Aude|11|
+|1056|ZERO_RESULTS||||||
+|1057|ZERO_RESULTS||||||
+|1058|ZERO_RESULTS||||||
+|1059|OK|Le Poiré-sur-Vie, France||France|Vendee|85|
+|1060|OK|Route de Verrières, 86410 Dienné, France|86410|France|Vienne|86|
+|1061|OK|58 Voie communale 5 de Corbigny à Cropigny, 58800 Corbigny, France|58800|France|Nievre|58|
+|1062|OK|Avenue de Vendôme, 41000 Blois, France|41000|France|Loir-et-Cher|41|
+|1063|OK|10700 Arcis-sur-Aube, France|10700|France|Aube|10|
+|1064|OK|Boulazac, France||France|Dordogne|24|
+|1065|ZERO_RESULTS||||||
+|1066|OK|Saône, France||France|Doubs|25|
+|1067|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|1068|OK|Périgueux, France||France|Dordogne|24|
+|1069|OK|Le Poiré-sur-Vie, France||France|Vendee|85|
+|1070|OK|Saint-Avold, France||France|Moselle|57|
+|1071|OK|52240 Clefmont, France|52240|France|Haute-Marne|52|
+|1072|OK|54110 Dombasle-sur-Meurthe, France|54110|France|Meurthe-et-Moselle|54|
+|1073|OK|Besançon, France||France|Doubs|25|
+|1074|OK|Lillebonne, France||France|Seine-Maritime|76|
+|1075|OK|Courtry, France||France|Seine-et-Marne|77|
+|1076|OK|Fontenay-le-Comte, France||France|Vendee|85|
+|1077|OK|75, 75003 Paris, France|75003|France|Paris|75|
+|1078|OK|Loriol-sur-Drôme, France||France|Drome|26|
+|1079|OK|Feurs, France||France|Loire|42|
+|1080|OK|Boulazac, France||France|Dordogne|24|
+|1081|OK|Le Portel, France||France|Pas-de-Calais|62|
+|1082|OK|Audincourt, France||France|Doubs|25|
+|1083|ZERO_RESULTS||||||
+|1084|OK|Muséum d'histoire naturelle de Marseille, Palais Longchamp, Rue Espérandieu, 13004 Marseille, France|13004|France|Bouches-du-Rhone|13|
+|1085|OK|9 Rue Robert Moinon, 95190 Goussainville, France|95190|France|Val-d'Oise|95|
+|1086|OK|Seilhac, France||France|Correze|19|
+|1087|OK|Sausheim, France||France|Haut-Rhin|68|
+|1088|OK|Vitré, 35500 Vitré, France|35500|France|Ille-et-Vilaine|35|
+|1089|OK|Bergerac, France||France|Dordogne|24|
+|1090|OK|Soustons, France||France|Landes|40|
+|1091|OK|Vezin-le-Coquet, France||France|Ille-et-Vilaine|35|
+|1092|OK|Niort, France||France|Deux-Sevres|79|
+|1093|OK|Grignon, 78850 Thiverval-Grignon, France|78850|France|Yvelines|78|
+|1094|OK|Vénissieux, France||France|Rhône|69|
+|1095|OK|Bourgoin-Jallieu, France||France|Isere|38|
+|1096|OK|Manom, France||France|Moselle|57|
+|1097|OK|Le Havre - Octeville Airport (LEH), Rue Louis Blériot, 76620 Le Havre, France|76620|France|Seine-Maritime|76|
+|1098|OK|CGI Formation, 6 Rue Emile Schwoerer, 68000 Colmar, France|68000|France|Haut-Rhin|68|
+|1099|OK|Sotteville-lès-Rouen, France||France|Seine-Maritime|76|
+|1100|OK|Gorron, France||France|Mayenne|53|
+|1101|OK|84140 Avignon, France|84140|France|Vaucluse|84|
+|1102|OK|Muséum d'histoire naturelle de Marseille, Palais Longchamp, Rue Espérandieu, 13004 Marseille, France|13004|France|Bouches-du-Rhone|13|
+|1103|OK|Mérignac, France||France|Gironde|33|
+|1104|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|1105|OK|Orleix, France||France|Hautes-Pyrénées|65|
+|1106|OK|Boulevard National, 13003 Marseille, France|13003|France|Bouches-du-Rhone|13|
+|1107|ZERO_RESULTS||||||
+|1108|OK|Moulins-Engilbert, France||France|Nievre|58|
+|1109|OK|Dreux, France||France|Eure-et-Loir|28|
+|1110|OK|76430 Sandouville, France|76430|France|Seine-Maritime|76|
+|1111|ZERO_RESULTS||||||
+|1112|OK|Saint-Germain-sur-Moine, France||France|Maine-et-Loire|Maine-et-Loire|
+|1113|OK|Saint-Memmie, France||France|Marne|51|
+|1114|OK|Bourges Airport (BOU), 18000 Trouy, France|18000|France|Cher|18|
+|1115|OK|Creil, France||France|Oise|60|
+|1116|OK|Argiésans, France||France|Territoire de Belfort|90|
+|1117|OK|52200 Langres, France|52200|France|Haute-Marne|52|
+|1118|OK|Saint-Malo-de-Phily, France||France|Ille-et-Vilaine|35|
+|1119|OK|57220 Momerstroff, France|57220|France|Moselle|57|
+|1120|OK|52700 Saint-Blin, France|52700|France|Haute-Marne|52|
+|1121|OK|Sillery, France||France|Marne|51|
+|1122|OK|Culan, France||France|Cher|18|
+|1123|OK|Pédernec, France||France|Cotes-d'Armor|22|
+|1124|OK|Cimetière de Valognes, 50700 Valognes, France|50700|France|Manche|50|
+|1125|OK|53 La Varenne d'Azé, 41100 Azé, France|41100|France|Loir-et-Cher|41|
+|1126|OK|Flavigny-sur-Moselle, France||France|Meurthe-et-Moselle|54|
+|1127|OK|La Primaube, 12450 Luc-la-Primaube, France|12450|France|Aveyron|12|
+|1128|OK|42 Rue Sigmund Freud, 69120 Vaulx-en-Velin, France|69120|France|Rhône|69|
+|1129|OK|Vénissieux, France||France|Rhône|69|
+|1130|ZERO_RESULTS||||||
+|1131|OK|39 Montrond, 61500 Neuville-près-Sées, France|61500|France|Orne|61|
+|1132|ZERO_RESULTS||||||
+|1133|OK|55000 Bar-le-Duc, France|55000|France|Meuse|55|
+|1134|OK|19300 Égletons, France|19300|France|Correze|19|
+|1135|OK|Sainte-Geneviève-sur-Argence, France||France|Aveyron|12|
+|1136|ZERO_RESULTS||||||
+|1137|OK|Vincelles, France||France|Yonne|89|
+|1138|OK|52200 Langres, France|52200|France|Haute-Marne|52|
+|1139|ZERO_RESULTS||||||
+|1140|OK|Sarreguemines, France||France|Moselle|57|
+|1141|ZERO_RESULTS||||||
+|1142|OK|Faverelles, France||France|Loiret|45|
+|1143|OK|Deurne, 2100 Antwerp, Belgium|2100|Belgium|Antwerp|AN|
+|1144|OK|Couillet, 6010 Charleroi, Belgium|6010|Belgium|Hainaut|HT|
+|1145|ZERO_RESULTS||||||
+|1146|ZERO_RESULTS||||||
+|1147|OK|Albens, France||France|Savoie|73|
+|1148|OK|Servon-sur-Vilaine, France||France|Ille-et-Vilaine|35|
+|1149|ZERO_RESULTS||||||
+|1150|ZERO_RESULTS||||||
+|1151|OK|Pithiviers-le-Vieil, France||France|Loiret|45|
+|1152|OK|Grâce-Hollogne, Belgium||Belgium|Liege|LG|
+|1153|OK|Strasbourg, 67000 Strasbourg, France|67000|France|Bas-Rhin|67|
+|1154|OK|Antwerp, Belgium||Belgium|Antwerp|AN|
+|1155|OK|Médiathèque de Château-Renard, Place de la République, 45220 Château-Renard, France|45220|France|Loiret|45|
+|1156|OK|Lannion, France||France|Cotes-d'Armor|22|
+|1157|OK|Montsoult, France||France|Val-d'Oise|95|
+|1158|OK|Sévérac-le-Château, France||France|Aveyron|12|
+|1159|OK|71600 Paray-le-Monial, France|71600|France|Saône-et-Loire|71|
+|1160|ZERO_RESULTS||||||
+|1161|OK|Bonnac-la-Côte, France||France|Haute-Vienne|87|
+|1162|OK|Servon-sur-Vilaine, France||France|Ille-et-Vilaine|35|
+|1163|ZERO_RESULTS||||||
+|1164|OK|Ibigny, France||France|Moselle|57|
+|1165|ZERO_RESULTS||||||
+|1166|ZERO_RESULTS||||||
+|1167|OK|54110 Dombasle-sur-Meurthe, France|54110|France|Meurthe-et-Moselle|54|
+|1168|OK|71600 Paray-le-Monial, France|71600|France|Saône-et-Loire|71|
+|1169|OK|44 Route de Nantes, 44120 Vertou, France|44120|France|Loire-Atlantique|44|
+|1170|OK|Villiers-sur-Orge, France||France|Essonne|91|
+|1171|OK|11200 Lézignan-Corbières, France|11200|France|Aude|11|
+|1172|OK|Saint-Cyr-en-Val, France||France|Loiret|45|
+|1173|OK|Meaux, 77100 Meaux, France|77100|France|Seine-et-Marne|77|
+|1174|OK|Henrichemont, France||France|Cher|18|
+|1175|OK|Saint-Victor, France||France|Allier|03|
+|1176|OK|Millau, France||France|Aveyron|12|
+|1177|OK|Limoges, France||France|Haute-Vienne|87|
+|1178|OK|Narrosse, France||France|Landes|40|
+|1179|OK|Route de Saint-Claude, 39200 Saint-Claude, France|39200|France|Jura|39|
+|1180|ZERO_RESULTS||||||
+|1181|OK|Millau, France||France|Aveyron|12|
+|1182|OK|64800 Coarraze, France|64800|France|Pyrénées-Atlantiques|64|
+|1183|OK|Molsheim, France||France|Bas-Rhin|67|
+|1184|OK|50800 Villedieu-les-Poêles, France|50800|France|Manche|50|
+|1185|OK|Narrosse, France||France|Landes|40|
+|1186|OK|Eyrans, 33650 Saint-Médard-d'Eyrans, France|33650|France|Gironde|33|
+|1187|OK|Manosque, France||France|Alpes-de-Haute-Provence|04|
+|1188|OK|Les Sablons, 28240 Saint-Victor-de-Buthon, France|28240|France|Orne|61|
+|1189|OK|Monthou-sur-Cher, France||France|Loir-et-Cher|41|
+|1190|OK|Saint-Brice-Courcelles, France||France|Marne|51|
+|1191|OK|Rabastens, France||France|Tarn|81|
+|1192|OK|Bourg-de-Péage, France||France|Drome|26|
+|1193|OK|21000 Dijon, France|21000|France|Côte-d'Or|21|
+|1194|OK|Ulm, Germany||Germany|Tübingen|TÜ|
+|1195|OK|Gardonne, France||France|Dordogne|24|
+|1196|OK|Saint-Privat-la-Montagne, France||France|Moselle|57|
+|1197|ZERO_RESULTS||||||
+|1198|OK|Ruelle du Blet, 18350 Blet, France|18350|France|Cher|18|
+|1199|OK|19300 Égletons, France|19300|France|Correze|19|
+|1200|OK|Saint-Doulchard, France||France|Cher|18|
+|1201|ZERO_RESULTS||||||
+|1202|ZERO_RESULTS||||||
+|1203|OK|Terminiers, France||France|Eure-et-Loir|28|
+|1204|OK|Accueil de loisirs de Lons, 42 Avenue de Pau, 64140 Lons, France|64140|France|Pyrénées-Atlantiques|64|
+|1205|ZERO_RESULTS||||||
+|1206|ZERO_RESULTS||||||
+|1207|OK|28200 Chateaudun, 28200 Châteaudun, France|28200|France|Eure-et-Loir|28|
+|1208|OK|Arville, France||France|Seine-et-Marne|77|
+|1209|OK|Pont-du-Casse, France||France|Lot-et-Garonne|Lot-et-Garonne|
+|1210|OK|Mont-de-Marsan, France||France|Landes|40|
+|1211|OK|64150 Mourenx, France|64150|France|Pyrénées-Atlantiques|64|
+|1212|OK|Oloron-Sainte-Marie, France||France|Pyrénées-Atlantiques|64|
+|1213|ZERO_RESULTS||||||
+|1214|OK|Saint-Paul-lès-Dax, France||France|Landes|40|
+|1215|OK|Barbazan-Debat, France||France|Hautes-Pyrénées|65|
+|1216|ZERO_RESULTS||||||
+|1217|OK|Lourdes, 65100 Lourdes, France|65100|France|Hautes-Pyrénées|65|
+|1218|OK|Villeneuve-sur-Lot, France||France|Lot-et-Garonne|Lot-et-Garonne|
+|1219|OK|Chambéry, France||France|Savoie|73|
+|1220|OK|Claix, France||France|Isere|38|
+|1221|OK|Ergué-Gabéric, France||France|Finistere|29|
+|1222|OK|Soignolles-en-Brie, France||France|Seine-et-Marne|77|
+|1223|OK|Hœrdt, France||France|Bas-Rhin|67|
+|1224|OK|Pleslin-Trigavou, France||France|Cotes-d'Armor|22|
+|1225|OK|Rixheim, France||France|Haut-Rhin|68|
+|1226|ZERO_RESULTS||||||
+|1227|OK|Sandillon, France||France|Loiret|45|
+|1228|OK|Coaraze, France||France|Alpes-Maritimes|06|
+|1229|ZERO_RESULTS||||||
+|1230|OK|Le Havre - Octeville Airport (LEH), Rue Louis Blériot, 76620 Le Havre, France|76620|France|Seine-Maritime|76|
+|1231|ZERO_RESULTS||||||
+|1232|OK|Saint-André-le-Gaz, France||France|Isere|38|
+|1233|OK|Saint-Brieuc, France||France|Cotes-d'Armor|22|
+|1234|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|1235|ZERO_RESULTS||||||
+|1236|ZERO_RESULTS||||||
+|1237|OK|Droué, France||France|Loir-et-Cher|41|
+|1238|OK|Rodez, France||France|Aveyron|12|
+|1239|ZERO_RESULTS||||||
+|1240|OK|Rodez, France||France|Aveyron|12|
+|1241|OK|Toulouse, France||France|Haute-Garonne|31|
+|1242|OK|Syndicat Initiative de Bellegarde, 12 Bis Place Charles Desvergnes, 45270 Bellegarde, France|45270|France|Loiret|45|
+|1243|ZERO_RESULTS||||||
+|1244|OK|Le Muy, France||France|Var|83|
+|1245|ZERO_RESULTS||||||
+|1246|ZERO_RESULTS||||||
+|1247|OK|Luçon, France||France|Vendee|85|
+|1248|OK|La Chapelle, 18340 Saint-Germain-des-Bois, France|18340|France|Cher|18|
+|1249|ZERO_RESULTS||||||
+|1250|OK|Gellainville, France||France|Eure-et-Loir|28|
+|1251|OK|Monjou, 15800 Jou-sous-Monjou, France|15800|France|Cantal|15|
+|1252|OK|Noyal-Châtillon-sur-Seiche, France||France|Ille-et-Vilaine|35|
+|1253|OK|Nourray, France||France|Loir-et-Cher|41|
+|1254|OK|53 La Varenne d'Azé, 41100 Azé, France|41100|France|Loir-et-Cher|41|
+|1255|OK|Luzy, France||France|Nievre|58|
+|1256|OK|Voreppe, France||France|Isere|38|
+|1257|OK|Pont-du-Château, France||France|Puy-de-Dome|63|
+|1258|OK|85120 Loge-Fougereuse, France|85120|France|Vendee|85|
+|1259|OK|Bourges Airport (BOU), 18000 Trouy, France|18000|France|Cher|18|
+|1260|OK|Saint-Pantaléon, 46800 Saint-Pantaléon, France|46800|France|Lot|46|
+|1261|OK|Mandres-sur-Vair, France||France|Vosges|88|
+|1262|ZERO_RESULTS||||||
+|1263|OK|Saint-André-le-Gaz, France||France|Isere|38|
+|1264|OK|60800 Duvy, France|60800|France|Oise|60|
+|1265|OK|Woippy, France||France|Moselle|57|
+|1266|OK|Bazainville, France||France|Yvelines|78|
+|1267|OK|Strasbourg, 67000 Strasbourg, France|67000|France|Bas-Rhin|67|
+|1268|OK|Accueil de loisirs de Lons, 42 Avenue de Pau, 64140 Lons, France|64140|France|Pyrénées-Atlantiques|64|
+|1269|OK|Cormontreuil, France||France|Marne|51|
+|1270|OK|Verdun, France||France|Meuse|55|
+|1271|OK|Odos, France||France|Hautes-Pyrénées|65|
+|1272|OK|Saint-Brice-Courcelles, France||France|Marne|51|
+|1273|OK|Molsheim, France||France|Bas-Rhin|67|
+|1274|ZERO_RESULTS||||||
+|1275|OK|Bourg-de-Péage, France||France|Drome|26|
+|1276|OK|39570 Crançot, France|39570|France|Jura|39|
+|1277|OK|Ormes, France||France|Loiret|45|
+|1278|OK|Nevers, France||France|Nievre|58|
+|1279|ZERO_RESULTS||||||
+|1280|OK|Beffroi, 24 Rue Gontier Patin, 80100 Abbeville, France|80100|France|Somme|80|
+|1281|OK|Brain-sur-l'Authion, France||France|Maine-et-Loire|Maine-et-Loire|
+|1282|OK|Waardenburg, Koeldert 28, 4181 Waardenburg, The Netherlands||The Netherlands|Neerijnen|Neerijnen|
+|1283|OK|Mairie du Coudray, Rue du Gord, 28630 Le Coudray, France|28630|France|Eure-et-Loir|28|
+|1284|OK|Molsheim, France||France|Bas-Rhin|67|
+|1285|OK|Bruz, 35170 Bruz, France|35170|France|Ille-et-Vilaine|35|
+|1286|OK|Chabris, France||France|Indre|36|
+|1287|OK|Le Havre, France||France|Seine-Maritime|76|
+|1288|OK|Valladolid, Spain||Spain|Valladolid|VA|
+|1289|OK|Marseille, France||France|Bouches-du-Rhone|13|
+|1290|OK|Office du Tourisme Territoire de Beaurepaire, 24 Avenue des Terreaux, 38270 Beaurepaire, France|38270|France|Isere|38|
+|1291|OK|Villaines-sous-Bois, France||France|Val-d'Oise|95|
+|1292|OK|Cagnes-sur-Mer, France||France|Alpes-Maritimes|06|
+|1293|OK|17 Grande Rue de Périgny, 17180 Périgny, France|17180|France|Charente-maritime|17|
+|1294|OK|Office du Tourisme Territoire de Beaurepaire, 24 Avenue des Terreaux, 38270 Beaurepaire, France|38270|France|Isere|38|
+|1295|OK|Southampton, UK||United Kingdom|Southampton|Southampton|
+|1296|OK|Waldighofen, France||France|Haut-Rhin|68|
+|1297|OK|Saint-Germain-du-Puy, France||France|Cher|18|
+|1298|OK|56 Avenue Félix Zoccola, 13015 Marseille, France|13015|France|Bouches-du-Rhone|13|
+|1299|OK|11400 Castelnaudary, France|11400|France|Aude|11|
+|1300|OK|52300 Rupt, France|52300|France|Haute-Marne|52|
+|1301|OK|Route de la Grimaudière, 86330 La Grimaudière, France|86330|France|Vienne|86|
+|1302|OK|Boulogne-sur-Mer, France||France|Pas-de-Calais|62|
+|1303|OK|Iteuil, France||France|Vienne|86|
+|1304|OK|Metz, France||France|Moselle|57|
+|1305|OK|Chenôve, France||France|Côte-d'Or|21|
+|1306|ZERO_RESULTS||||||
+|1307|OK|Vendargues, France||France|Hérault|34|
+|1308|OK|Oissel, France||France|Seine-Maritime|76|
+|1309|OK|Ruy, France||France|Isere|38|
+|1310|OK|Roanne, France||France|Loire|42|
+|1311|OK|Alençon, France||France|Orne|61|
+|1312|ZERO_RESULTS||||||
+|1313|OK|Chassieu, France||France|Rhône|69|
+|1314|OK|Rennes, France||France|Ille-et-Vilaine|35|
+|1315|OK|Saint-Herblain, France||France|Loire-Atlantique|44|
+|1316|OK|Toulouse, France||France|Haute-Garonne|31|
+|1317|ZERO_RESULTS||||||
+|1318|OK|Lampertheim, France||France|Bas-Rhin|67|
+|1319|OK|33 Avenue de Mérignac, 33200 Mérignac, France|33200|France|Gironde|33|
+|1320|OK|Montpellier, France||France|Hérault|34|
+|1321|OK|Talange, France||France|Moselle|57|
+|1322|OK|Nanterre, France||France|Hauts-de-Seine|92|
+|1323|ZERO_RESULTS||||||
+|1324|OK|Garchy, France||France|Nievre|58|
+|1325|OK|Vigneux-sur-Seine, France||France|Essonne|91|
+|1326|OK|Laudun-l'Ardoise, France||France|Gard|30|
+|1327|OK|Campagne-lès-Hesdin, France||France|Pas-de-Calais|62|
+|1328|OK|53250 Javron, France|53250|France|Mayenne|53|
+|1329|ZERO_RESULTS||||||
+|1330|ZERO_RESULTS||||||
+|1331|OK|Marais salants de Guérande, Route des Marais, 44350 Guérande, France|44350|France|Loire-Atlantique|44|
+|1332|OK|63500 Issoire, France|63500|France|Puy-de-Dome|63|
+|1333|OK|Parville, France||France|Eure|27|
+|1334|OK|Fretin, France||France|Nord|59|
+|1335|OK|Saint-Herblain, France||France|Loire-Atlantique|44|
+|1336|OK|Chemaudin, France||France|Doubs|25|
+|1337|OK|Loos-en-Gohelle, France||France|Pas-de-Calais|62|
+|1338|OK|83 Route de Toulon, 83200 Toulon, France|83200|France|Var|83|
+|1339|OK|Collégien, France||France|Seine-et-Marne|77|
+|1340|OK|Jaux, France||France|Oise|60|
+|1341|ZERO_RESULTS||||||
+|1342|OK|Rue des Prés de l'Hôpital, 94190 Villeneuve-Saint-Georges, France|94190|France|Val-de-Marne|94|
+|1343|OK|Cormontreuil, France||France|Marne|51|
+|1344|OK|16300 Barbezieux, France|16300|France|Charente|16|
+|1345|OK|14 Falaise, 86220 Les Ormes, France|86220|France|Vienne|86|
+|1346|OK|33 Avenue de Mérignac, 33200 Mérignac, France|33200|France|Gironde|33|
+|1347|OK|Les Noës, 44550 Montoir-de-Bretagne, France|44550|France|Loire-Atlantique|44|
+|1348|OK|Montfavet, 84140 Morières-lès-Avignon, France|84140|France|Vaucluse|84|
+|1349|OK|Vendargues, France||France|Hérault|34|
+|1350|OK|Loon-Plage, France||France|Nord|59|
+|1351|OK|Gennevilliers, 92230 Gennevilliers, France|92230|France|Hauts-de-Seine|92|
+|1352|OK|87 Boulevard du Général de Gaulle, 95190 Goussainville, France|95190|France|Val-d'Oise|95|
+|1353|OK|Calais, France||France|Pas-de-Calais|62|
+|1354|ZERO_RESULTS||||||
+|1355|OK|Quimper, France||France|Finistere|29|
+|1356|OK|Rochefort, 17300 Rochefort, France|17300|France|Charente-maritime|17|
+|1357|OK|Aérodrome de Niort - Souché (NIT), 79000 Niort, France|79000|France|Deux-Sevres|79|
+|1358|OK|Toulouse, France||France|Haute-Garonne|31|
+|1359|ZERO_RESULTS||||||
+|1360|OK|Albi, France||France|Tarn|81|
+|1361|OK|Muséum d'histoire naturelle de Marseille, Palais Longchamp, Rue Espérandieu, 13004 Marseille, France|13004|France|Bouches-du-Rhone|13|
+|1362|OK|Office de Tourisme de Narbonne, 31 Rue Jean Jaurès, 11100 Narbonne, France|11100|France|Aude|11|
+|1363|OK|Trith-Saint-Léger, France||France|Nord|59|
+|1364|ZERO_RESULTS||||||
+|1365|OK|Les Ponts-de-Cé, France||France|Maine-et-Loire|Maine-et-Loire|
+|1366|OK|46136 Museros, Valencia, Spain|46136|Spain|Valencia|V|
+|1367|OK|Portet-sur-Garonne, France||France|Haute-Garonne|31|
+|1368|OK|Le Pont-Chrétien-Chabenet, France||France|Indre|36|
+|1369|OK|Chassieu, France||France|Rhône|69|
+|1370|OK|Creil, France||France|Oise|60|
+|1371|OK|Somain, France||France|Nord|59|
+|1372|OK|Jaunay-Clan, France||France|Vienne|86|
+|1373|ZERO_RESULTS||||||
+|1374|OK|La Roche-sur-Yon, France||France|Vendee|85|
+|1375|OK|Montpellier, France||France|Hérault|34|
+|1376|OK|Cesson-Sévigné, France||France|Ille-et-Vilaine|35|
+|1377|ZERO_RESULTS||||||
+|1378|OK|Perpignan, France||France|Pyrénées-Orientales|66|
+|1379|OK|46394, Valencia, Spain|46394|Spain|Valencia|V|
+|1380|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|1381|ZERO_RESULTS||||||
+|1382|OK|Pont-du-Château, France||France|Puy-de-Dome|63|
+|1383|ZERO_RESULTS||||||
+|1384|OK|Saint-Martial, 24600 Ribérac, France|24600|France|Dordogne|24|
+|1385|OK|Limoges-Bellegarde Airport, 81 Avenue de l'Aéroport, 87100 Limoges, France|87100|France|Haute-Vienne|87|
+|1386|OK|Amiens, France||France|Somme|80|
+|1387|ZERO_RESULTS||||||
+|1388|OK|Mâcon, France||France|Saône-et-Loire|71|
+|1389|OK|Dardilly, France||France|Rhône|69|
+|1390|OK|Salamanca, Spain||Spain|Salamanca|SA|
+|1391|OK|Cesson-Sévigné, France||France|Ille-et-Vilaine|35|
+|1392|OK|Aérodrome de Lognes (XLG), 77185 Lognes, France|77185|France|Seine-et-Marne|77|
+|1393|ZERO_RESULTS||||||
+|1394|OK|Sotteville-sous-le-Val, France||France|Seine-Maritime|76|
+|1395|OK|Karting Kart Thiais, 2 Avenue du Docteur Marie, 94320 Thiais, France|94320|France|Val-de-Marne|94|
+|1396|OK|Chassieu, France||France|Rhône|69|
+|1397|ZERO_RESULTS||||||
+|1398|OK|Fenouillet, France||France|Haute-Garonne|31|
+|1399|OK|1451 Chemin de la Plaine, 06250 Mougins, France|06250|France|Alpes-Maritimes|06|
+|1400|OK|La Chapelle Champigny, 89340 Champigny, France|89340|France|Yonne|89|
+|1401|OK|Oullins, France||France|Rhône|69|
+|1402|OK|La Cadière-d'Azur, France||France|Var|83|
+|1403|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|1404|OK|Vertou, France||France|Loire-Atlantique|44|
+|1405|OK|Montoir (SNR), Airport Saint-Nazaire - Montoir, 44550 Montoir-de-Bretagne, France|44550|France|Loire-Atlantique|44|
+|1406|OK|Juigné-sur-Loire, France||France|Maine-et-Loire|Maine-et-Loire|
+|1407|OK|Moncé-en-Belin, France||France|Sarthe|72|
+|1408|OK|85170 Belleville-sur-Vie, France|85170|France|Vendee|85|
+|1409|ZERO_RESULTS||||||
+|1410|OK|Portet-sur-Garonne, France||France|Haute-Garonne|31|
+|1411|OK|Milly-la-Forêt, France||France|Essonne|91|
+|1412|ZERO_RESULTS||||||
+|1413|ZERO_RESULTS||||||
+|1414|OK|Boulevard de l'Europe, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|1415|OK|Beauvais-Tillé Airport, 60000 Beauvais|60000|France|Oise|Oise|
+|1416|OK|Frontignan, France||France|Hérault|34|
+|1417|ZERO_RESULTS||||||
+|1418|ZERO_RESULTS||||||
+|1419|OK|Béziers Aventure, Bois de Bourbaki, Route de Bessan D28, 34500 Béziers, France|34500|France|Hérault|34|
+|1420|ZERO_RESULTS||||||
+|1421|OK|Marsannay-la-Côte, France||France|Côte-d'Or|21|
+|1422|OK|Le Mans, France||France|Sarthe|72|
+|1423|OK|Auzeville-Tolosane, France||France|Haute-Garonne|31|
+|1424|ZERO_RESULTS||||||
+|1425|OK|Ostheim, France||France|Haut-Rhin|68|
+|1426|ZERO_RESULTS||||||
+|1427|OK|Blois, France||France|Loir-et-Cher|41|
+|1428|OK|Ciudad Real, Spain||Spain|Ciudad Real|Ciudad Real|
+|1429|OK|Pont-de-l'Isère, France||France|Drome|26|
+|1430|OK|Dublin, Ireland||Ireland|Dublin City|Dublin City|
+|1431|OK|Oissel, France||France|Seine-Maritime|76|
+|1432|OK|Quimper, France||France|Finistere|29|
+|1433|OK|85 La Verrie, 44450 Saint-Julien-de-Concelles, France|44450|France|Loire-Atlantique|44|
+|1434|ZERO_RESULTS||||||
+|1435|OK|Vidauban, France||France|Var|83|
+|1436|OK|Saint-Martin-le-Vinoux, France||France|Isere|38|
+|1437|ZERO_RESULTS||||||
+|1438|OK|Besançon, France||France|Doubs|25|
+|1439|OK|Libourne, France||France|Gironde|33|
+|1440|OK|Bray-en-Val, France||France|Loiret|45|
+|1441|OK|64300 Castétis, France|64300|France|Pyrénées-Atlantiques|64|
+|1442|OK|Libourne, France||France|Gironde|33|
+|1443|ZERO_RESULTS||||||
+|1444|OK|Périers, France||France|Manche|50|
+|1445|OK|Millau, France||France|Aveyron|12|
+|1446|OK|Vic-en-Bigorre, France||France|Hautes-Pyrénées|65|
+|1447|OK|Aarschot, Belgium||Belgium|Flemish Brabant|VB|
+|1448|OK|89100 Saint-Denis, France|89100|France|Yonne|89|
+|1449|ZERO_RESULTS||||||
+|1450|OK|Ávila‎, Ávila, Spain||Spain|Ávila|Ávila|
+|1451|OK|Colegio Público de Educación Especial Ciudad de Toledo, Calle Río Fresnedoso, 16-18, 45007 Toledo, Spain|45007|Spain|Toledo|TO|
+|1452|OK|19171 Cabanillas del Campo, Guadalajara, Spain|19171|Spain|Guadalajara|Guadalajara|
+|1453|OK|Manheim, PA 17545, USA|17545|United States|Lancaster|Lancaster|
+|1454|OK|Leipzig, Germany||Germany|Leipzig|Leipzig|
+|1455|OK|Vigneux-sur-Seine, 91270 Vigneux-sur-Seine, France|91270|France|Essonne|91|
+|1456|OK|45007 Toledo, Spain|45007|Spain|Toledo|TO|
+|1457|OK|48013 Bilbao, Biscay, Spain|48013|Spain|Biscay|BI|
+|1458|OK|47008 Valladolid, Spain|47008|Spain|Valladolid|VA|
+|1459|ZERO_RESULTS||||||
+|1460|OK|Metz, France||France|Moselle|57|
+|1461|ZERO_RESULTS||||||
+|1462|OK|Feugarolles, France||France|Lot-et-Garonne|Lot-et-Garonne|
+|1463|OK|Avenue de Mérignac, 33700 Mérignac, France|33700|France|Gironde|33|
+|1464|OK|Luisant, France||France|Eure-et-Loir|28|
+|1465|OK|Crissier, Switzerland||Switzerland|Ouest lausannois|Ouest lausannois|
+|1466|ZERO_RESULTS||||||
+|1467|OK|43230 Paulhaguet, France|43230|France|Haute-Loire|43|
+|1468|ZERO_RESULTS||||||
+|1469|OK|Toulenne, France||France|Gironde|33|
+|1470|OK|Cham, 93413 Cham, Switzerland|93413|Switzerland|||
+|1471|OK|Craponne-sur-Arzon, France||France|Haute-Loire|43|
+|1472|ZERO_RESULTS||||||
+|1473|OK|Coudekerque-Village, France||France|Nord|59|
+|1474|OK|Rochefort, 17300 Rochefort, France|17300|France|Charente-maritime|17|
+|1475|ZERO_RESULTS||||||
+|1476|OK|Espoey, France||France|Pyrénées-Atlantiques|64|
+|1477|OK|Route de Cerdon, 45600 Villemurlin, France|45600|France|Loiret|45|
+|1478|OK|Bayonne, France||France|Pyrénées-Atlantiques|64|
+|1479|OK|Laxou, France||France|Meurthe-et-Moselle|54|
+|1480|ZERO_RESULTS||||||
+|1481|OK|Châteaubernard, France||France|Charente|16|
+|1482|ZERO_RESULTS||||||
+|1483|ZERO_RESULTS||||||
+|1484|ZERO_RESULTS||||||
+|1485|OK|Lormont, France||France|Gironde|33|
+|1486|ZERO_RESULTS||||||
+|1487|OK|Brest, France||France|Finistere|29|
+|1488|OK|Vertou, France||France|Loire-Atlantique|44|
+|1489|OK|Marseille, France||France|Bouches-du-Rhone|13|
+|1490|OK|Vitry-sur-Seine, France||France|Val-de-Marne|94|
+|1491|OK|Vélizy-Villacoublay, France||France|Yvelines|78|
+|1492|OK|Lescar, France||France|Pyrénées-Atlantiques|64|
+|1493|OK|Paris, France||France|Paris|75|
+|1494|OK|Nanterre, France||France|Hauts-de-Seine|92|
+|1495|ZERO_RESULTS||||||
+|1496|OK|Feytiat, France||France|Haute-Vienne|87|
+|1497|OK|Palaiseau, France||France|Essonne|91|
+|1498|ZERO_RESULTS||||||
+|1499|ZERO_RESULTS||||||
+|1500|OK|Pérols, France||France|Hérault|34|
+|1501|OK|Nanterre, France||France|Hauts-de-Seine|92|
+|1502|OK|Saint-Ouen-l'Aumône, France||France|Val-d'Oise|95|
+|1503|OK|Juvignac, France||France|Hérault|34|
+|1504|ZERO_RESULTS||||||
+|1505|ZERO_RESULTS||||||
+|1506|ZERO_RESULTS||||||
+|1507|OK|Nantes, France||France|Loire-Atlantique|44|
+|1508|OK|Bon-Encontre, France||France|Lot-et-Garonne|Lot-et-Garonne|
+|1509|OK|Satigny, 1242 Satigny, Switzerland|1242|Switzerland|||
+|1510|ZERO_RESULTS||||||
+|1511|ZERO_RESULTS||||||
+|1512|OK|Pauillac, France||France|Gironde|33|
+|1513|OK|Lescar, France||France|Pyrénées-Atlantiques|64|
+|1514|OK|Le Havre, France||France|Seine-Maritime|76|
+|1515|OK|Saint-Germain-du-Puy, France||France|Cher|18|
+|1516|ZERO_RESULTS||||||
+|1517|OK|Vitrolles, France||France|Bouches-du-Rhone|13|
+|1518|OK|Bormes-les-Mimosas, France||France|Var|83|
+|1519|ZERO_RESULTS||||||
+|1520|OK|Joué-lès-Tours, France||France|Indre-et-Loire|Indre-et-Loire|
+|1521|OK|Bénesse-lès-Dax, France||France|Landes|40|
+|1522|OK|Mont-de-Marsan, France||France|Landes|40|
+|1523|ZERO_RESULTS||||||
+|1524|OK|Le Rheu, France||France|Ille-et-Vilaine|35|
+|1525|ZERO_RESULTS||||||
+|1526|OK|Verdun, France||France|Meuse|55|
+|1527|ZERO_RESULTS||||||
+|1528|ZERO_RESULTS||||||
+|1529|OK|Saint-Julien-de-Coppel, France||France|Puy-de-Dome|63|
+|1530|ZERO_RESULTS||||||
+|1531|ZERO_RESULTS||||||
+|1532|ZERO_RESULTS||||||
+|1533|ZERO_RESULTS||||||
+|1534|ZERO_RESULTS||||||
+|1535|OK|Susville, France||France|Isere|38|
+|1536|ZERO_RESULTS||||||
+|1537|OK|Frencq, France||France|Pas-de-Calais|62|
+|1538|OK|Boulazac, France||France|Dordogne|24|
+|1539|OK|Cormontreuil, France||France|Marne|51|
+|1540|OK|Anglet, France||France|Pyrénées-Atlantiques|64|
+|1541|OK|La Valette-du-Var, France||France|Var|83|
+|1542|OK|Saint-André-les-Vergers, France||France|Aube|10|
+|1543|OK|Strasbourg, France||France|Bas-Rhin|67|
+|1544|OK|Golbey, France||France|Vosges|88|
+|1545|ZERO_RESULTS||||||
+|1546|OK|Onjon, France||France|Aube|10|
+|1547|OK|Diemeringen, 67430 Diemeringen, France|67430|France|Bas-Rhin|67|
+|1548|ZERO_RESULTS||||||
+|1549|OK|Niort, France||France|Deux-Sevres|79|
+|1550|OK|Buxières-les-Mines, France||France|Allier|03|
+|1551|OK|Gemeentebestuur Beveren, 9130 Beveren, Belgium|9130|Belgium|East Flanders|OV|
+|1552|OK|Nimes, France||France|Gard|30|
+|1553|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|1554|OK|Aérodrome de Niort - Souché (NIT), 79000 Niort, France|79000|France|Deux-Sevres|79|
+|1555|ZERO_RESULTS||||||
+|1556|ZERO_RESULTS||||||
+|1557|OK|Holyhead, Isle of Anglesey, UK||United Kingdom|Isle of Anglesey|Isle of Anglesey|
+|1558|OK|Lézinnes, France||France|Yonne|89|
+|1559|ZERO_RESULTS||||||
+|1560|ZERO_RESULTS||||||
+|1561|OK|Antigny, France||France|Vendee|85|
+|1562|ZERO_RESULTS||||||
+|1563|OK|13th arrondissement of Marseille, Marseille, France||France|Bouches-du-Rhone|13|
+|1564|ZERO_RESULTS||||||
+|1565|OK|Vitrolles, Place de Provence, 13127 Vitrolles, France|13127|France|Bouches-du-Rhone|13|
+|1566|ZERO_RESULTS||||||
+|1567|OK|16 Quai d'Orival, 76410 Saint-Aubin-lès-Elbeuf, France|76410|France|Seine-Maritime|76|
+|1568|ZERO_RESULTS||||||
+|1569|OK|La Roche-sur-Foron, France||France|Haute-Savoie|74|
+|1570|ZERO_RESULTS||||||
+|1571|OK|Nasbinals, France||France|Lozère|48|
+|1572|ZERO_RESULTS||||||
+|1573|ZERO_RESULTS||||||
+|1574|ZERO_RESULTS||||||
+|1575|OK|Pontorson, France||France|Manche|50|
+|1576|ZERO_RESULTS||||||
+|1577|OK|Saint-Pierre-de-Côle, France||France|Dordogne|24|
+|1578|OK|Rue de Saint-Laurent, 22540 Pédernec, France|22540|France|Cotes-d'Armor|22|
+|1579|ZERO_RESULTS||||||
+|1580|OK|Avenue de Virecourt, 54290 Virecourt, France|54290|France|Meurthe-et-Moselle|54|
+|1581|OK|17 Grande Rue de Périgny, 17180 Périgny, France|17180|France|Charente-maritime|17|
+|1582|OK|Rochefort, 17300 Rochefort, France|17300|France|Charente-maritime|17|
+|1583|ZERO_RESULTS||||||
+|1584|OK|Aérodrome de Niort - Souché (NIT), 79000 Niort, France|79000|France|Deux-Sevres|79|
+|1585|OK|Saintes, France||France|Charente-maritime|17|
+|1586|OK|Périgny, France||France|Charente-maritime|17|
+|1587|OK|La Chapelle Sainte-Marie, 35600 Sainte-Marie, France|35600|France|Ille-et-Vilaine|35|
+|1588|ZERO_RESULTS||||||
+|1589|OK|Santeny, France||France|Val-de-Marne|94|
+|1590|ZERO_RESULTS||||||
+|1591|OK|Nersac, France||France|Charente|16|
+|1592|OK|Machecoul, France||France|Loire-Atlantique|44|
+|1593|OK|Toulouse, France||France|Haute-Garonne|31|
+|1594|ZERO_RESULTS||||||
+|1595|OK|Arles, France||France|Bouches-du-Rhone|13|
+|1596|ZERO_RESULTS||||||
+|1597|OK|Rochegude, France||France|Drome|26|
+|1598|ZERO_RESULTS||||||
+|1599|ZERO_RESULTS||||||
+|1600|OK|Outarville, France||France|Loiret|45|
+|1601|OK|Costaros, France||France|Haute-Loire|43|
+|1602|OK|Serrières-de-Briord, France||France|Ain|01|
+|1603|OK|Puteaux, France||France|Hauts-de-Seine|92|
+|1604|OK|Derval, France||France|Loire-Atlantique|44|
+|1605|OK|36 Route d'Issoudun, 36100 Issoudun, France|36100|France|Indre|36|
+|1606|OK|Feurs, France||France|Loire|42|
+|1607|OK|Saint-Martin-Boulogne, France||France|Pas-de-Calais|62|
+|1608|OK|80700 Roye, France|80700|France|Somme|80|
+|1609|ZERO_RESULTS||||||
+|1610|OK|Golbey, France||France|Vosges|88|
+|1611|OK|Bénesse-lès-Dax, France||France|Landes|40|
+|1612|OK|Université de Nantes - Maison des Échanges Internationaux et de la Francophonie, 44000 Nantes, France|44000|France|Loire-Atlantique|44|
+|1613|OK|Génicourt, France||France|Val-d'Oise|95|
+|1614|OK|Plestan, France||France|Cotes-d'Armor|22|
+|1615|OK|Montbeugny, France||France|Allier|03|
+|1616|OK|Douchy, France||France|Loiret|45|
+|1617|ZERO_RESULTS||||||
+|1618|OK|70100 Gray, France|70100|France|Haute-Saône|70|
+|1619|OK|28500 Mézières-en-Drouais, France|28500|France|Eure-et-Loir|28|
+|1620|ZERO_RESULTS||||||
+|1621|OK|Riom, France||France|Puy-de-Dome|63|
+|1622|OK|Rue de Pontivy, 22600 Loudéac, France|22600|France|Cotes-d'Armor|22|
+|1623|OK|Cras-sur-Reyssouze, France||France|Ain|01|
+|1624|OK|71120 Charolles, France|71120|France|Saône-et-Loire|71|
+|1625|OK|Auxonne, France||France|Côte-d'Or|21|
+|1626|OK|Perreux, France||France|Loire|42|
+|1627|ZERO_RESULTS||||||
+|1628|ZERO_RESULTS||||||
+|1629|ZERO_RESULTS||||||
+|1630|OK|Broons, France||France|Cotes-d'Armor|22|
+|1631|OK|Pléboulle, France||France|Cotes-d'Armor|22|
+|1632|OK|56500 Locminé, France|56500|France|Morbihan|56|
+|1633|OK|Seilhac, France||France|Correze|19|
+|1634|OK|01190 Gorrevod, France|01190|France|Ain|01|
+|1635|OK|Villeneuve, France||France|Ain|01|
+|1636|ZERO_RESULTS||||||
+|1637|OK|Pléboulle, France||France|Cotes-d'Armor|22|
+|1638|OK|Pontivy, France||France|Morbihan|56|
+|1639|ZERO_RESULTS||||||
+|1640|OK|Saint-Évarzec, France||France|Finistere|29|
+|1641|OK|98 Rue de la République, 69310 Pierre-Bénite, France|69310|France|Rhône|69|
+|1642|OK|Saint-Vallier, France||France|Drome|26|
+|1643|OK|Metz, France||France|Moselle|57|
+|1644|OK|Oisseau-le-Petit, France||France|Sarthe|72|
+|1645|OK|Grapevine, TX 76051, USA|76051|United States|||
+|1646|ZERO_RESULTS||||||
+|1647|ZERO_RESULTS||||||
+|1648|ZERO_RESULTS||||||
+|1649|ZERO_RESULTS||||||
+|1650|OK|Metz, France||France|Moselle|57|
+|1651|OK|Mulhouse, France||France|Haut-Rhin|68|
+|1652|ZERO_RESULTS||||||
+|1653|OK|Ludres, France||France|Meurthe-et-Moselle|54|
+|1654|OK|Bruges, Belgium||Belgium|West Flanders|WV|
+|1655|OK|The Hague, The Netherlands||The Netherlands|The Hague|The Hague|
+|1656|OK|68600 Volgelsheim, France|68600|France|Haut-Rhin|68|
+|1657|ZERO_RESULTS||||||
+|1658|OK|Oisseau-le-Petit, France||France|Sarthe|72|
+|1659|ZERO_RESULTS||||||
+|1660|ZERO_RESULTS||||||
+|1661|OK|Rocester, Staffordshire ST14 5JP, UK|ST14 5JP|United Kingdom|Staffordshire|Staffordshire|
+|1662|OK|36400 La Châtre, France|36400|France|Indre|36|
+|1663|OK|Garchy, France||France|Nievre|58|
+|1664|ZERO_RESULTS||||||
+|1665|ZERO_RESULTS||||||
+|1666|ZERO_RESULTS||||||
+|1667|ZERO_RESULTS||||||
+|1668|OK|León, Guanajuato, Mexico||Mexico|||
+|1669|OK|Le Rheu, France||France|Ille-et-Vilaine|35|
+|1670|OK|Fontenay-le-Comte, France||France|Vendee|85|
+|1671|OK|The Hague, The Netherlands||The Netherlands|The Hague|The Hague|
+|1672|ZERO_RESULTS||||||
+|1673|ZERO_RESULTS||||||
+|1674|OK|Saint-Pourçain-sur-Sioule, France||France|Allier|03|
+|1675|OK|Villeparisis, France||France|Seine-et-Marne|77|
+|1676|ZERO_RESULTS||||||
+|1677|OK|Landivisiau, France||France|Finistere|29|
+|1678|OK|Saint-Bonnet-de-Mure, France||France|Rhône|69|
+|1679|OK|St-Priest-en-Jarez, France||France|Loire|42|
+|1680|OK|Rue du Vignolle, 95200 Sarcelles, France|95200|France|Val-d'Oise|95|
+|1681|ZERO_RESULTS||||||
+|1682|ZERO_RESULTS||||||
+|1683|ZERO_RESULTS||||||
+|1684|OK|Theix, France||France|Morbihan|56|
+|1685|OK|Chasseneuil-du-Poitou, France||France|Vienne|86|
+|1686|ZERO_RESULTS||||||
+|1687|OK|11400 Castelnaudary, France|11400|France|Aude|11|
+|1688|OK|Clermont-Ferrand, France||France|Puy-de-Dome|63|
+|1689|ZERO_RESULTS||||||
+|1690|OK|Pamiers, France||France|Ariege|09|
+|1691|ZERO_RESULTS||||||
+|1692|OK|Lakeside Works, Dentstone Road, Rocester, Uttoxeter, Staffordshire ST14 5JP, UK|ST14 5JP|United Kingdom|Staffordshire|Staffordshire|
+|1693|ZERO_RESULTS||||||
+|1694|OK|Cranves-Sales, France||France|Haute-Savoie|74|
+|1695|OK|Bordeaux-Mérignac Airport (BOD), Avenue René Cassin, 33700 Mérignac, France|33700|France|Gironde|33|
+|1696|INVALID_REQUEST||||||
+|1697|ZERO_RESULTS||||||
+|1698|OK|Le Rheu, France||France|Ille-et-Vilaine|35|
+|1699|ZERO_RESULTS||||||
+|1700|ZERO_RESULTS||||||
+|1701|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|1702|OK|Péronne, France||France|Somme|80|
+|1703|OK|Montpellier, France||France|Hérault|34|
+|1704|OK|29 Rue Gilles de Roberval, 87280 Limoges, France|87280|France|Haute-Vienne|87|
+|1705|OK|Limoges, France||France|Haute-Vienne|87|
+|1706|OK|Brest, France||France|Finistere|29|
+|1707|ZERO_RESULTS||||||
+|1708|OK|Cholet, France||France|Maine-et-Loire|Maine-et-Loire|
+|1709|ZERO_RESULTS||||||
+|1710|OK|The Hague, The Netherlands||The Netherlands|The Hague|The Hague|
+|1711|ZERO_RESULTS||||||
+|1712|ZERO_RESULTS||||||
+|1713|OK|Lakeside Works, Dentstone Road, Rocester, Uttoxeter, Staffordshire ST14 5JP, UK|ST14 5JP|United Kingdom|Staffordshire|Staffordshire|
+|1714|OK|Le Muy, France||France|Var|83|
+|1715|ZERO_RESULTS||||||
+|1716|ZERO_RESULTS||||||
+|1717|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|1718|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|1719|INVALID_REQUEST||||||
+|1720|OK|1110, Austria|1110|Austria|||
+|1721|OK|Szigetszentmiklós, Hungary||Hungary|Ráckevei|Ráckevei|
+|1722|OK|1110, Austria|1110|Austria|||
+|1723|OK|1110, Austria|1110|Austria|||
+|1724|OK|Graf-Zeppelin-Straße 8, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|1725|OK|Äußere Industriestraße 22, Gewerbegebiet Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|1726|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|1727|OK|Adelsheim, Germany||Germany|Karlsruhe|KA|
+|1728|OK|Kürzell, 77974 Meißenheim, Germany|77974|Germany|Freiburg|Freiburg|
+|1729|OK|Riedhausen, Germany||Germany|Tübingen|TÜ|
+|1730|OK|Edme, Flugplatz Zainachde, 84307 Eggenfelden, Germany|84307|Germany|Lower Bavaria|Lower Bavaria|
+|1731|OK|Kürzell, 77974 Meißenheim, Germany|77974|Germany|Freiburg|Freiburg|
+|1732|OK|Messegelände, 30521 Hanover, Germany|30521|Germany|||
+|1733|OK|Germaringen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1734|OK|Egg an der Günz, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1735|OK|Hagelstadt, 93095 Hagelstadt, Germany|93095|Germany|Upper Palatinate|Upper Palatinate|
+|1736|OK|Winterbruckenweg 21, Gewerbegebiet Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|1737|OK|Garching, 85748 Garching, Germany|85748|Germany|Upper Bavaria|Upper Bavaria|
+|1738|OK|Lindau, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1739|ZERO_RESULTS||||||
+|1740|OK|Eberswalde, Germany||Germany|||
+|1741|OK|Unterknöringen, 89331 Burgau, Germany|89331|Germany|Bavarian Swabia|Bavarian Swabia|
+|1742|OK|Mammendorf, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|1743|ZERO_RESULTS||||||
+|1744|ZERO_RESULTS||||||
+|1745|ZERO_RESULTS||||||
+|1746|OK|Dägeling, Germany||Germany|||
+|1747|ZERO_RESULTS||||||
+|1748|OK|Rickling, 24635 Rickling, Germany|24635|Germany|||
+|1749|OK|Rosenstraße 33, 23795 Bad Segeberg, Germany|23795|Germany|||
+|1750|ZERO_RESULTS||||||
+|1751|ZERO_RESULTS||||||
+|1752|ZERO_RESULTS||||||
+|1753|OK|Hans-Böckler-Straße 12A, 64521 Groß-Gerau, Germany|64521|Germany|Darmstadt|DA|
+|1754|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|1755|OK|Industriestraße 20, 72221 Haiterbach, Germany|72221|Germany|Karlsruhe|KA|
+|1756|OK|Bierbronnen, 79809 Weilheim, Germany|79809|Germany|Freiburg|Freiburg|
+|1757|OK|Kirn, Germany||Germany|||
+|1758|OK|Jördenstorf, Germany||Germany|||
+|1759|INVALID_REQUEST||||||
+|1760|ZERO_RESULTS||||||
+|1761|OK|Werner-von-Siemens-Straße 14, 78224 Singen, Germany|78224|Germany|Freiburg|Freiburg|
+|1762|OK|Lehr, 89081 Ulm, Germany|89081|Germany|Tübingen|TÜ|
+|1763|OK|73457 Essingen, Germany|73457|Germany|Stuttgart|S|
+|1764|OK|Hainspitz, Germany||Germany|||
+|1765|OK|Zöschingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1766|OK|Günzburg, 89312 Günzburg, Germany|89312|Germany|Bavarian Swabia|Bavarian Swabia|
+|1767|OK|Neusäß, 86356 Neusäß, Germany|86356|Germany|Bavarian Swabia|Bavarian Swabia|
+|1768|OK|Wangen im Allgäu, Germany||Germany|||
+|1769|OK|Medlingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1770|OK|Bissingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1771|OK|Langenau, Germany||Germany|||
+|1772|ZERO_RESULTS||||||
+|1773|OK|Giengen, Germany||Germany|Stuttgart|S|
+|1774|ZERO_RESULTS||||||
+|1775|ZERO_RESULTS||||||
+|1776|OK|Ellwangen, 73479 Ellwangen, Germany|73479|Germany|Stuttgart|S|
+|1777|OK|28197 Bremen, Germany|28197|Germany|||
+|1778|OK|Kirchen-Hausen, 78187 Geisingen, Germany|78187|Germany|Freiburg|Freiburg|
+|1779|ZERO_RESULTS||||||
+|1780|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|1781|OK|Gersthofen, 86368 Gersthofen, Germany|86368|Germany|Bavarian Swabia|Bavarian Swabia|
+|1782|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|1783|OK|Langenhagen, Germany||Germany|||
+|1784|OK|Göppingen, Germany||Germany|Stuttgart|S|
+|1785|OK|Kümperstiege 2, 48341 Altenberge, Germany|48341|Germany|Münster|Münster|
+|1786|OK|An den Burwiesen, 49525 Lengerich, Germany|49525|Germany|Münster|Münster|
+|1787|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|1788|ZERO_RESULTS||||||
+|1789|OK|Pappelhain 20, 15378 Rüdersdorf, Germany|15378|Germany|||
+|1790|OK|6500 Vojens Municipality, Denmark|6500|Denmark|Haderslev Municipality|Haderslev Municipality|
+|1791|OK|49453 Rehden, Germany|49453|Germany|||
+|1792|OK|Neumünster, Germany||Germany|||
+|1793|OK|Bremen, Germany||Germany|||
+|1794|OK|Bochum, Germany||Germany|||
+|1795|OK|Lehr, 89081 Ulm, Germany|89081|Germany|Tübingen|TÜ|
+|1796|ZERO_RESULTS||||||
+|1797|OK|Stralsund, Germany||Germany|||
+|1798|ZERO_RESULTS||||||
+|1799|OK|Papenburg, Germany||Germany|||
+|1800|ZERO_RESULTS||||||
+|1801|OK|Döbeln, Germany||Germany|Chemnitz|C|
+|1802|ZERO_RESULTS||||||
+|1803|OK|Schwarmstedt, Germany||Germany|||
+|1804|OK|Paderborn, Germany||Germany|Detmold|Detmold|
+|1805|OK|Werlte, Germany||Germany|||
+|1806|ZERO_RESULTS||||||
+|1807|OK|Industriestraße, 77839 Lichtenau, Germany|77839|Germany|Karlsruhe|KA|
+|1808|OK|Frankenthal, Germany||Germany|||
+|1809|ZERO_RESULTS||||||
+|1810|OK|Ludwigshafen, Germany||Germany|||
+|1811|ZERO_RESULTS||||||
+|1812|OK|Möglingen, Germany||Germany|Stuttgart|S|
+|1813|OK|Biblis, 68647 Biblis, Germany|68647|Germany|Darmstadt|DA|
+|1814|ZERO_RESULTS||||||
+|1815|ZERO_RESULTS||||||
+|1816|OK|Gaggenau, Germany||Germany|Karlsruhe|KA|
+|1817|ZERO_RESULTS||||||
+|1818|OK|Fürth, Germany||Germany|Middle Franconia|Middle Franconia|
+|1819|OK|Malsch, Germany||Germany|Karlsruhe|KA|
+|1820|OK|Nettetal, Germany||Germany|Düsseldorf|D|
+|1821|OK|Steinbach, 76534 Baden-Baden, Germany|76534|Germany|Karlsruhe|KA|
+|1822|ZERO_RESULTS||||||
+|1823|OK|Bad Dürkheim, Germany||Germany|||
+|1824|ZERO_RESULTS||||||
+|1825|OK|73037 Göppingen, Germany|73037|Germany|Stuttgart|S|
+|1826|OK|Siemensstraße 2, 79331 Teningen, Germany|79331|Germany|Freiburg|Freiburg|
+|1827|OK|Am Koppelrain 1, 79331 Teningen, Germany|79331|Germany|Freiburg|Freiburg|
+|1828|OK|Hofweier, 77749 Hohberg, Germany|77749|Germany|Freiburg|Freiburg|
+|1829|ZERO_RESULTS||||||
+|1830|OK|Cologne, Germany||Germany|Cologne|K|
+|1831|ZERO_RESULTS||||||
+|1832|OK|35394 Giessen, Germany|35394|Germany|Giessen|GI|
+|1833|OK|Bad Schwartau, 23611 Bad Schwartau, Germany|23611|Germany|||
+|1834|OK|Helmshäger Straße, 17489 Greifswald, Germany|17489|Germany|Greifswald|Greifswald|
+|1835|OK|Werne, Germany||Germany|||
+|1836|OK|Jördenstorf, Germany||Germany|||
+|1837|OK|Wessin, Germany||Germany|||
+|1838|ZERO_RESULTS||||||
+|1839|OK|Neumünster, Germany||Germany|||
+|1840|OK|Hanover, Germany||Germany|||
+|1841|OK|Tiergehege im Kaisergarten, 46049 Oberhausen, Germany|46049|Germany|Düsseldorf|D|
+|1842|OK|80999 Munich, Germany|80999|Germany|Upper Bavaria|Upper Bavaria|
+|1843|OK|Passow, Germany||Germany|||
+|1844|OK|85051 Ingolstadt, Germany|85051|Germany|Upper Bavaria|Upper Bavaria|
+|1845|OK|Schwelm, 58332 Schwelm, Germany|58332|Germany|Arnsberg|Arnsberg|
+|1846|ZERO_RESULTS||||||
+|1847|OK|53842 Troisdorf, Germany|53842|Germany|Cologne|K|
+|1848|OK|04347 Leipzig, Germany|04347|Germany|Leipzig|Leipzig|
+|1849|ZERO_RESULTS||||||
+|1850|OK|12105 Berlin, Germany|12105|Germany|||
+|1851|OK|Mörfelden, 64546 Mörfelden-Walldorf, Germany|64546|Germany|Darmstadt|DA|
+|1852|ZERO_RESULTS||||||
+|1853|OK|Lehr, 89081 Ulm, Germany|89081|Germany|Tübingen|TÜ|
+|1854|OK|Buseck, Germany||Germany|Giessen|GI|
+|1855|OK|Klein Schulzendorf, Trebbin, Germany||Germany|||
+|1856|OK|Ehrang, 54293 Trier, Germany|54293|Germany|||
+|1857|OK|Hasbergen, Germany||Germany|||
+|1858|OK|Lauf an der Pegnitz, Germany||Germany|Middle Franconia|Middle Franconia|
+|1859|ZERO_RESULTS||||||
+|1860|OK|Erkheim, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1861|OK|Quirnheim, Germany||Germany|||
+|1862|OK|Oetzen, Germany||Germany|||
+|1863|OK|Oyten, Germany||Germany|||
+|1864|OK|Hainspitz, Germany||Germany|||
+|1865|ZERO_RESULTS||||||
+|1866|OK|Lichtenau, Germany||Germany|Karlsruhe|KA|
+|1867|OK|Wendelstein, Germany||Germany|Middle Franconia|Middle Franconia|
+|1868|OK|44807 Bochum, Germany|44807|Germany|Arnsberg|Arnsberg|
+|1869|OK|Hennersdorf, Germany||Germany|||
+|1870|OK|Cologne, Germany||Germany|Cologne|K|
+|1871|OK|39606 Osterburg, Germany|39606|Germany|||
+|1872|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|1873|OK|Spangenberg, Germany||Germany|Kassel|KS|
+|1874|OK|Morl, Germany||Germany|||
+|1875|OK|Staßfurt, 39418 Staßfurt, Germany|39418|Germany|||
+|1876|OK|45131 Essen, Germany|45131|Germany|Düsseldorf|D|
+|1877|ZERO_RESULTS||||||
+|1878|ZERO_RESULTS||||||
+|1879|OK|Magdeburg, Germany||Germany|||
+|1880|ZERO_RESULTS||||||
+|1881|OK|Issel, 54338 Schweich, Germany|54338|Germany|||
+|1882|OK|Nempitz, Germany||Germany|||
+|1883|OK|Hamburg, Germany||Germany|||
+|1884|OK|Hamburg, Germany||Germany|||
+|1885|OK|Bremen, Germany||Germany|||
+|1886|OK|Vahrenwald, Hanover, Germany||Germany|||
+|1887|OK|Steimker Straße 2, 29386 Hankensbüttel, Germany|29386|Germany|||
+|1888|ZERO_RESULTS||||||
+|1889|ZERO_RESULTS||||||
+|1890|OK|Geister Landweg 14, 48153 Münster, Germany|48153|Germany|Münster|Münster|
+|1891|OK|Osterburg, PA 16667, USA|16667|United States|Bedford|Bedford|
+|1892|OK|Holmegade 58, 6990 Ulfborg, Denmark|6990|Denmark|Holstebro Municipality|Holstebro Municipality|
+|1893|ZERO_RESULTS||||||
+|1894|OK|Osterhofen, Germany||Germany|Lower Bavaria|Lower Bavaria|
+|1895|OK|Könen, Konz, Germany||Germany|||
+|1896|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|1897|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|1898|OK|Fordingbridge, Hampshire SP6, UK||United Kingdom|Hampshire|Hampshire|
+|1899|OK|Lerche, 59077 Hamm, Germany|59077|Germany|Arnsberg|Arnsberg|
+|1900|OK|Hofer Straße 6, Gewerbegebiet Haslbach, 93057 Regensburg, Germany|93057|Germany|Upper Palatinate|Upper Palatinate|
+|1901|ZERO_RESULTS||||||
+|1902|ZERO_RESULTS||||||
+|1903|ZERO_RESULTS||||||
+|1904|ZERO_RESULTS||||||
+|1905|OK|6235 Ulestraten, The Netherlands||The Netherlands|Meerssen|Meerssen|
+|1906|OK|Cologne, Germany||Germany|Cologne|K|
+|1907|OK|Gelsenkirchen, Germany||Germany|Münster|Münster|
+|1908|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|1909|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|1910|OK|Holmegade 58, 6990 Ulfborg, Denmark|6990|Denmark|Holstebro Municipality|Holstebro Municipality|
+|1911|OK|Kieler Straße, Neumünster, Germany||Germany|||
+|1912|OK|Steimker Straße 2, 29386 Hankensbüttel, Germany|29386|Germany|||
+|1913|OK|Posthalterring 3, Gewerbegebiet Parsdorf, 85599 Vaterstetten, Germany|85599|Germany|Upper Bavaria|Upper Bavaria|
+|1914|OK|Neukirchen, 4671 Neukirchen bei Lambach, Austria|4671|Austria|Wels-Land District|Wels-Land District|
+|1915|OK|Dreistern, 02633 Göda, Germany|02633|Germany|Dresden|DD|
+|1916|ZERO_RESULTS||||||
+|1917|OK|Mehlbachstrift 9, 21339 Lüneburg, Germany|21339|Germany|||
+|1918|OK|Offenbach, Germany||Germany|Darmstadt|DA|
+|1919|OK|Flensburger Straße, 24537 Neumünster, Germany|24537|Germany|Neumünster|Neumünster|
+|1920|OK|Nordhäuser Straße 39, 99734 Nordhausen, Germany|99734|Germany|||
+|1921|OK|Ruhrstraße 54, 58332 Schwelm, Germany|58332|Germany|Arnsberg|Arnsberg|
+|1922|ZERO_RESULTS||||||
+|1923|OK|Wertingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1924|OK|Stadtklinik Frankenthal, Elsa-Brändström-Straße 1, 67227 Frankenthal, Germany|67227|Germany|||
+|1925|OK|Kaufungen, Germany||Germany|Kassel|KS|
+|1926|ZERO_RESULTS||||||
+|1927|OK|Braunlage, Germany||Germany|||
+|1928|OK|Buseck, Germany||Germany|Giessen|GI|
+|1929|OK|Pritzwalk, 16928 Pritzwalk, Germany|16928|Germany|||
+|1930|OK|Gotha, Germany||Germany|||
+|1931|ZERO_RESULTS||||||
+|1932|OK|Rheinstetten, Germany||Germany|Karlsruhe|KA|
+|1933|OK|Heidenauer Straße 1, 01796 Pirna, Germany|01796|Germany|Dresden|DD|
+|1934|OK|Hofer Straße 33, 95119 Naila, Germany|95119|Germany|Upper Franconia|Upper Franconia|
+|1935|OK|Niehorst, 33334 Gütersloh, Germany|33334|Germany|Detmold|Detmold|
+|1936|OK|Neustadt, Germany||Germany|||
+|1937|OK|Waardenburg, Koeldert 28, 4181 Waardenburg, The Netherlands||The Netherlands|Neerijnen|Neerijnen|
+|1938|ZERO_RESULTS||||||
+|1939|ZERO_RESULTS||||||
+|1940|ZERO_RESULTS||||||
+|1941|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|1942|OK|Bad Schwartau, 23611 Bad Schwartau, Germany|23611|Germany|||
+|1943|OK|Teningen, Germany||Germany|Freiburg|Freiburg|
+|1944|OK|Buseck, Germany||Germany|Giessen|GI|
+|1945|OK|44149 Dortmund, Germany|44149|Germany|Arnsberg|Arnsberg|
+|1946|OK|Hasbergen, Germany||Germany|||
+|1947|OK|Aschheim, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|1948|OK|Hasbergen, Germany||Germany|||
+|1949|ZERO_RESULTS||||||
+|1950|OK|Annaberg-Buchholz, Germany||Germany|Chemnitz|C|
+|1951|OK|Bremen, Germany||Germany|||
+|1952|OK|Nortmoor, Germany||Germany|||
+|1953|OK|Spinnereistraße 13, 04179 Leipzig, Germany|04179|Germany|Leipzig|Leipzig|
+|1954|OK|Vulkanstraße 13, 10367 Berlin, Germany|10367|Germany|||
+|1955|OK|Ostrau, Bahnhof, 04749 Ostrau, Germany|04749|Germany|Chemnitz|C|
+|1956|OK|Grimma, Germany||Germany|Leipzig|Leipzig|
+|1957|ZERO_RESULTS||||||
+|1958|OK|Lauf an der Pegnitz, Germany||Germany|Middle Franconia|Middle Franconia|
+|1959|OK|96050 Bamberg, Germany|96050|Germany|Upper Franconia|Upper Franconia|
+|1960|OK|Ehrang, 54293 Trier, Germany|54293|Germany|||
+|1961|ZERO_RESULTS||||||
+|1962|OK|Bologna, Italy||Italy|Bologna|BO|
+|1963|OK|34127 Kassel, Germany|34127|Germany|Kassel|KS|
+|1964|OK|Oetzen, Germany||Germany|||
+|1965|OK|Lillebonne, France||France|Seine-Maritime|76|
+|1966|OK|Aschara, 99947 Bad Langensalza, Germany|99947|Germany|||
+|1967|OK|Kranenburg, Germany||Germany|Düsseldorf|D|
+|1968|ZERO_RESULTS||||||
+|1969|OK|Börm, Germany||Germany|||
+|1970|OK|30521 Hanover, Germany|30521|Germany|||
+|1971|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|1972|OK|Neumünster, Germany||Germany|||
+|1973|OK|Neumünster, Germany||Germany|||
+|1974|OK|Hanover, Germany||Germany|||
+|1975|OK|Hanover, Germany||Germany|||
+|1976|OK|Messegelände, 30521 Hanover, Germany|30521|Germany|||
+|1977|ZERO_RESULTS||||||
+|1978|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|1979|ZERO_RESULTS||||||
+|1980|OK|Göppingen, Germany||Germany|Stuttgart|S|
+|1981|OK|Göppingen, Germany||Germany|Stuttgart|S|
+|1982|OK|49453 Rehden, Germany|49453|Germany|||
+|1983|OK|Gersthofen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|1984|ZERO_RESULTS||||||
+|1985|OK|Hagelstadt, Germany||Germany|Upper Palatinate|Upper Palatinate|
+|1986|OK|Mörlenbach, Germany||Germany|Darmstadt|DA|
+|1987|OK|Bremen, Germany||Germany|||
+|1988|ZERO_RESULTS||||||
+|1989|ZERO_RESULTS||||||
+|1990|OK|Papenburg, Germany||Germany|||
+|1991|ZERO_RESULTS||||||
+|1992|OK|Papenburg, Germany||Germany|||
+|1993|OK|Tucson, AZ 85748, USA|85748|United States|Pima|Pima|
+|1994|OK|Immenhausen, Germany||Germany|Kassel|KS|
+|1995|OK|Apensen, Germany||Germany|||
+|1996|OK|Dägeling, Germany||Germany|||
+|1997|OK|Kleinbautzen, Malschwitz, Germany||Germany|Dresden|DD|
+|1998|ZERO_RESULTS||||||
+|1999|ZERO_RESULTS||||||
+|2000|OK|Bücken, Germany||Germany|||
+|2001|OK|Trasa Bursztynowa, Kalisz, Poland||Poland|Kalisz County|Kalisz County|
+|2002|OK|Aachen, Germany||Germany|Cologne|K|
+|2003|OK|Göppingen, Germany||Germany|Stuttgart|S|
+|2004|ZERO_RESULTS||||||
+|2005|OK|Langenzenn, Germany||Germany|Middle Franconia|Middle Franconia|
+|2006|ZERO_RESULTS||||||
+|2007|ZERO_RESULTS||||||
+|2008|ZERO_RESULTS||||||
+|2009|OK|Meppen, Germany||Germany|||
+|2010|ZERO_RESULTS||||||
+|2011|OK|30179 Hanover, Germany|30179|Germany|||
+|2012|OK|Laer, 49196 Bad Laer, Germany|49196|Germany|||
+|2013|OK|Aarschot, Belgium||Belgium|Flemish Brabant|VB|
+|2014|OK|Husum, Germany||Germany|||
+|2015|OK|Tollwitz, Germany||Germany|||
+|2016|OK|Backnang, 71522 Backnang, Germany|71522|Germany|Stuttgart|S|
+|2017|ZERO_RESULTS||||||
+|2018|OK|Engelbrechtsmünster, 85290 Geisenfeld, Germany|85290|Germany|Upper Bavaria|Upper Bavaria|
+|2019|OK|Heckenweg 12, 54597 Auw bei Prüm, Germany|54597|Germany|||
+|2020|ZERO_RESULTS||||||
+|2021|ZERO_RESULTS||||||
+|2022|ZERO_RESULTS||||||
+|2023|OK|47119 Duisburg, Germany|47119|Germany|Düsseldorf|D|
+|2024|ZERO_RESULTS||||||
+|2025|ZERO_RESULTS||||||
+|2026|ZERO_RESULTS||||||
+|2027|OK|Altenberge, Germany||Germany|Münster|Münster|
+|2028|OK|Mittelrode, 31832 Springe, Germany|31832|Germany|||
+|2029|OK|Hennersdorf, Germany||Germany|||
+|2030|OK|90471 Nuremberg, Germany|90471|Germany|Middle Franconia|Middle Franconia|
+|2031|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2032|OK|Ebbinghausen, 59597 Erwitte, Germany|59597|Germany|Arnsberg|Arnsberg|
+|2033|OK|Helmstedt, Germany||Germany|||
+|2034|ZERO_RESULTS||||||
+|2035|ZERO_RESULTS||||||
+|2036|OK|Geilenkirchen, Germany||Germany|Cologne|K|
+|2037|INVALID_REQUEST||||||
+|2038|INVALID_REQUEST||||||
+|2039|ZERO_RESULTS||||||
+|2040|OK|Hanover, Germany||Germany|||
+|2041|OK|Großräschen, Germany||Germany|||
+|2042|OK|Wiener Neudorf, Austria||Austria|Mödling District|Mödling District|
+|2043|ZERO_RESULTS||||||
+|2044|ZERO_RESULTS||||||
+|2045|OK|Glauchau, Germany||Germany|Chemnitz|C|
+|2046|OK|Prüm, Germany||Germany|||
+|2047|ZERO_RESULTS||||||
+|2048|OK|Cottbus, Germany||Germany|||
+|2049|OK|Grimma, Germany||Germany|Leipzig|Leipzig|
+|2050|OK|Nüziders, Austria||Austria|Bludenz District|Bludenz District|
+|2051|OK|Industriegelände 4, 94522 Wallersdorf, Germany|94522|Germany|Lower Bavaria|Lower Bavaria|
+|2052|INVALID_REQUEST||||||
+|2053|OK|Industriestraße 11, 89081 Ulm, Germany|89081|Germany|Tübingen|TÜ|
+|2054|OK|Jülich, Germany||Germany|Cologne|K|
+|2055|OK|Baiersbronn, Germany||Germany|Karlsruhe|KA|
+|2056|OK|35396 Giessen, Germany|35396|Germany|Giessen|GI|
+|2057|ZERO_RESULTS||||||
+|2058|OK|Oerel, Germany||Germany|||
+|2059|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2060|OK|Nortmoor, Germany||Germany|||
+|2061|ZERO_RESULTS||||||
+|2062|OK|Dettelbach, Germany||Germany|Lower Franconia|Lower Franconia|
+|2063|OK|Talstraße, 57482 Wenden, Germany|57482|Germany|Arnsberg|Arnsberg|
+|2064|OK|Atzendorfer Straße 19, 39418 Staßfurt, Germany|39418|Germany|||
+|2065|OK|Frankfurter Straße 20, 35392 Giessen, Germany|35392|Germany|Giessen|GI|
+|2066|OK|59423 Unna, Germany|59423|Germany|Arnsberg|Arnsberg|
+|2067|ZERO_RESULTS||||||
+|2068|ZERO_RESULTS||||||
+|2069|OK|Unter dem Dostler 4, 54293 Trier, Germany|54293|Germany|||
+|2070|OK|Kreuzau, Germany||Germany|Cologne|K|
+|2071|OK|Flinschstraße 53, 60388 Frankfurt, Germany|60388|Germany|Darmstadt|DA|
+|2072|OK|Frankfurt, Germany||Germany|Darmstadt|DA|
+|2073|ZERO_RESULTS||||||
+|2074|OK|Flugplatz Zerbst, Germany||Germany|||
+|2075|OK|17034 Neubrandenburg, Germany|17034|Germany|||
+|2076|ZERO_RESULTS||||||
+|2077|ZERO_RESULTS||||||
+|2078|ZERO_RESULTS||||||
+|2079|ZERO_RESULTS||||||
+|2080|OK|Passow, Germany||Germany|||
+|2081|OK|Pinnow, 17390 Murchin, Germany|17390|Germany|||
+|2082|OK|17098 Friedland, Germany|17098|Germany|||
+|2083|OK|Waren, Germany||Germany|||
+|2084|OK|Auerbach, Germany||Germany|Chemnitz|C|
+|2085|OK|Roggendorf, Germany||Germany|||
+|2086|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|2087|ZERO_RESULTS||||||
+|2088|OK|Greifswald, Germany||Germany|||
+|2089|ZERO_RESULTS||||||
+|2090|ZERO_RESULTS||||||
+|2091|OK|Woldegk, Germany||Germany|||
+|2092|OK|Frankfurt an der Oder, Germany||Germany|||
+|2093|OK|Cramonshagen, Germany||Germany|||
+|2094|ZERO_RESULTS||||||
+|2095|ZERO_RESULTS||||||
+|2096|ZERO_RESULTS||||||
+|2097|ZERO_RESULTS||||||
+|2098|OK|Grevesmühlen, Germany||Germany|||
+|2099|OK|Hagenow, Germany||Germany|||
+|2100|ZERO_RESULTS||||||
+|2101|ZERO_RESULTS||||||
+|2102|ZERO_RESULTS||||||
+|2103|ZERO_RESULTS||||||
+|2104|ZERO_RESULTS||||||
+|2105|OK|Frankfurt an der Oder, Germany||Germany|||
+|2106|ZERO_RESULTS||||||
+|2107|OK|Wolgast, Germany||Germany|||
+|2108|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2109|ZERO_RESULTS||||||
+|2110|OK|Germany||Germany|||
+|2111|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|2112|ZERO_RESULTS||||||
+|2113|ZERO_RESULTS||||||
+|2114|ZERO_RESULTS||||||
+|2115|OK|Thüle, 33154 Salzkotten, Germany|33154|Germany|Detmold|Detmold|
+|2116|ZERO_RESULTS||||||
+|2117|ZERO_RESULTS||||||
+|2118|ZERO_RESULTS||||||
+|2119|OK|Zell, Germany||Germany|Freiburg|Freiburg|
+|2120|OK|Versmold, Germany||Germany|Detmold|Detmold|
+|2121|OK|Langbroich, 52538 Gangelt, Germany|52538|Germany|Cologne|K|
+|2122|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2123|OK|Horn-Bad Meinberg, Germany||Germany|Detmold|Detmold|
+|2124|OK|Oberhausen, Germany||Germany|Düsseldorf|D|
+|2125|ZERO_RESULTS||||||
+|2126|ZERO_RESULTS||||||
+|2127|OK|Rietberg, Germany||Germany|Detmold|Detmold|
+|2128|OK|Preußisch Oldendorf, Germany||Germany|Detmold|Detmold|
+|2129|OK|Losheim, Germany||Germany|||
+|2130|ZERO_RESULTS||||||
+|2131|OK|Oyten, Germany||Germany|||
+|2132|OK|Raesfeld, Germany||Germany|Münster|Münster|
+|2133|OK|Middelburg, The Netherlands||The Netherlands|Middelburg|Middelburg|
+|2134|OK|Kalkar, Germany||Germany|Düsseldorf|D|
+|2135|ZERO_RESULTS||||||
+|2136|ZERO_RESULTS||||||
+|2137|ZERO_RESULTS||||||
+|2138|OK|54293 Trier, Germany|54293|Germany|||
+|2139|OK|Air Base (GKE), Lilienthalallee 100, 52511 Geilenkirchen, Germany|52511|Germany|Cologne|K|
+|2140|OK|Waldstraße 2, 54441 Wellen, Germany|54441|Germany|||
+|2141|OK|Simonshofen, 91207 Lauf an der Pegnitz, Germany|91207|Germany|Middle Franconia|Middle Franconia|
+|2142|ZERO_RESULTS||||||
+|2143|OK|80333 Munich, Germany|80333|Germany|Upper Bavaria|Upper Bavaria|
+|2144|ZERO_RESULTS||||||
+|2145|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2146|OK|Eslarn, Germany||Germany|Upper Palatinate|Upper Palatinate|
+|2147|ZERO_RESULTS||||||
+|2148|OK|Im Zusamtal 8, 86441 Zusmarshausen, Germany|86441|Germany|Bavarian Swabia|Bavarian Swabia|
+|2149|OK|Im Zusamtal 8, 86441 Zusmarshausen, Germany|86441|Germany|Bavarian Swabia|Bavarian Swabia|
+|2150|OK|49453 Rehden, Germany|49453|Germany|||
+|2151|ZERO_RESULTS||||||
+|2152|OK|Auerbach, Germany||Germany|Chemnitz|C|
+|2153|OK|Germany||Germany|||
+|2154|OK|Bahnhofstraße 1, 29588 Oetzen, Germany|29588|Germany|||
+|2155|OK|39606 Osterburg, Germany|39606|Germany|||
+|2156|OK|Helmstedt, Germany||Germany|||
+|2157|ZERO_RESULTS||||||
+|2158|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2159|OK|Badel, Kalbe, Germany||Germany|||
+|2160|ZERO_RESULTS||||||
+|2161|ZERO_RESULTS||||||
+|2162|ZERO_RESULTS||||||
+|2163|ZERO_RESULTS||||||
+|2164|ZERO_RESULTS||||||
+|2165|OK|Grapevine, TX 76051, USA|76051|United States|||
+|2166|OK|Rocester, Staffordshire ST14 5JP, UK|ST14 5JP|United Kingdom|Staffordshire|Staffordshire|
+|2167|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2168|OK|51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2169|OK|Erfurt, Germany||Germany|||
+|2170|OK|51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2171|OK|34127 Kassel, Germany|34127|Germany|Kassel|KS|
+|2172|OK|Postliner Straße 18, 19357 Karstädt, Germany|19357|Germany|||
+|2173|OK|Döllstädt, Germany||Germany|||
+|2174|ZERO_RESULTS||||||
+|2175|OK|Landau an der Isar, Germany||Germany|Lower Bavaria|Lower Bavaria|
+|2176|OK|Eltmann, Germany||Germany|Lower Franconia|Lower Franconia|
+|2177|OK|Lindau, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2178|OK|Kamp-Lintfort, Germany||Germany|Düsseldorf|D|
+|2179|OK|Rosdorf, Germany||Germany|||
+|2180|OK|Brand-Erbisdorf, Germany||Germany|Chemnitz|C|
+|2181|OK|Wolframs-Eschenbach, Germany||Germany|Middle Franconia|Middle Franconia|
+|2182|OK|Seelow, Germany||Germany|||
+|2183|OK|Rethem/Aller, Germany||Germany|||
+|2184|OK|Mörlenbach, 69509 Mörlenbach, Germany|69509|Germany|Darmstadt|DA|
+|2185|OK|Bitburg, 54634 Bitburg, Germany|54634|Germany|||
+|2186|OK|73037 Göppingen, Germany|73037|Germany|Stuttgart|S|
+|2187|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|2188|OK|Hennersdorf, Germany||Germany|||
+|2189|OK|Simonshofen, 91207 Lauf an der Pegnitz, Germany|91207|Germany|Middle Franconia|Middle Franconia|
+|2190|OK|Bad Schwartau, 23611 Bad Schwartau, Germany|23611|Germany|||
+|2191|OK|Meppen, Germany||Germany|||
+|2192|OK|Jördenstorf, Germany||Germany|||
+|2193|OK|Haiterbach, Germany||Germany|Karlsruhe|KA|
+|2194|OK|Jördenstorf, Germany||Germany|||
+|2195|OK|Ilmendorf, 85290 Geisenfeld, Germany|85290|Germany|Upper Bavaria|Upper Bavaria|
+|2196|OK|44807 Bochum, Germany|44807|Germany|Arnsberg|Arnsberg|
+|2197|OK|Langenzenn, 90579 Langenzenn, Germany|90579|Germany|Middle Franconia|Middle Franconia|
+|2198|OK|Lehr, 89081 Ulm, Germany|89081|Germany|Tübingen|TÜ|
+|2199|OK|Buseck, Germany||Germany|Giessen|GI|
+|2200|OK|30179 Hanover, Germany|30179|Germany|||
+|2201|OK|Bobingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2202|OK|Ladbergen, Germany||Germany|Münster|Münster|
+|2203|ZERO_RESULTS||||||
+|2204|OK|Barbis, 37431 Bad Lauterberg, Germany|37431|Germany|||
+|2205|ZERO_RESULTS||||||
+|2206|OK|Rietberg, Germany||Germany|Detmold|Detmold|
+|2207|OK|Auw bei Prüm, Germany||Germany|||
+|2208|OK|Oyten, Germany||Germany|||
+|2209|OK|Spangenberg, Germany||Germany|Kassel|KS|
+|2210|OK|Altefähr, 18573 Altefähr, Germany|18573|Germany|||
+|2211|OK|Dägeling, Germany||Germany|||
+|2212|OK|Neubrandenburg, Germany||Germany|||
+|2213|OK|Ragow, 15848 Ragow-Merz, Germany|15848|Germany|||
+|2214|ZERO_RESULTS||||||
+|2215|OK|Oetzen, Germany||Germany|||
+|2216|OK|Bakum, Germany||Germany|||
+|2217|OK|Emsbüren, Germany||Germany|||
+|2218|OK|Husum, Germany||Germany|||
+|2219|OK|Kürzell, 77974 Meißenheim, Germany|77974|Germany|Freiburg|Freiburg|
+|2220|OK|Grimma, Germany||Germany|Leipzig|Leipzig|
+|2221|OK|Schönberg in Holstein, 24217 Schönberg, Germany|24217|Germany|||
+|2222|OK|Ludwigsburg, 17291 Schenkenberg, Germany|17291|Germany|||
+|2223|OK|Bad Nenndorf, 31542 Bad Nenndorf, Germany|31542|Germany|||
+|2224|OK|Insingen, Germany||Germany|||
+|2225|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2226|OK|Germaringen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2227|OK|Lützellinden, 35398 Giessen, Germany|35398|Germany|Giessen|GI|
+|2228|OK|Prummern, 52511 Geilenkirchen, Germany|52511|Germany|Cologne|K|
+|2229|OK|Bad Sassendorf, 59505 Bad Sassendorf, Germany|59505|Germany|Arnsberg|Arnsberg|
+|2230|ZERO_RESULTS||||||
+|2231|OK|Osterburg, PA 16667, USA|16667|United States|Bedford|Bedford|
+|2232|OK|Sarcelles, France||France|Val-d'Oise|95|
+|2233|OK|name, Georgia Institute of Technology, Atlanta, GA 30318, USA|30318|United States|Fulton|Fulton|
+|2234|OK|Altenberge, Germany||Germany|Münster|Münster|
+|2235|ZERO_RESULTS||||||
+|2236|OK|Groß-Gerau, Germany||Germany|Darmstadt|DA|
+|2237|ZERO_RESULTS||||||
+|2238|ZERO_RESULTS||||||
+|2239|ZERO_RESULTS||||||
+|2240|OK|Wardenburg, Germany||Germany|||
+|2241|OK|Hamburg, Germany||Germany|||
+|2242|OK|Berlin, Germany||Germany|||
+|2243|OK|Lübeck, Germany||Germany|||
+|2244|OK|Hamburg, Germany||Germany|||
+|2245|ZERO_RESULTS||||||
+|2246|OK|Stirpe, 59597 Erwitte, Germany|59597|Germany|Arnsberg|Arnsberg|
+|2247|OK|Lilienthal, Germany||Germany|||
+|2248|OK|Grevenbroich, Germany||Germany|Düsseldorf|D|
+|2249|ZERO_RESULTS||||||
+|2250|OK|Leislau, Germany||Germany|||
+|2251|OK|Illingen, Germany||Germany|Karlsruhe|KA|
+|2252|OK|Stockum, 59846 Sundern, Germany|59846|Germany|Arnsberg|Arnsberg|
+|2253|ZERO_RESULTS||||||
+|2254|OK|49453 Rehden, Germany|49453|Germany|||
+|2255|ZERO_RESULTS||||||
+|2256|ZERO_RESULTS||||||
+|2257|OK|Wedemark, Germany||Germany|||
+|2258|OK|Bergamo, Italy||Italy|Bergamo|BG|
+|2259|ZERO_RESULTS||||||
+|2260|OK|Eggenfelden, Germany||Germany|Lower Bavaria|Lower Bavaria|
+|2261|ZERO_RESULTS||||||
+|2262|ZERO_RESULTS||||||
+|2263|ZERO_RESULTS||||||
+|2264|OK|Brand-Erbisdorf, Germany||Germany|Chemnitz|C|
+|2265|OK|Neustadt an der Orla, Germany||Germany|||
+|2266|OK|Grünhainichen, Germany||Germany|Chemnitz|C|
+|2267|OK|Edme, Flugplatz Zainachde, 84307 Eggenfelden, Germany|84307|Germany|Lower Bavaria|Lower Bavaria|
+|2268|ZERO_RESULTS||||||
+|2269|OK|Altgandersheim, 37581 Bad Gandersheim, Germany|37581|Germany|||
+|2270|OK|Auetal, Germany||Germany|||
+|2271|ZERO_RESULTS||||||
+|2272|OK|Mohlsdorf, Mohsldorf-Teichwolframsdorf, Germany||Germany|||
+|2273|OK|Walldorf, Germany||Germany|||
+|2274|OK|07907 Oettersdorf, Germany|07907|Germany|||
+|2275|OK|Hattersheim am Main, Germany||Germany|Darmstadt|DA|
+|2276|OK|Lützellinden, 35398 Giessen, Germany|35398|Germany|Giessen|GI|
+|2277|ZERO_RESULTS||||||
+|2278|OK|Air Base (GKE), Lilienthalallee 100, 52511 Geilenkirchen, Germany|52511|Germany|Cologne|K|
+|2279|OK|Singen, Germany||Germany|Freiburg|Freiburg|
+|2280|OK|Ratjendorfer Weg 2, 24217 Schönberg, Germany|24217|Germany|||
+|2281|ZERO_RESULTS||||||
+|2282|ZERO_RESULTS||||||
+|2283|OK|Hanover, Germany||Germany|||
+|2284|OK|Altenweddingen, 39171 Sülzetal, Germany|39171|Germany|||
+|2285|OK|Gehrden, Germany||Germany|||
+|2286|OK|Friedelsheimer Straße 22, 67150 Niederkirchen bei Deidesheim, Germany|67150|Germany|||
+|2287|ZERO_RESULTS||||||
+|2288|OK|Barbiser Straße 134, 37431 Bad Lauterberg / Barbis, Germany|37431|Germany|||
+|2289|ZERO_RESULTS||||||
+|2290|ZERO_RESULTS||||||
+|2291|OK|Atzendorfer Straße 19, 39418 Staßfurt, Germany|39418|Germany|||
+|2292|OK|06886 Wittenberg, Germany|06886|Germany|||
+|2293|OK|04319 Leipzig, Germany|04319|Germany|Leipzig|Leipzig|
+|2294|OK|Klein Schulzendorf, Trebbin, Germany||Germany|||
+|2295|ZERO_RESULTS||||||
+|2296|OK|Am Denkmal 1, High Fläming Nature Park, 14806 Bad Belzig, Germany|14806|Germany|||
+|2297|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|2298|ZERO_RESULTS||||||
+|2299|OK|Lindau, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2300|ZERO_RESULTS||||||
+|2301|OK|Buckau, Schönebecker Straße 11-13, 39104 Magdeburg, Germany|39104|Germany|||
+|2302|OK|52068 Aachen, Germany|52068|Germany|Cologne|K|
+|2303|OK|Gierend, 56587 Oberhonnefeld-Gierend, Germany|56587|Germany|||
+|2304|OK|Altefähr, 18573 Altefähr, Germany|18573|Germany|||
+|2305|OK|Groß Bölkow, 18239 Satow, Germany|18239|Germany|||
+|2306|ZERO_RESULTS||||||
+|2307|OK|Kleptow 25, 17291 Schenkenberg, Germany|17291|Germany|||
+|2308|ZERO_RESULTS||||||
+|2309|OK|Karl-Marx-Allee 72, 15320 Neuhardenberg, Germany|15320|Germany|||
+|2310|OK|Am Weiher 3, 35398 Giessen, Germany|35398|Germany|Giessen|GI|
+|2311|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2312|ZERO_RESULTS||||||
+|2313|INVALID_REQUEST||||||
+|2314|OK|Rheinstetten, Germany||Germany|Karlsruhe|KA|
+|2315|OK|41751 Viersen, Germany|41751|Germany|Düsseldorf|D|
+|2316|OK|Trebbiner Straße 12, 14959 Trebbin, Germany|14959|Germany|||
+|2317|OK|Greifswald, Germany||Germany|||
+|2318|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2319|ZERO_RESULTS||||||
+|2320|OK|Angermünde, Germany||Germany|||
+|2321|OK|Zerbst, Germany||Germany|||
+|2322|OK|Stendal, Germany||Germany|||
+|2323|OK|Seelow, Germany||Germany|||
+|2324|OK|Zeestow, Germany||Germany|||
+|2325|OK|Lübz, Germany||Germany|||
+|2326|ZERO_RESULTS||||||
+|2327|OK|Frankfurt an der Oder, Germany||Germany|||
+|2328|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2329|OK|17034 Neubrandenburg, Germany|17034|Germany|||
+|2330|ZERO_RESULTS||||||
+|2331|OK|Visselhövede, Germany||Germany|||
+|2332|OK|Premnitz, Germany||Germany|||
+|2333|OK|Werder, Germany||Germany|||
+|2334|OK|Trebbiner Straße 12, 14959 Trebbin, Germany|14959|Germany|||
+|2335|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2336|OK|Angermünde, Germany||Germany|||
+|2337|OK|Barbis, 37431 Bad Lauterberg, Germany|37431|Germany|||
+|2338|OK|Loburg, 39279 Möckern, Germany|39279|Germany|||
+|2339|OK|07546 Gera, Germany|07546|Germany|||
+|2340|OK|Stadtilm, Germany||Germany|||
+|2341|OK|Leinefelde-Worbis, Germany||Germany|||
+|2342|OK|Annaberg-Buchholz, Germany||Germany|Chemnitz|C|
+|2343|ZERO_RESULTS||||||
+|2344|OK|Langenau, Germany||Germany|||
+|2345|OK|Leinefelde-Worbis, Germany||Germany|||
+|2346|OK|Tiggelwerkweg 2, 48488 Emsbüren, Germany|48488|Germany|||
+|2347|OK|Germany||Germany|||
+|2348|OK|Kurt-Schumacher-Straße 47, 35418 Buseck, Germany|35418|Germany|Giessen|GI|
+|2349|OK|51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2350|ZERO_RESULTS||||||
+|2351|OK|6500 Vojens Municipality, Denmark|6500|Denmark|Haderslev Municipality|Haderslev Municipality|
+|2352|OK|36043 Fulda, Germany|36043|Germany|Kassel|KS|
+|2353|ZERO_RESULTS||||||
+|2354|OK|Industriestraße 5, 33397 Rietberg, Germany|33397|Germany|Detmold|Detmold|
+|2355|ZERO_RESULTS||||||
+|2356|ZERO_RESULTS||||||
+|2357|OK|Heinrich-Spier-Straße 24A, 32839 Steinheim-Bergheim, Germany|32839|Germany|Detmold|Detmold|
+|2358|ZERO_RESULTS||||||
+|2359|OK|Beckum, Germany||Germany|Münster|Münster|
+|2360|ZERO_RESULTS||||||
+|2361|ZERO_RESULTS||||||
+|2362|OK|Extertal, Germany||Germany|Detmold|Detmold|
+|2363|OK|Marsberg, Germany||Germany|||
+|2364|OK|Bockhorster Landweg 22, 33775 Versmold, Germany|33775|Germany|Detmold|Detmold|
+|2365|ZERO_RESULTS||||||
+|2366|OK|Engelbertstraße 13, 45892 Gelsenkirchen, Germany|45892|Germany|Münster|Münster|
+|2367|OK|Köpenicker Chaussee 59, Heizkraftwerk Klingenberg, 10317 Berlin, Germany|10317|Germany|||
+|2368|ZERO_RESULTS||||||
+|2369|OK|Großräschen, Germany||Germany|||
+|2370|OK|Wallau, Hofheim, Germany||Germany|Darmstadt|DA|
+|2371|ZERO_RESULTS||||||
+|2372|INVALID_REQUEST||||||
+|2373|OK|Graf-Haeseler-Straße 5, 34134 Kassel, Germany|34134|Germany|Kassel|KS|
+|2374|OK|Birkungen, 37327 Leinefelde-Worbis, Germany|37327|Germany|||
+|2375|ZERO_RESULTS||||||
+|2376|OK|Magdeburg, Germany||Germany|||
+|2377|OK|Zella-Mehlis, Thüringer Wald, Sterngrund 1, 98544 Zella-Mehlis, Germany|98544|Germany|||
+|2378|ZERO_RESULTS||||||
+|2379|ZERO_RESULTS||||||
+|2380|OK|Rippershausen, Germany||Germany|||
+|2381|OK|Rippershausen, Germany||Germany|||
+|2382|OK|Frankenberg (Eder), Germany||Germany|Kassel|KS|
+|2383|OK|Erfurt, Germany||Germany|||
+|2384|OK|Sulzbach am Main, Germany||Germany|Lower Franconia|Lower Franconia|
+|2385|OK|Berlin, Germany||Germany|||
+|2386|ZERO_RESULTS||||||
+|2387|OK|Rippershausen, Germany||Germany|||
+|2388|OK|Marktgemeinde Haunetal, Konrad-Zuse-Platz 6, 36166 Haunetal, Germany|36166|Germany|Kassel|KS|
+|2389|ZERO_RESULTS||||||
+|2390|OK|Rietberg, Germany||Germany|Detmold|Detmold|
+|2391|ZERO_RESULTS||||||
+|2392|OK|Döllstädt, Germany||Germany|||
+|2393|OK|Rhadern, 35104 Lichtenfels, Germany|35104|Germany|Kassel|KS|
+|2394|OK|Leinefelde-Worbis, Germany||Germany|||
+|2395|OK|Berlin, Germany||Germany|||
+|2396|OK|Porz, Cologne, Germany||Germany|Cologne|K|
+|2397|OK|name, Georgia Institute of Technology, Atlanta, GA 30318, USA|30318|United States|Fulton|Fulton|
+|2398|OK|Bochum, Germany||Germany|||
+|2399|OK|33609 Bielefeld, Germany|33609|Germany|Detmold|Detmold|
+|2400|OK|51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2401|OK|Bochum, Germany||Germany|||
+|2402|OK|Oyten, Germany||Germany|||
+|2403|OK|Sandhorst, 26607 Aurich, Germany|26607|Germany|||
+|2404|OK|Versmold, Germany||Germany|Detmold|Detmold|
+|2405|ZERO_RESULTS||||||
+|2406|OK|Uplengen, Germany||Germany|||
+|2407|OK|27478 Cuxhaven, Germany|27478|Germany|||
+|2408|OK|Bakum, Germany||Germany|||
+|2409|OK|Bücken, Germany||Germany|||
+|2410|OK|Bakum, Germany||Germany|||
+|2411|OK|Neubörger, Germany||Germany|||
+|2412|OK|Oetzen, Germany||Germany|||
+|2413|OK|26736 Krummhörn, Germany|26736|Germany|||
+|2414|OK|Essern, 31603 Diepenau, Germany|31603|Germany|||
+|2415|OK|Süddorf, Edewecht, Germany||Germany|||
+|2416|ZERO_RESULTS||||||
+|2417|ZERO_RESULTS||||||
+|2418|ZERO_RESULTS||||||
+|2419|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2420|OK|Herbrum, 26871 Papenburg, Germany|26871|Germany|||
+|2421|OK|30521 Hanover, Germany|30521|Germany|||
+|2422|OK|Hammah, Germany||Germany|||
+|2423|ZERO_RESULTS||||||
+|2424|ZERO_RESULTS||||||
+|2425|OK|Kathendorf, Germany||Germany|||
+|2426|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|2427|OK|Petershagen, Germany||Germany|Detmold|Detmold|
+|2428|ZERO_RESULTS||||||
+|2429|OK|Schneebergstraße 8, 95032 Hof, Germany|95032|Germany|Upper Franconia|Upper Franconia|
+|2430|OK|Rudolf-Diesel-Straße 4, 40670 Meerbusch, Germany|40670|Germany|Düsseldorf|D|
+|2431|OK|Spangenberg, Germany||Germany|Kassel|KS|
+|2432|OK|Melsunger Straße 8, 34286 Spangenberg, Germany|34286|Germany|Kassel|KS|
+|2433|ZERO_RESULTS||||||
+|2434|OK|Dromore, Omagh BT78 3AJ, UK|BT78 3AJ|United Kingdom|Omagh|Omagh|
+|2435|OK|Seelow, Germany||Germany|||
+|2436|OK|Kraatz, Germany||Germany|||
+|2437|OK|Eichstädt, 16727 Marwitz, Germany|16727|Germany|||
+|2438|OK|Ainring, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2439|OK|Derching, 86316 Friedberg, Germany|86316|Germany|Bavarian Swabia|Bavarian Swabia|
+|2440|OK|50674 Cologne, Germany|50674|Germany|Cologne|K|
+|2441|OK|Klagenfurt Airport (KLU), Flughafenstraße 60-64, 9020 Klagenfurt, Austria|9020|Austria|Klagenfurt am Wörthersee|Klagenfurt am Wörthersee|
+|2442|OK|Leipzig, Germany||Germany|Leipzig|Leipzig|
+|2443|OK|12489 Berlin, Germany|12489|Germany|||
+|2444|OK|Ludwigshafen, Germany||Germany|||
+|2445|OK|Chemnitz, Germany||Germany|Chemnitz|C|
+|2446|OK|Memmingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2447|ZERO_RESULTS||||||
+|2448|OK|Dresden, Germany||Germany|Dresden|DD|
+|2449|ZERO_RESULTS||||||
+|2450|OK|Stuttgart, Germany||Germany|Stuttgart|S|
+|2451|OK|Erfurt, Germany||Germany|||
+|2452|OK|Hohenems, Austria||Austria|Dornbirn District|Dornbirn District|
+|2453|OK|Wiener Neudorf, Austria||Austria|Mödling District|Mödling District|
+|2454|OK|Karlsruhe, Germany||Germany|Karlsruhe|KA|
+|2455|OK|Memmingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2456|OK|Cologne, Germany||Germany|Cologne|K|
+|2457|OK|Barsbüttel, Germany||Germany|||
+|2458|ZERO_RESULTS||||||
+|2459|OK|Cologne, Germany||Germany|Cologne|K|
+|2460|OK|Barsbüttel, Germany||Germany|||
+|2461|OK|August-Storm-Straße 6, 48480 Spelle, Germany|48480|Germany|||
+|2462|OK|Cologne, Germany||Germany|Cologne|K|
+|2463|OK|KÖB St. Martin Netphen, Lahnstraße 86, 57250 Netphen, Germany|57250|Germany|Arnsberg|Arnsberg|
+|2464|ZERO_RESULTS||||||
+|2465|OK|Rietberg, Germany||Germany|Detmold|Detmold|
+|2466|OK|Bochum, Germany||Germany|||
+|2467|OK|Altenberge, Germany||Germany|Münster|Münster|
+|2468|ZERO_RESULTS||||||
+|2469|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2470|ZERO_RESULTS||||||
+|2471|ZERO_RESULTS||||||
+|2472|OK|Giessen, Germany||Germany|Giessen|GI|
+|2473|OK|Cologne, Germany||Germany|Cologne|K|
+|2474|OK|Koblenz, Germany||Germany|||
+|2475|ZERO_RESULTS||||||
+|2476|OK|Hanau, Germany||Germany|Darmstadt|DA|
+|2477|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|2478|OK|Wenden, Germany||Germany|Arnsberg|Arnsberg|
+|2479|OK|Neuss, Germany||Germany|Düsseldorf|D|
+|2480|OK|Mannheim, Germany||Germany|||
+|2481|OK|Darmstadt, Germany||Germany|Darmstadt|DA|
+|2482|OK|Königskamp 8, 52428 Jülich, Germany|52428|Germany|Cologne|K|
+|2483|OK|Burscheid, Germany||Germany|Cologne|K|
+|2484|INVALID_REQUEST||||||
+|2485|ZERO_RESULTS||||||
+|2486|ZERO_RESULTS||||||
+|2487|OK|Lahnstraße 92, 57250 Netphen, Germany|57250|Germany|Arnsberg|Arnsberg|
+|2488|OK|Graf-Zeppelin-Straße 8, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2489|ZERO_RESULTS||||||
+|2490|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2491|OK|Saxony-Anhalt, Germany||Germany|||
+|2492|OK|Brandenburg, Germany||Germany|||
+|2493|OK|Kemberg, Germany||Germany|||
+|2494|OK|Angermünde, Germany||Germany|||
+|2495|ZERO_RESULTS||||||
+|2496|ZERO_RESULTS||||||
+|2497|OK|Oschersleben, Germany||Germany|||
+|2498|OK|New Hampshire, USA||United States|||
+|2499|OK|Derenburg, Germany||Germany|||
+|2500|OK|name, Georgia Institute of Technology, Atlanta, GA 30318, USA|30318|United States|Fulton|Fulton|
+|2501|ZERO_RESULTS||||||
+|2502|OK|Bitburg, 54634 Bitburg, Germany|54634|Germany|||
+|2503|OK|Kusel, Germany||Germany|||
+|2504|OK|Torgau, 04860 Torgau, Germany|04860|Germany|Leipzig|Leipzig|
+|2505|OK|Langenau, Germany||Germany|||
+|2506|OK|28237 Bremen, Germany|28237|Germany|||
+|2507|OK|39126 Magdeburg, Germany|39126|Germany|||
+|2508|OK|Andernach, Germany||Germany|||
+|2509|OK|Nettetal, Germany||Germany|Düsseldorf|D|
+|2510|ZERO_RESULTS||||||
+|2511|ZERO_RESULTS||||||
+|2512|OK|Esslinger Straße 17, 73037 Göppingen, Germany|73037|Germany|Stuttgart|S|
+|2513|OK|Haubersbronn, 73614 Schorndorf, Germany|73614|Germany|Stuttgart|S|
+|2514|OK|Neumünster, Germany||Germany|||
+|2515|OK|90471 Nuremberg, Germany|90471|Germany|Middle Franconia|Middle Franconia|
+|2516|OK|HOVLAND, MN 55606, USA|55606|United States|||
+|2517|ZERO_RESULTS||||||
+|2518|OK|Holmegade 58, 6990 Ulfborg, Denmark|6990|Denmark|Holstebro Municipality|Holstebro Municipality|
+|2519|OK|Külsheim, Germany||Germany|Stuttgart|S|
+|2520|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2521|ZERO_RESULTS||||||
+|2522|OK|Döllstädt, Germany||Germany|||
+|2523|ZERO_RESULTS||||||
+|2524|OK|Gersthofen, 86368 Gersthofen, Germany|86368|Germany|Bavarian Swabia|Bavarian Swabia|
+|2525|OK|Nettetal, Germany||Germany|Düsseldorf|D|
+|2526|ZERO_RESULTS||||||
+|2527|OK|Steinwiesen, Germany||Germany|Upper Franconia|Upper Franconia|
+|2528|OK|68169 Mannheim, Germany|68169|Germany|Karlsruhe|KA|
+|2529|OK|Döbeln, Germany||Germany|Chemnitz|C|
+|2530|ZERO_RESULTS||||||
+|2531|OK|Prüm, Germany||Germany|||
+|2532|OK|Zschölkau, 04509 Krostitz, Germany|04509|Germany|Leipzig|Leipzig|
+|2533|OK|Schwarzenbruck, Germany||Germany|Middle Franconia|Middle Franconia|
+|2534|OK|Lamme, 38116 Brunswick, Germany|38116|Germany|||
+|2535|OK|Jüterbog, Germany||Germany|||
+|2536|OK|Leipzig, Germany||Germany|Leipzig|Leipzig|
+|2537|ZERO_RESULTS||||||
+|2538|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|2539|OK|Hartackerstraße 28, 85290 Geisenfeld, Germany|85290|Germany|Upper Bavaria|Upper Bavaria|
+|2540|OK|Ilmendorf, 85290 Geisenfeld, Germany|85290|Germany|Upper Bavaria|Upper Bavaria|
+|2541|OK|Ochsenhausen, Germany||Germany|Tübingen|TÜ|
+|2542|OK|Grundschule Neukirchen Vorm Wald, Hofmark 5, 94154 Neukirchen beim Heiligen Blut, Germany|94154|Germany|Lower Bavaria|Lower Bavaria|
+|2543|OK|6500 Vojens Municipality, Denmark|6500|Denmark|Haderslev Municipality|Haderslev Municipality|
+|2544|ZERO_RESULTS||||||
+|2545|OK|Külsheim, Germany||Germany|Stuttgart|S|
+|2546|ZERO_RESULTS||||||
+|2547|ZERO_RESULTS||||||
+|2548|OK|Sarcelles, France||France|Val-d'Oise|95|
+|2549|OK|Einhausen, Germany||Germany|Darmstadt|DA|
+|2550|OK|Külsheim, Germany||Germany|Stuttgart|S|
+|2551|OK|Göppingen, Germany||Germany|Stuttgart|S|
+|2552|OK|Rheidt, 50129 Bergheim, Germany|50129|Germany|Cologne|K|
+|2553|ZERO_RESULTS||||||
+|2554|ZERO_RESULTS||||||
+|2555|OK|Neu Mukran, 18546 Sassnitz, Germany|18546|Germany|||
+|2556|OK|6500 Vojens Municipality, Denmark|6500|Denmark|Haderslev Municipality|Haderslev Municipality|
+|2557|ZERO_RESULTS||||||
+|2558|OK|Lenggries, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2559|ZERO_RESULTS||||||
+|2560|OK|Bruckmühl, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2561|OK|Eltmann, Germany||Germany|Lower Franconia|Lower Franconia|
+|2562|OK|Vohburg, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2563|OK|Deggendorf, Germany||Germany|Lower Bavaria|Lower Bavaria|
+|2564|ZERO_RESULTS||||||
+|2565|ZERO_RESULTS||||||
+|2566|ZERO_RESULTS||||||
+|2567|OK|Zenting, Germany||Germany|Lower Bavaria|Lower Bavaria|
+|2568|OK|Jördenstorf, Germany||Germany|||
+|2569|ZERO_RESULTS||||||
+|2570|OK|Husum, Germany||Germany|||
+|2571|ZERO_RESULTS||||||
+|2572|OK|Kleeth, 17091 Knorrendorf, Germany|17091|Germany|||
+|2573|OK|Bützow, 18246 Bützow, Germany|18246|Germany|||
+|2574|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|2575|OK|Bad Schwartau, 23611 Bad Schwartau, Germany|23611|Germany|||
+|2576|OK|Neumünster, Germany||Germany|||
+|2577|OK|6500 Vojens Municipality, Denmark|6500|Denmark|Haderslev Municipality|Haderslev Municipality|
+|2578|OK|Brokenlande, 24623 Großenaspe, Germany|24623|Germany|||
+|2579|OK|Graf-Zeppelin-Straße 16, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2580|OK|Rheinstetten, Germany||Germany|Karlsruhe|KA|
+|2581|OK|Lichtenau, Germany||Germany|Karlsruhe|KA|
+|2582|OK|Mörlenbach, 69509 Mörlenbach, Germany|69509|Germany|Darmstadt|DA|
+|2583|OK|Industriestraße 35, 28876 Oyten, Germany|28876|Germany|||
+|2584|OK|Sandhorst, 26607 Aurich, Germany|26607|Germany|||
+|2585|OK|Versmold, Germany||Germany|Detmold|Detmold|
+|2586|ZERO_RESULTS||||||
+|2587|ZERO_RESULTS||||||
+|2588|OK|Cuxhaven, Germany||Germany|||
+|2589|OK|Bakum, Germany||Germany|||
+|2590|ZERO_RESULTS||||||
+|2591|OK|Bakum, Germany||Germany|||
+|2592|ZERO_RESULTS||||||
+|2593|ZERO_RESULTS||||||
+|2594|OK|26736 Krummhörn, Germany|26736|Germany|||
+|2595|OK|Essern, 31603 Diepenau, Germany|31603|Germany|||
+|2596|OK|Bochum, Germany||Germany|||
+|2597|OK|44807 Bochum, Germany|44807|Germany|Arnsberg|Arnsberg|
+|2598|OK|Hochmoor, 48712 Gescher, Germany|48712|Germany|Münster|Münster|
+|2599|OK|Höfkerstraße 21, 44149 Dortmund, Germany|44149|Germany|Arnsberg|Arnsberg|
+|2600|OK|6500 Vojens Municipality, Denmark|6500|Denmark|Haderslev Municipality|Haderslev Municipality|
+|2601|OK|Bremen, Germany||Germany|||
+|2602|OK|Nettetal, Germany||Germany|Düsseldorf|D|
+|2603|OK|Borken, Germany||Germany|Münster|Münster|
+|2604|OK|Eltmann, Germany||Germany|Lower Franconia|Lower Franconia|
+|2605|ZERO_RESULTS||||||
+|2606|ZERO_RESULTS||||||
+|2607|OK|Walldorf, Germany||Germany|Karlsruhe|KA|
+|2608|OK|Wiesau, Germany||Germany|Upper Palatinate|Upper Palatinate|
+|2609|OK|Börm, Germany||Germany|||
+|2610|OK|Husum, Germany||Germany|||
+|2611|ZERO_RESULTS||||||
+|2612|ZERO_RESULTS||||||
+|2613|ZERO_RESULTS||||||
+|2614|OK|Oyten, Germany||Germany|||
+|2615|INVALID_REQUEST||||||
+|2616|OK|Senden, Germany||Germany|Münster|Münster|
+|2617|OK|33332 Gütersloh, Germany|33332|Germany|Detmold|Detmold|
+|2618|OK|Hennersdorf, Germany||Germany|||
+|2619|ZERO_RESULTS||||||
+|2620|OK|Ipswich, Suffolk IP2 0UB, UK|IP2 0UB|United Kingdom|Suffolk|Suffk|
+|2621|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2622|OK|Berlin, Germany||Germany|||
+|2623|OK|Leinefelde-Worbis, Germany||Germany|||
+|2624|OK|Kirn, Germany||Germany|||
+|2625|ZERO_RESULTS||||||
+|2626|ZERO_RESULTS||||||
+|2627|OK|Frankenthal, Germany||Germany|||
+|2628|ZERO_RESULTS||||||
+|2629|OK|Grenzstraße 192, 46562 Voerde, Germany|46562|Germany|Düsseldorf|D|
+|2630|OK|Krennewitzer Straße 3, 03044 Cottbus, Germany|03044|Germany|||
+|2631|ZERO_RESULTS||||||
+|2632|OK|51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2633|OK|Neumünster, Germany||Germany|||
+|2634|OK|Kreuzau, Germany||Germany|Cologne|K|
+|2635|OK|Wülfrath, Germany||Germany|Düsseldorf|D|
+|2636|ZERO_RESULTS||||||
+|2637|OK|Andernach, Germany||Germany|||
+|2638|OK|Altenstadt, Germany||Germany|Darmstadt|DA|
+|2639|ZERO_RESULTS||||||
+|2640|OK|Gütersloh, Germany||Germany|Detmold|Detmold|
+|2641|OK|33334 Gütersloh, Germany|33334|Germany|Detmold|Detmold|
+|2642|ZERO_RESULTS||||||
+|2643|ZERO_RESULTS||||||
+|2644|ZERO_RESULTS||||||
+|2645|OK|Henstedt-Ulzburg, Germany||Germany|||
+|2646|OK|Hagelstadt, Germany||Germany|Upper Palatinate|Upper Palatinate|
+|2647|OK|Hamburg, Germany||Germany|||
+|2648|OK|Wardenburg, Germany||Germany|||
+|2649|ZERO_RESULTS||||||
+|2650|ZERO_RESULTS||||||
+|2651|OK|Cottbus, Germany||Germany|||
+|2652|OK|Meinerzhagen, Germany||Germany|||
+|2653|OK|Borchen, Germany||Germany|Detmold|Detmold|
+|2654|OK|Berlin, Germany||Germany|||
+|2655|ZERO_RESULTS||||||
+|2656|OK|Chemnitz, Germany||Germany|Chemnitz|C|
+|2657|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|2658|ZERO_RESULTS||||||
+|2659|OK|Leipzig, Germany||Germany|Leipzig|Leipzig|
+|2660|ZERO_RESULTS||||||
+|2661|OK|Cologne, Germany||Germany|Cologne|K|
+|2662|OK|Hamburg, Germany||Germany|||
+|2663|OK|Bonn, Germany||Germany|Cologne|K|
+|2664|OK|Langenzenn, Germany||Germany|Middle Franconia|Middle Franconia|
+|2665|ZERO_RESULTS||||||
+|2666|OK|Porz, Cologne, Germany||Germany|Cologne|K|
+|2667|OK|Schwarzenbruck, Germany||Germany|Middle Franconia|Middle Franconia|
+|2668|ZERO_RESULTS||||||
+|2669|ZERO_RESULTS||||||
+|2670|OK|Hanover, Germany||Germany|||
+|2671|ZERO_RESULTS||||||
+|2672|OK|Krefeld, Germany||Germany|Düsseldorf|D|
+|2673|ZERO_RESULTS||||||
+|2674|OK|Aachen, Germany||Germany|Cologne|K|
+|2675|OK|Aalen, Germany||Germany|Stuttgart|S|
+|2676|OK|Aschaffenburg, Germany||Germany|Lower Franconia|Lower Franconia|
+|2677|OK|Augsburg, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2678|OK|Lewiston, CA 96052, USA|96052|United States|||
+|2679|OK|Bayreuth, Germany||Germany|Upper Franconia|Upper Franconia|
+|2680|OK|Bonn, Germany||Germany|Cologne|K|
+|2681|OK|Dortmund, Germany||Germany|||
+|2682|OK|Frankfurt, Germany||Germany|Darmstadt|DA|
+|2683|ZERO_RESULTS||||||
+|2684|OK|Freiburg, Germany||Germany|Freiburg|Freiburg|
+|2685|OK|Friedrichshafen, Germany||Germany|Tübingen|TÜ|
+|2686|OK|Fulda, Germany||Germany|Kassel|KS|
+|2687|OK|Geretsried, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2688|OK|Giessen, Germany||Germany|Giessen|GI|
+|2689|OK|Eislingen, Germany||Germany|Stuttgart|S|
+|2690|OK|Frankfurt, Germany||Germany|Darmstadt|DA|
+|2691|OK|Cologne, Germany||Germany|Cologne|K|
+|2692|OK|Memmingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2693|ZERO_RESULTS||||||
+|2694|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|2695|OK|Ludwigshafen, Germany||Germany|||
+|2696|OK|Heidelberg, Germany||Germany|Karlsruhe|KA|
+|2697|OK|Heilbronn, Germany||Germany|Stuttgart|S|
+|2698|ZERO_RESULTS||||||
+|2699|OK|Phoenix, AZ 85053, USA|85053|United States|Maricopa|Maricopa|
+|2700|ZERO_RESULTS||||||
+|2701|OK|Karlsruhe, Germany||Germany|Karlsruhe|KA|
+|2702|OK|Koblenz, Germany||Germany|||
+|2703|OK|Cologne, Germany||Germany|Cologne|K|
+|2704|ZERO_RESULTS||||||
+|2705|OK|Krefeld, Germany||Germany|Düsseldorf|D|
+|2706|OK|Landshut, Germany||Germany|Lower Bavaria|Lower Bavaria|
+|2707|OK|Ludwigshafen, Germany||Germany|||
+|2708|OK|Memmingen, Germany||Germany|Bavarian Swabia|Bavarian Swabia|
+|2709|ZERO_RESULTS||||||
+|2710|OK|Mülheim, Germany||Germany|Düsseldorf|D|
+|2711|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2712|ZERO_RESULTS||||||
+|2713|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2714|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|2715|OK|Windischeschenbach, Germany||Germany|Upper Palatinate|Upper Palatinate|
+|2716|ZERO_RESULTS||||||
+|2717|OK|Reutlingen, Germany||Germany|Tübingen|TÜ|
+|2718|OK|Raubling, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|2719|OK|Saarbrücken, Germany||Germany|||
+|2720|OK|Stuttgart, Germany||Germany|Stuttgart|S|
+|2721|OK|Trier, Germany||Germany|||
+|2722|OK|Ulm, Germany||Germany|Tübingen|TÜ|
+|2723|OK|Wiesbaden, Germany||Germany|Darmstadt|DA|
+|2724|OK|Würzburg, Germany||Germany|Lower Franconia|Lower Franconia|
+|2725|OK|Bautzen, Germany||Germany|Dresden|DD|
+|2726|OK|Berlin, Germany||Germany|||
+|2727|OK|Berlin, Germany||Germany|||
+|2728|OK|Brunswick, Germany||Germany|||
+|2729|OK|Bremen, Germany||Germany|||
+|2730|OK|Chemnitz, Germany||Germany|Chemnitz|C|
+|2731|OK|Dresden, Germany||Germany|Dresden|DD|
+|2732|OK|Cottbus, Germany||Germany|||
+|2733|OK|Döbeln, Germany||Germany|Chemnitz|C|
+|2734|OK|Dresden, Germany||Germany|Dresden|DD|
+|2735|OK|Dresden, Germany||Germany|Dresden|DD|
+|2736|OK|Dresden, Germany||Germany|Dresden|DD|
+|2737|OK|Eberswalde, Germany||Germany|||
+|2738|OK|Elsterwerda, Germany||Germany|||
+|2739|OK|Erfurt, Germany||Germany|||
+|2740|OK|Freiberg, Germany||Germany|Chemnitz|C|
+|2741|OK|Gera, Germany||Germany|||
+|2742|OK|Görlitz, Germany||Germany|Dresden|DD|
+|2743|OK|Göttingen, Germany||Germany|||
+|2744|OK|Dresden, Germany||Germany|Dresden|DD|
+|2745|ZERO_RESULTS||||||
+|2746|OK|Barsbüttel, Germany||Germany|||
+|2747|OK|Hanover, Germany||Germany|||
+|2748|ZERO_RESULTS||||||
+|2749|ZERO_RESULTS||||||
+|2750|OK|Dresden, Germany||Germany|Dresden|DD|
+|2751|ZERO_RESULTS||||||
+|2752|OK|Leipzig, Germany||Germany|Leipzig|Leipzig|
+|2753|OK|Leipzig, Germany||Germany|Leipzig|Leipzig|
+|2754|OK|Lübeck, Germany||Germany|||
+|2755|OK|Magdeburg, Germany||Germany|||
+|2756|ZERO_RESULTS||||||
+|2757|OK|Plauen, Germany||Germany|Chemnitz|C|
+|2758|OK|Potsdam, Germany||Germany|||
+|2759|OK|Saalfeld, Germany||Germany|||
+|2760|ZERO_RESULTS||||||
+|2761|OK|Dresden, Germany||Germany|Dresden|DD|
+|2762|OK|Spremberg, Germany||Germany|||
+|2763|OK|Dresden, Germany||Germany|Dresden|DD|
+|2764|OK|Wittenberg, Germany||Germany|||
+|2765|OK|Zella-Mehlis, Germany||Germany|||
+|2766|OK|Zwickau, Germany||Germany|Chemnitz|C|
+|2767|OK|Hamburg, Germany||Germany|||
+|2768|OK|Voerde, Germany||Germany|Düsseldorf|D|
+|2769|ZERO_RESULTS||||||
+|2770|OK|Bremen, Germany||Germany|||
+|2771|OK|Bremen, Germany||Germany|||
+|2772|OK|12489 Berlin, Germany|12489|Germany|||
+|2773|OK|01157 Dresden, Germany|01157|Germany|Dresden|DD|
+|2774|OK|Barsbüttel, Germany||Germany|||
+|2775|OK|04179 Leipzig, Germany|04179|Germany|Leipzig|Leipzig|
+|2776|OK|09120 Chemnitz, Germany|09120|Germany|Chemnitz|C|
+|2777|OK|Kaufungen, Germany||Germany|Kassel|KS|
+|2778|OK|99099 Erfurt, Germany|99099|Germany|||
+|2779|OK|Admannshagen-Bargeshagen, Germany||Germany|||
+|2780|OK|Osnabrück, Germany||Germany|||
+|2781|ZERO_RESULTS||||||
+|2782|OK|Szigetszentmiklós, 2310 Szigetszentmiklós, Hungary|2310|Hungary|||
+|2783|ZERO_RESULTS||||||
+|2784|OK|Klein Bünzow, 17390 Klein Bünzow, Germany|17390|Germany|||
+|2785|OK|1110, Austria|1110|Austria|||
+|2786|OK|8020, Austria|8020|Austria|||
+|2787|OK|Leonding, 4060 Leonding, Austria|4060|Austria|Linz-Land District|Linz-Land District|
+|2788|OK|5020, Austria|5020|Austria|||
+|2789|ZERO_RESULTS||||||
+|2790|OK|Hohenems, Austria||Austria|Dornbirn District|Dornbirn District|
+|2791|OK|Klagenfurt Airport (KLU), Flughafenstraße 60-64, 9020 Klagenfurt, Austria|9020|Austria|Klagenfurt am Wörthersee|Klagenfurt am Wörthersee|
+|2792|OK|3500, Austria|3500|Austria|||
+|2793|OK|Wiener Neudorf, Austria||Austria|Mödling District|Mödling District|
+|2794|OK|24941 Flensburg, Germany|24941|Germany|||
+|2795|OK|38304 Wolfenbüttel, Germany|38304|Germany|||
+|2796|OK|Kirchhorst, 30916 Isernhagen, Germany|30916|Germany|||
+|2797|OK|45357 Essen, Germany|45357|Germany|Düsseldorf|D|
+|2798|OK|Mittelhausen, Erfurt, Germany||Germany|||
+|2799|OK|68219 Mannheim, Germany|68219|Germany|Karlsruhe|KA|
+|2800|OK|Embsen, Germany||Germany|||
+|2801|OK|Ilsfeld, Germany||Germany|Stuttgart|S|
+|2802|OK|Klipphausen, Germany||Germany|Dresden|DD|
+|2803|OK|13597 Berlin, Germany|13597|Germany|||
+|2804|OK|30179 Hanover, Germany|30179|Germany|||
+|2805|OK|Jüterbog, 14913 Jüterbog, Germany|14913|Germany|||
+|2806|OK|23556 Lübeck, Germany|23556|Germany|||
+|2807|OK|Rietberg, Germany||Germany|Detmold|Detmold|
+|2808|OK|Gatersleben, Germany||Germany|||
+|2809|ZERO_RESULTS||||||
+|2810|OK|42279 Wuppertal, Germany|42279|Germany|Düsseldorf|D|
+|2811|OK|Memmingen, 87700 Memmingen, Germany|87700|Germany|Bavarian Swabia|Bavarian Swabia|
+|2812|ZERO_RESULTS||||||
+|2813|OK|Barsbüttel, Germany||Germany|||
+|2814|OK|Schwerin, Germany||Germany|||
+|2815|OK|1215 Budapest, Hungary|1215|Hungary|Budapest|Budapest|
+|2816|ZERO_RESULTS||||||
+|2817|OK|Bad Nenndorf, Germany||Germany|||
+|2818|OK|Bakum, Germany||Germany|||
+|2819|OK|Rietberg, Germany||Germany|Detmold|Detmold|
+|2820|ZERO_RESULTS||||||
+|2821|ZERO_RESULTS||||||
+|2822|OK|Berlin, Germany||Germany|||
+|2823|OK|Warburg, Germany||Germany|Detmold|Detmold|
+|2824|ZERO_RESULTS||||||
+|2825|OK|99510 Apolda, Germany|99510|Germany|||
+|2826|OK|Hamburg, Germany||Germany|||
+|2827|ZERO_RESULTS||||||
+|2828|ZERO_RESULTS||||||
+|2829|ZERO_RESULTS||||||
+|2830|OK|Hanover, Germany||Germany|||
+|2831|OK|Lohheide, Germany||Germany|||
+|2832|OK|Dusseldorf, Germany||Germany|Düsseldorf|D|
+|2833|OK|Zwickau, Germany||Germany|Chemnitz|C|
+|2834|OK|Wallau, Hofheim, Germany||Germany|Darmstadt|DA|
+|2835|OK|Dronten, The Netherlands||The Netherlands|Dronten|Dronten|
+|2836|OK|Himberg bei Wien, Austria||Austria|Wien-Umgebung District|Wien-Umgebung District|
+|2837|OK|Mannheim, Germany||Germany|||
+|2838|OK|Forchheim, Rheinstetten, Germany||Germany|Karlsruhe|KA|
+|2839|OK|Obertraubling, Germany||Germany|Upper Palatinate|Upper Palatinate|
+|2840|OK|Wardenburg, Germany||Germany|||
+|2841|ZERO_RESULTS||||||
+|2842|OK|Singen, Germany||Germany|Freiburg|Freiburg|
+|2843|OK|Freiberg, Germany||Germany|Chemnitz|C|
+|2844|OK|Angelbachtal, Germany||Germany|Karlsruhe|KA|
+|2845|OK|Castrop-Rauxel, Germany||Germany|Münster|Münster|
+|2846|OK|Lauf an der Pegnitz, Germany||Germany|Middle Franconia|Middle Franconia|
+|2847|ZERO_RESULTS||||||
+|2848|OK|Stuttgart, Germany||Germany|Stuttgart|S|
+|2849|ZERO_RESULTS||||||
+|2850|OK|Mendig, Germany||Germany|||
+|2851|ZERO_RESULTS||||||
+|2852|OK|Frankfurt, Germany||Germany|Darmstadt|DA|
+|2853|OK|Altenstadt, Germany||Germany|Darmstadt|DA|
+|2854|OK|Angermünde, 16278 Angermünde, Germany|16278|Germany|||
+|2855|OK|16833 Fehrbellin, Germany|16833|Germany|||
+|2856|OK|Bramsche, Germany||Germany|||
+|2857|OK|Spelle, Germany||Germany|||
+|2858|OK|Oerel, 27432 Oerel, Germany|27432|Germany|||
+|2859|OK|Helmstedt, Germany||Germany|||
+|2860|ZERO_RESULTS||||||
+|2861|ZERO_RESULTS||||||
+|2862|OK|Schweinfurt, Germany||Germany|Lower Franconia|Lower Franconia|
+|2863|ZERO_RESULTS||||||
+|2864|ZERO_RESULTS||||||
+|2865|OK|Leipzig, Germany||Germany|Leipzig|Leipzig|
+|2866|OK|Monheim am Rhein, Germany||Germany|Düsseldorf|D|
+|2867|ZERO_RESULTS||||||
+|2868|ZERO_RESULTS||||||
+|2869|OK|Wesseling, Germany||Germany|Cologne|K|
+|2870|OK|Wiesmoor, Germany||Germany|||
+|2871|OK|Donaustraße, 4470 Enns, Austria|4470|Austria|Linz-Land District|Linz-Land District|
+|2872|OK|Melle, 49324 Melle, Germany|49324|Germany|||
+|2873|OK|Essen, Germany||Germany|Düsseldorf|D|
+|2874|OK|Türnich, 50169 Kerpen, Germany|50169|Germany|Cologne|K|
+|2875|OK|Wiener Neudorf, Austria||Austria|Mödling District|Mödling District|
+|2876|OK|Hamburg, Germany||Germany|||
+|2877|OK|Berlin, Germany||Germany|||
+|2878|OK|Hamburg, Germany||Germany|||
+|2879|OK|Westerkappeln, Germany||Germany|Münster|Münster|
+|2880|OK|Gmünd, Austria||Austria|Gmünd District|Gmünd District|
+|2881|OK|Stuttgart Ost, Stuttgart, Germany||Germany|Stuttgart|S|
+|2882|OK|Hermsdorf, Germany||Germany|||
+|2883|OK|Potsdam, Germany||Germany|||
+|2884|OK|Neuss, Germany||Germany|Düsseldorf|D|
+|2885|OK|Mannheim, Germany||Germany|||
+|2886|OK|Darmstadt, Germany||Germany|Darmstadt|DA|
+|2887|OK|Tempelhof, Berlin, Germany||Germany|||
+|2888|OK|Frankfurt, Germany||Germany|Darmstadt|DA|
+|2889|OK|55129 Mainz, Germany|55129|Germany|||
+|2890|OK|Tegel, Berlin, Germany||Germany|||
+|2891|OK|06112 Halle, Germany|06112|Germany|||
+|2892|ZERO_RESULTS||||||
+|2893|OK|Lengede-Broistedt, 38268 Lengede, Germany|38268|Germany|||
+|2894|OK|Kürzeller Straße 1, 77743 Neuried, Germany|77743|Germany|Freiburg|Freiburg|
+|2895|ZERO_RESULTS||||||
+|2896|ZERO_RESULTS||||||
+|2897|ZERO_RESULTS||||||
+|2898|OK|Kulmbach, 95326 Kulmbach, Germany|95326|Germany|Upper Franconia|Upper Franconia|
+|2899|OK|Legefeld, 99438 Weimar, Germany|99438|Germany|||
+|2900|ZERO_RESULTS||||||
+|2901|OK|Neustadt an der Orla, Germany||Germany|||
+|2902|OK|Lengefeld, 99976 Anrode, Germany|99976|Germany|||
+|2903|OK|98617 Ritschenhausen, Germany|98617|Germany|||
+|2904|OK|Hagelstadt, Germany||Germany|Upper Palatinate|Upper Palatinate|
+|2905|ZERO_RESULTS||||||
+|2906|ZERO_RESULTS||||||
+|2907|OK|Eschwege, Germany||Germany|Kassel|KS|
+|2908|ZERO_RESULTS||||||
+|2909|ZERO_RESULTS||||||
+|2910|OK|Mechterstädt, 99880 Mechterstädt, Germany|99880|Germany|||
+|2911|OK|Kirchhasel, 07407 Uhlstädt-Kirchhasel, Germany|07407|Germany|||
+|2912|ZERO_RESULTS||||||
+|2913|ZERO_RESULTS||||||
+|2914|ZERO_RESULTS||||||
+|2915|ZERO_RESULTS||||||
+|2916|ZERO_RESULTS||||||
+|2917|ZERO_RESULTS||||||
+|2918|ZERO_RESULTS||||||
+|2919|OK|Illingen, Germany||Germany|||
+|2920|ZERO_RESULTS||||||
+|2921|OK|Kirn, Germany||Germany|||
+|2922|OK|Cologne, Germany||Germany|Cologne|K|
+|2923|OK|Graf-Zeppelin-Straße 8, 51147 Cologne, Germany|51147|Germany|Cologne|K|
+|2924|OK|Hohenems, Austria||Austria|Dornbirn District|Dornbirn District|
+|2925|OK|Wiener Neudorf, Austria||Austria|Mödling District|Mödling District|
+|2926|OK|Klagenfurt Airport (KLU), Flughafenstraße 60-64, 9020 Klagenfurt, Austria|9020|Austria|Klagenfurt am Wörthersee|Klagenfurt am Wörthersee|
+|2927|ZERO_RESULTS||||||
+|2928|OK|Fabianistraße 6, 1110 Vienna, Austria|1110|Austria|||
+|2929|OK|1110, Austria|1110|Austria|||
+|2930|ZERO_RESULTS||||||
+|2931|ZERO_RESULTS||||||
+|2932|OK|Schäferberg 1, 06466 Gatersleben, Germany|06466|Germany|||
+|2933|OK|Schäferberg 1, 06466 Gatersleben, Germany|06466|Germany|||
+|2934|ZERO_RESULTS||||||
+|2935|OK|Via del Feudo D'Ascoli, 71121 Foggia, Italy|71121|Italy|Foggia|FG|
+|2936|OK|Brescia, Italy||Italy|Brescia|BS|
+|2937|ZERO_RESULTS||||||
+|2938|OK|Verona, Italy||Italy|Verona|VR|
+|2939|OK|Pavia, Italy||Italy|Pavia|PV|
+|2940|OK|Via Nazionale, 22, 23010 Ca' Spinedi Sondrio, Italy|23010|Italy|Sondrio|SO|
+|2941|OK|Via del Morazzone, 22070 Binago Como, Italy|22070|Italy|Como|CO|
+|2942|OK|Via Monte Malpasso, 43124 Corcagnano Parma, Italy|43124|Italy|Parma|PR|
+|2943|OK|S.S. per Genova / Via Postumia, 15057 Tortona Alessandria, Italy|15057|Italy|Alessandria|AL|
+|2944|OK|Reggio Emilia, Italy||Italy|Reggio Emilia|RE|
+|2945|ZERO_RESULTS||||||
+|2946|OK|Via E. Fermi, 16, 20090 Romano Banco Milan, Italy|20090|Italy|Milan|MI|
+|2947|OK|Via Vecchia Torino, Alessandria, Italy||Italy|Alessandria|AL|
+|2948|OK|Via Bra, 97, 12062 Roreto Cuneo, Italy|12062|Italy|Cuneo|CN|
+|2949|OK|Via Francia, 2, 37135 Verona, Italy|37135|Italy|Verona|VR|
+|2950|OK|Via Enrico Fermi, 16, 20090 Assago Milan, Italy|20090|Italy|Milan|MI|
+|2951|OK|Via Sacco e Vanzetti, 1, 50012 Grassina Ponte A Ema Florence, Italy|50012|Italy|Florence|FI|
+|2952|OK|Via Francia, 2, 37135 Verona, Italy|37135|Italy|Verona|VR|
+|2953|OK|Caserta, Italy||Italy|Caserta|CE|
+|2954|OK|Via Caduti sul Lavoro, 48, 59100 Prato, Italy|59100|Italy|Prato|PO|
+|2955|OK|Via Centese, 53, 40016 San Giorgio di Piano, Bologna, Italy|40016|Italy|Bologna|BO|
+|2956|OK|Via Manfredonia, 43, 71121 Foggia, Italy|71121|Italy|Foggia|FG|
+|2957|OK|Contrada Bagni, 2, 82030 San Salvatore Telesino Benevento, Italy|82030|Italy|Benevento|BN|
+|2958|ZERO_RESULTS||||||
+|2959|OK|Via Nomentana Nuova, 117, 00141 Rome, Italy|00141|Italy|Rome|RM|
+|2960|OK|Via Enrico Fermi, 16, 20090 Assago Milan, Italy|20090|Italy|Milan|MI|
+|2961|OK|Viale Europa, 91, 51034 Cantagrillo Pistoia, Italy|51034|Italy|Pistoia|PT|
+|2962|OK|97100 Ragusa, Italy|97100|Italy|Ragusa|RG|
+|2963|OK|Via Tuscia, 2, 01100 Viterbo, Italy|01100|Italy|Viterbo|VT|
+|2964|OK|Via Guido Rossa, 44012 Bondeno Ferrara, Italy|44012|Italy|Ferrara|FE|
+|2965|OK|Bolzano, Italy||Italy|Bolzano|BZ|
+|2966|OK|Via Molino Rosso, 18, 40026 Imola Bologna, Italy|40026|Italy|Bologna|BO|
+|2967|OK|Via Filippo Paruta, 18a, 90131 Palermo, Italy|90131|Italy|Palermo|PA|
+|2968|OK|67041 Aielli L'Aquila, Italy|67041|Italy|L'Aquila|AQ|
+|2969|OK|Bari, Italy||Italy|Bari|BA|
+|2970|OK|Strada dei Mercati, 17, 43126 Parma, Italy|43126|Italy|Parma|PR|
+|2971|ZERO_RESULTS||||||
+|2972|OK|Via Moren, 2, 25042 Borno Brescia, Italy|25042|Italy|Brescia|BS|
+|2973|OK|Via Filippo Cassoli, 12, 29122 Piacenza, Italy|29122|Italy|Piacenza|PC|
+|2974|OK|Viale Primo Maggio, 45100 Rovigo, Italy|45100|Italy|Rovigo|RO|
+|2975|OK|Parma, Italy||Italy|Parma|PR|
+|2976|OK|52100 Arezzo, Italy|52100|Italy|Arezzo|AR|
+|2977|OK|Via G. Cubito, 14, 10077 San Maurizio Canavese Turin, Italy|10077|Italy|Turin|TO|
+|2978|OK|Via Ferri, 41, 25010 Zona Artigianale Canneto Brescia, Italy|25010|Italy|Brescia|BS|
+|2979|ZERO_RESULTS||||||
+|2980|OK|Compagnonsweg, 9482 Tynaarlo, The Netherlands||The Netherlands|Tynaarlo|Tynaarlo|
+|2981|ZERO_RESULTS||||||
+|2982|ZERO_RESULTS||||||
+|2983|ZERO_RESULTS||||||
+|2984|ZERO_RESULTS||||||
+|2985|ZERO_RESULTS||||||
+|2986|ZERO_RESULTS||||||
+|2987|OK|Gentsevaart 30, 4565 EV Kapellebrug, The Netherlands|4565 EV|The Netherlands|Hulst|Hulst|
+|2988|OK|7391 AM Twello, The Netherlands|7391 AM|The Netherlands|Voorst|Voorst|
+|2989|OK|Stationsweg 454, 3925 CH Scherpenzeel, The Netherlands|3925 CH|The Netherlands|Scherpenzeel|Scherpenzeel|
+|2990|OK|Nonnenkuil 18, 5111 CP Baarle-Nassau, The Netherlands|5111 CP|The Netherlands|Baarle-Nassau|Baarle-Nassau|
+|2991|OK|Landbouwweg 46, Trekkersveld, 3899 BG Zeewolde, The Netherlands|3899 BG|The Netherlands|Zeewolde|Zeewolde|
+|2992|OK|Kapelweg 1, 8355 VG Giethoorn, The Netherlands|8355 VG|The Netherlands|Steenwijkerland|Steenwijkerland|
+|2993|OK|De Valkenberg 15, 6301 PM Valkenburg, The Netherlands|6301 PM|The Netherlands|Valkenburg aan de Geul|Valkenburg aan de Geul|
+|2994|OK|Quistenburg 21, 4454 PZ Borssele, The Netherlands|4454 PZ|The Netherlands|Borsele|Borsele|
+|2995|OK|3244 Nieuwe-Tonge, The Netherlands||The Netherlands|Goeree-Overflakkee|Goeree-Overflakkee|
+|2996|OK|3299 Maasdam, The Netherlands||The Netherlands|Binnenmaas|Binnenmaas|
+|2997|OK|Waardenburg, Koeldert 28, 4181 Waardenburg, The Netherlands||The Netherlands|Neerijnen|Neerijnen|
+|2998|ZERO_RESULTS||||||
+|2999|OK|9482 Tynaarlo, The Netherlands||The Netherlands|Tynaarlo|Tynaarlo|
+|3000|ZERO_RESULTS||||||
+|3001|OK|Alkmaar, The Netherlands||The Netherlands|Alkmaar|Alkmaar|
+|3002|OK|Dronten, The Netherlands||The Netherlands|Dronten|Dronten|
+|3003|OK|Varsseveld, 7051 Varsseveld, The Netherlands||The Netherlands|Oude IJsselstreek|Oude IJsselstreek|
+|3004|OK|Usquert, 9988 Usquert, The Netherlands||The Netherlands|Eemsmond|Eemsmond|
+|3005|OK|Antwerp, Belgium||Belgium|Antwerp|AN|
+|3006|ZERO_RESULTS||||||
+|3007|OK|Rivierkade 12, 4931 AA Geertruidenberg, The Netherlands|4931 AA|The Netherlands|Geertruidenberg|Geertruidenberg|
+|3008|OK|Oostrozebeke, Belgium||Belgium|West Flanders|WV|
+|3009|ZERO_RESULTS||||||
+|3010|OK|4782 PP Moerdijk, The Netherlands|4782 PP|The Netherlands|Moerdijk|Moerdijk|
+|3011|OK|2665 Bleiswijk, The Netherlands||The Netherlands|Lansingerland|Lansingerland|
+|3012|OK|Aarschot, Belgium||Belgium|Flemish Brabant|VB|
+|3013|OK|Ipswich, Suffolk IP2 0UB, UK|IP2 0UB|United Kingdom|Suffolk|Suffk|
+|3014|OK|2030 Antwerp, Belgium|2030|Belgium|Antwerp|AN|
+|3015|ZERO_RESULTS||||||
+|3016|OK|6235 Ulestraten, The Netherlands||The Netherlands|Meerssen|Meerssen|
+|3017|OK|1627 LL Hoorn, The Netherlands|1627 LL|The Netherlands|||
+|3018|OK|4462 GL Goes, The Netherlands|4462 GL|The Netherlands|Goes|Goes|
+|3019|OK|4251 Werkendam, The Netherlands||The Netherlands|Werkendam|Werkendam|
+|3020|OK|Dronten, The Netherlands||The Netherlands|Dronten|Dronten|
+|3021|ZERO_RESULTS||||||
+|3022|OK|2351 AX Leiderdorp, The Netherlands|2351 AX|The Netherlands|||
+|3023|OK|Roosendaal, The Netherlands||The Netherlands|Roosendaal|Roosendaal|
+|3024|OK|Buitenpost, 9285 Buitenpost, The Netherlands||The Netherlands|Achtkarspelen|Achtkarspelen|
+|3025|OK|4251 Werkendam, The Netherlands||The Netherlands|Werkendam|Werkendam|
+|3026|OK|Wijkermeerweg 43, De Pijp, 1948 NT Beverwijk, The Netherlands|1948 NT|The Netherlands|Beverwijk|Beverwijk|
+|3027|ZERO_RESULTS||||||
+|3028|OK|Le Poiré-sur-Vie, France||France|Vendee|85|
+|3029|OK|Alanenweg 1, 5342 PV Oss, The Netherlands|5342 PV|The Netherlands|Oss|Oss|
+|3030|ZERO_RESULTS||||||
+|3031|ZERO_RESULTS||||||
+|3032|ZERO_RESULTS||||||
+|3033|OK|Ritterhude, Germany||Germany|||
+|3034|ZERO_RESULTS||||||
+|3035|OK|Rebecq, Belgium||Belgium|Walloon Brabant|BW|
+|3036|ZERO_RESULTS||||||
+|3037|OK|Soumagne, 4630 Soumagne, Belgium|4630|Belgium|Liege|LG|
+|3038|ZERO_RESULTS||||||
+|3039|ZERO_RESULTS||||||
+|3040|OK|3925 Scherpenzeel, The Netherlands||The Netherlands|Scherpenzeel|Scherpenzeel|
+|3041|OK|Nijverheidslaan 1501, Industriezone Oplgabbeek, 3660 Opglabbeek, Belgium|3660|Belgium|Limburg|LI|
+|3042|OK|Stationsweg 454, 3925 CH Scherpenzeel, The Netherlands|3925 CH|The Netherlands|Scherpenzeel|Scherpenzeel|
+|3043|OK|Baarle-Nassau, The Netherlands||The Netherlands|Baarle-Nassau|Baarle-Nassau|
+|3044|OK|Leeuwarden, The Netherlands||The Netherlands|Leeuwarden|Leeuwarden|
+|3045|OK|Landbouwweg 46, Trekkersveld, 3899 BG Zeewolde, The Netherlands|3899 BG|The Netherlands|Zeewolde|Zeewolde|
+|3046|ZERO_RESULTS||||||
+|3047|OK|Houtwijk 85, Dronten-Noord, 8251 GD Dronten, The Netherlands|8251 GD|The Netherlands|Dronten|Dronten|
+|3048|OK|Sittard, The Netherlands||The Netherlands|Sittard-Geleen|Sittard-Geleen|
+|3049|ZERO_RESULTS||||||
+|3050|OK|6136 XA Sittard, The Netherlands|6136 XA|The Netherlands|Sittard-Geleen|Sittard-Geleen|
+|3051|OK|Dukdalfweg 14, De Vaart, 1332 BM Almere, The Netherlands|1332 BM|The Netherlands|Almere|Almere|
+|3052|ZERO_RESULTS||||||
+|3053|ZERO_RESULTS||||||
+|3054|ZERO_RESULTS||||||
+|3055|ZERO_RESULTS||||||
+|3056|ZERO_RESULTS||||||
+|3057|OK|Brunn am Gebirge, Austria||Austria|Mödling District|Mödling District|
+|3058|ZERO_RESULTS||||||
+|3059|ZERO_RESULTS||||||
+|3060|OK|8355 Giethoorn, The Netherlands||The Netherlands|Steenwijkerland|Steenwijkerland|
+|3061|OK|Soumagne, 4630 Soumagne, Belgium|4630|Belgium|Liege|LG|
+|3062|OK|3899 Zeewolde, The Netherlands||The Netherlands|Zeewolde|Zeewolde|
+|3063|OK|6301 Valkenburg, The Netherlands||The Netherlands|Valkenburg aan de Geul|Valkenburg aan de Geul|
+|3064|ZERO_RESULTS||||||
+|3065|ZERO_RESULTS||||||
+|3066|OK|3244 Nieuwe-Tonge, The Netherlands||The Netherlands|Goeree-Overflakkee|Goeree-Overflakkee|
+|3067|OK|3299 Maasdam, The Netherlands||The Netherlands|Binnenmaas|Binnenmaas|
+|3068|OK|5831 AS Boxmeer, The Netherlands|5831 AS|The Netherlands|Boxmeer|Boxmeer|
+|3069|OK|8500 Kortrijk, Belgium|8500|Belgium|West Flanders|WV|
+|3070|OK|Berlin, Germany||Germany|||
+|3071|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|3072|OK|Frankfurt, Germany||Germany|Darmstadt|DA|
+|3073|OK|Vestienas iela 2A, Latgales priekšpilsēta, Rīga, LV-1035, Latvia|LV-1035|Latvia|Rīgas pilsēta|Rīgas pilsēta|
+|3074|OK|Gastgebgasse 27, 1230 Vienna, Austria|1230|Austria|||
+|3075|OK|Peterburi tee 44, 11415 Tallinn, Estonia|11415|Estonia|Tallinna linn|Tallinna linn|
+|3076|ZERO_RESULTS||||||
+|3077|OK|Krasta iela 42, Latgales priekšpilsēta, Rīga, LV-1003, Latvia|LV-1003|Latvia|Rīgas pilsēta|Rīgas pilsēta|
+|3078|OK|Kārļa Ulmaņa gatve 2, Zemgales priekšpilsēta, Rīga, LV-1004, Latvia|LV-1004|Latvia|Rīgas pilsēta|Rīgas pilsēta|
+|3079|OK|Ateities plentas 50, Kaunas 52106, Lithuania|52106|Lithuania|Kauno miesto savivaldybė|Kauno m. sav.|
+|3080|OK|Gastgebgasse 27, 1230 Vienna, Austria|1230|Austria|||
+|3081|OK|Peterburi tee, Tallinn, Estonia||Estonia|Tallinna linn|Tallinna linn|
+|3082|ZERO_RESULTS||||||
+|3083|OK|Kadaka tee 131, 12915 Tallinn, Estonia|12915|Estonia|Tallinna linn|Tallinna linn|
+|3084|OK|Kalmistu tee 22, 11216 Tallinn, Estonia|11216|Estonia|Tallinna linn|Tallinna linn|
+|3085|OK|Industrivägen 2, 245 34 Staffanstorp, Sweden|24534|Sweden|Staffanstorp|Staffanstorp|
+|3086|OK|260 50 Billesholm, Sweden|26050|Sweden|Bjuv|Bjuv|
+|3087|OK|260 50 Billesholm, Sweden|26050|Sweden|Bjuv|Bjuv|
+|3088|OK|302 44 Halmstad, Sweden|30244|Sweden|||
+|3089|ZERO_RESULTS||||||
+|3090|OK|291 76 Rinkaby, Sweden|29176|Sweden|Kristianstad|Kristianstad|
+|3091|OK|245 33 Staffanstorp, Sweden|24533|Sweden|||
+|3092|ZERO_RESULTS||||||
+|3093|OK|553 03 Jönköping, Sweden|55303|Sweden|||
+|3094|OK|652 21 Karlstad, Sweden|65221|Sweden|||
+|3095|OK|442 40 Kungälv, Sweden|44240|Sweden|||
+|3096|OK|542 35 Mariestad, Sweden|54235|Sweden|||
+|3097|OK|Mellerud, Sweden||Sweden|Mellerud|Mellerud|
+|3098|OK|Mora, Sweden||Sweden|Mora|Mora|
+|3099|OK|455 35 Munkedal, Sweden|45535|Sweden|||
+|3100|OK|783 93 storaskedvi, Sweden|78393|Sweden|||
+|3101|OK|541 34 Skövde, Sweden|54134|Sweden|||
+|3102|OK|594 30 Gamleby, Sweden|59430|Sweden|Västervik|Västervik|
+|3103|OK|570 91 Kristdala, Sweden|57091|Sweden|Oskarshamn|Oskarshamn|
+|3104|OK|Motala, Sweden||Sweden|||
+|3105|OK|602 23 Norrköping, Sweden|60223|Sweden|||
+|3106|ZERO_RESULTS||||||
+|3107|OK|Vimmerby, Sweden||Sweden|Vimmerby|Vimmerby|
+|3108|OK|Örebro, Sweden||Sweden|Örebro|Örebro|
+|3109|OK|Oskarshamn, Sweden||Sweden|||
+|3110|OK|Gylfaflöt, ~ Reykjavik, Iceland|~|Iceland|Capital Region|Capital Region|
+|3111|OK|Storgata 113, 2870 Dokka, Norway|2870|Norway|Nordre Land|Nordre Land|
+|3112|OK|Oslo, Norway||Norway|||
+|3113|OK|Mönsteråsvägen 25, 384 31 Blomstermåla, Sweden|38431|Sweden|Mönsterås|Mönsterås|
+|3114|ZERO_RESULTS||||||
+|3115|OK|Fagragil, Kambsdalur, Faroe Islands||Faroe Islands|||
+|3116|ZERO_RESULTS||||||
+|3117|OK|Turkkirata, 33960 Pirkkala, Finland|33960|Finland|||
+|3118|OK|Industrivegen, 2166 Oppaker, Norway|2166|Norway|Nes|Nes|
+|3119|OK|38509 Candelaria, Santa Cruz de Tenerife, Spain|38509|Spain|Santa Cruz de Tenerife|TF|
+|3120|OK|Valladolid, Spain||Spain|Valladolid|VA|
+|3121|OK|Alcala de Henares, Madrid, Spain||Spain|Madrid|M|
+|3122|OK|Ciudad Real, Spain||Spain|Ciudad Real|Ciudad Real|
+|3123|OK|Cáceres‎, Cáceres, Spain||Spain|Cáceres|Cáceres|
+|3124|ZERO_RESULTS||||||
+|3125|ZERO_RESULTS||||||
+|3126|OK|41016 Seville, Sevilla, Spain|41016|Spain|Sevilla|Sevilla|
+|3127|OK|Cádiz, Spain||Spain|Cádiz|CA|
+|3128|ZERO_RESULTS||||||
+|3129|OK|39611 Guarnizo, Cantabria, Spain|39611|Spain|Cantabria|S|
+|3130|OK|33199 Meres, Asturias, Spain|33199|Spain|Asturias|O|
+|3131|ZERO_RESULTS||||||
+|3132|ZERO_RESULTS||||||
+|3133|OK|Teruel, Spain||Spain|Teruel|Teruel|
+|3134|OK|Teruel, Spain||Spain|Teruel|Teruel|
+|3135|ZERO_RESULTS||||||
+|3136|OK|San Ginés, Murcia, Spain||Spain|Murcia|MU|
+|3137|OK|43870 Amposta, Tarragona, Spain|43870|Spain|Tarragona|T|
+|3138|OK|25191 Lleida, Spain|25191|Spain|Lleida|Lleida|
+|3139|OK|19171 Cabanillas del Campo, Guadalajara, Spain|19171|Spain|Guadalajara|Guadalajara|
+|3140|OK|25600 Balaguer, Lleida, Spain|25600|Spain|Lleida|Lleida|
+|3141|ZERO_RESULTS||||||
+|3142|OK|41016 Seville, Sevilla, Spain|41016|Spain|Sevilla|Sevilla|
+|3143|OK|Burgos, Spain||Spain|Burgos|Burgos|
+|3144|OK|47012 Valladolid, Spain|47012|Spain|Valladolid|VA|
+|3145|OK|Astillero, Cantabria, Spain||Spain|Cantabria|S|
+|3146|OK|San Ginés, Murcia, Spain||Spain|Murcia|MU|
+|3147|OK|06200 Almendralejo, Badajoz, Spain|06200|Spain|Badajoz|Badajoz|
+|3148|OK|Salamanca, Spain||Spain|Salamanca|SA|
+|3149|OK|Jaén, Spain||Spain|Jaén|Jaén|
+|3150|OK|Granada, Spain||Spain|Granada|Granada|
+|3151|OK|08755 Castellbisbal, Barcelona, Spain|08755|Spain|Barcelona|B|
+|3152|OK|19171 Cabanillas del Campo, Guadalajara, Spain|19171|Spain|Guadalajara|Guadalajara|
+|3153|OK|25600 Balaguer, Lleida, Spain|25600|Spain|Lleida|Lleida|
+|3154|ZERO_RESULTS||||||
+|3155|OK|41016 Seville, Sevilla, Spain|41016|Spain|Sevilla|Sevilla|
+|3156|OK|Burgos, Spain||Spain|Burgos|Burgos|
+|3157|OK|Valladolid, Spain||Spain|Valladolid|VA|
+|3158|OK|Astillero, Cantabria, Spain||Spain|Cantabria|S|
+|3159|OK|San Ginés, Murcia, Spain||Spain|Murcia|MU|
+|3160|OK|06200 Almendralejo, Badajoz, Spain|06200|Spain|Badajoz|Badajoz|
+|3161|OK|Salamanca, Spain||Spain|Salamanca|SA|
+|3162|OK|Jaén, Spain||Spain|Jaén|Jaén|
+|3163|OK|Granada, Spain||Spain|Granada|Granada|
+|3164|OK|08755 Castellbisbal, Barcelona, Spain|08755|Spain|Barcelona|B|
+|3165|OK|Carretera Fontanar, 19004 Guadalajara, Spain|19004|Spain|Guadalajara|Guadalajara|
+|3166|ZERO_RESULTS||||||
+|3167|OK|6330 Cham, Switzerland|6330|Switzerland|||
+|3168|OK|Cham, 93413 Cham, Switzerland|93413|Switzerland|||
+|3169|ZERO_RESULTS||||||
+|3170|ZERO_RESULTS||||||
+|3171|OK|Concepción Arenal, Buenos Aires Province, Argentina||Argentina|Hurlingham Partido|Hurlingham Partido|
+|3172|ZERO_RESULTS||||||
+|3173|ZERO_RESULTS||||||
+|3174|ZERO_RESULTS||||||
+|3175|ZERO_RESULTS||||||
+|3176|ZERO_RESULTS||||||
+|3177|ZERO_RESULTS||||||
+|3178|OK|Messegelände, 30521 Hanover, Germany|30521|Germany|||
+|3179|OK|Moormannskamp 5, 27721 Ritterhude, Germany|27721|Germany|||
+|3180|ZERO_RESULTS||||||
+|3181|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|3182|ZERO_RESULTS||||||
+|3183|OK|Graf-Zeppelin-Straße 16, 45219 Essen, Germany|45219|Germany|Düsseldorf|D|
+|3184|OK|Graf-Zeppelin-Straße 16, 45219 Essen, Germany|45219|Germany|Düsseldorf|D|
+|3185|ZERO_RESULTS||||||
+|3186|ZERO_RESULTS||||||
+|3187|OK|Chemnitz, Germany||Germany|Chemnitz|C|
+|3188|OK|Chemnitz, Germany||Germany|Chemnitz|C|
+|3189|OK|Los Belones, Murcia, Spain||Spain|Murcia|MU|
+|3190|ZERO_RESULTS||||||
+|3191|ZERO_RESULTS||||||
+|3192|OK|Messegelände, 30521 Hanover, Germany|30521|Germany|||
+|3193|OK|41400 Gebze/Kocaeli Province, Turkey|41400|Turkey|||
+|3194|OK|Coesfeld, Germany||Germany|Münster|Münster|
+|3195|OK|Munich, Germany||Germany|Upper Bavaria|Upper Bavaria|
+|3196|ZERO_RESULTS||||||
+|3197|ZERO_RESULTS||||||
+|3198|OK|Kurt-Schumacher-Damm 41, 13405 Berlin, Germany|13405|Germany|||
+|3199|ZERO_RESULTS||||||
+|3200|OK|Messegelände, 30521 Hanover, Germany|30521|Germany|||
+|3201|ZERO_RESULTS||||||
+|3202|OK|H, WI, USA||United States|||
+|3203|OK|Boxberg, Germany||Germany|Stuttgart|S|
+|3204|OK|Straßenmeisterei Gerabronn, Haller Straße 18, 74582 Gerabronn, Germany|74582|Germany|Stuttgart|S|
+|3205|ZERO_RESULTS||||||
+|3206|INVALID_REQUEST||||||
+|3207|OK|Stadtverwaltung Querfurt, Gewerbegebiet Obhäuser Weg, Obhäuser Weg 6, 06268 Querfurt, Germany|06268|Germany|||
+|3208|ZERO_RESULTS||||||
+|3209|OK|Ermlandstraße 59, 28777 Bremen, Germany|28777|Germany|||
+|3210|OK|Nuremberg, Germany||Germany|Middle Franconia|Middle Franconia|
+|3211|ZERO_RESULTS||||||
+|3212|ZERO_RESULTS||||||
+|3213|OK|halle.8, Nienkamp 74, 48147 Münster, Germany|48147|Germany|Münster|Münster|
+|3214|ZERO_RESULTS||||||
+|3215|ZERO_RESULTS||||||
+|3216|OK|Lübbendorfer Chaussee 4, 19249 Lübtheen, Germany|19249|Germany|||
+|3217|ZERO_RESULTS||||||
+|3218|ZERO_RESULTS||||||
+|3219|ZERO_RESULTS||||||
+|3220|ZERO_RESULTS||||||
+|3221|ZERO_RESULTS||||||
+|3222|ZERO_RESULTS||||||
+|3223|OK|Am Umspannwerk, 66557 Illingen, Germany|66557|Germany|||
+|3224|OK|Torun, Poland||Poland|Toruń County|Toruń County|
+|3225|OK|Torun, Poland||Poland|Toruń County|Toruń County|
+|3226|OK|Szczecin, Poland||Poland|Szczecin|Szczecin|
+|3227|ZERO_RESULTS||||||
+|3228|ZERO_RESULTS||||||
+|3229|ZERO_RESULTS||||||
+|3230|ZERO_RESULTS||||||
+|3231|OK|Craywick, France||France|Nord|59|
+|3232|ZERO_RESULTS||||||
+|3233|ZERO_RESULTS||||||
+|3234|ZERO_RESULTS||||||
+|3235|ZERO_RESULTS||||||
+|3236|ZERO_RESULTS||||||
+|3237|ZERO_RESULTS||||||
+|3238|ZERO_RESULTS||||||
+|3239|ZERO_RESULTS||||||
+|3240|ZERO_RESULTS||||||
+|3241|ZERO_RESULTS||||||
+|3242|ZERO_RESULTS||||||
+|3243|ZERO_RESULTS||||||
+|3244|ZERO_RESULTS||||||
+|3245|ZERO_RESULTS||||||
+|3246|OK|Stari Grad, Sjenica, Serbia||Serbia|Zlatibor District|Zlatibor District|
+|3247|ZERO_RESULTS||||||
+|3248|ZERO_RESULTS||||||
+|3249|ZERO_RESULTS||||||
+|3250|ZERO_RESULTS||||||
+|3251|ZERO_RESULTS||||||
+|3252|ZERO_RESULTS||||||
+|3253|ZERO_RESULTS||||||
+|3254|ZERO_RESULTS||||||
+|3255|ZERO_RESULTS||||||
+|3256|OK|43 Rue Ampère, 69680 Chassieu, France|69680|France|Rhône|69|
+|3257|ZERO_RESULTS||||||
+|3258|ZERO_RESULTS||||||
+|3259|ZERO_RESULTS||||||
+|3260|ZERO_RESULTS||||||
+|3261|ZERO_RESULTS||||||
+|3262|OK|Loxam Drive, Sunset Beach, AB T9S, Canada||Canada|Division No. 13|Division No. 13|
+|3263|OK|Loxam Drive, Sunset Beach, AB T9S, Canada||Canada|Division No. 13|Division No. 13|
+|3264|OK|Loxam Drive, Sunset Beach, AB T9S, Canada||Canada|Division No. 13|Division No. 13|
+|3265|ZERO_RESULTS||||||
+|3266|OK|Via di Brozzi, 50145 Florence, Italy|50145|Italy|Florence|FI|
+|3267|OK|Via Centese, 53, 40016 Argelato, Bologna, Italy|40016|Italy|Bologna|BO|
+|3268|OK|SS7, 74010 Via Appia SS.7 Km 640 Taranto, Italy|74010|Italy|Taranto|TA|
+|3269|OK|Via Stabilimento, 2, 61020 Gallo Pesaro and Urbino, Italy|61020|Italy|Pesaro and Urbino|PU|
+|3270|ZERO_RESULTS||||||
+|3271|ZERO_RESULTS||||||
+|3272|OK|Locadour, 56700 Kervignac, France|56700|France|Morbihan|56|
+|3273|ZERO_RESULTS||||||
+|3274|OK|J.c.b Consulting, 390 Boulevard De Palerme, 13540 Aix-en-Provence, France|13540|France|Bouches-du-Rhone|13|
+|3275|ZERO_RESULTS||||||
+|3276|ZERO_RESULTS||||||
+|3277|ZERO_RESULTS||||||
+|3278|OK|Novara, Italy||Italy|Novara|NO|
+|3279|OK|Loulé, Portugal||Portugal|||
+|3280|ZERO_RESULTS||||||
+|3281|ZERO_RESULTS||||||
+|3282|OK|Angers, France||France|Maine-et-Loire|Maine-et-Loire|
+|3283|OK|Île-de-France, France||France|||
+|3284|OK|Rua Augusto Duflot, 129 - Tres Vendas, Erechim - Rio Grande do Sul, 99700-000, Brazil|99700-000|Brazil|Erechim|Erechim|
+|3285|ZERO_RESULTS||||||
+|3286|ZERO_RESULTS||||||
+|3287|ZERO_RESULTS||||||
+|3288|ZERO_RESULTS||||||
+|3289|ZERO_RESULTS||||||
+|3290|ZERO_RESULTS||||||
+|3291|ZERO_RESULTS||||||
+|3292|ZERO_RESULTS||||||
+|3293|ZERO_RESULTS||||||
+|3294|ZERO_RESULTS||||||
+|3295|ZERO_RESULTS||||||
+|3296|OK|The Hague, The Netherlands||The Netherlands|The Hague|The Hague|
+|3297|ZERO_RESULTS||||||
+|3298|OK|Villepinte, France||France|Seine-Saint-Denis|93|
+|3299|ZERO_RESULTS||||||
+|3300|ZERO_RESULTS||||||
+|3301|ZERO_RESULTS||||||
+|3302|OK|J.c.b Consulting, 390 Boulevard De Palerme, 13540 Aix-en-Provence, France|13540|France|Bouches-du-Rhone|13|
+|3303|ZERO_RESULTS||||||
+|3304|ZERO_RESULTS||||||
+|3305|ZERO_RESULTS||||||
+|3306|ZERO_RESULTS||||||
+|3307|ZERO_RESULTS||||||
+|3308|ZERO_RESULTS||||||
+|3309|OK|Modugno Bari, Italy||Italy|Bari|BA|
+|3310|ZERO_RESULTS||||||
+|3311|OK|Toledo, León, Guanajuato, Mexico||Mexico|||
+|3312|ZERO_RESULTS||||||
+|3313|ZERO_RESULTS||||||
+|3314|ZERO_RESULTS||||||
+|3315|OK|Carretera Gijón-Sevilla, 06200 Almendralejo, Badajoz, Spain|06200|Spain|Badajoz|Badajoz|
+|3316|ZERO_RESULTS||||||
+|3317|ZERO_RESULTS||||||
+|3318|OK|Madrid, Spain||Spain|Madrid|M|
+|3319|ZERO_RESULTS||||||
+|3320|ZERO_RESULTS||||||
+|3321|ZERO_RESULTS||||||
+|3322|ZERO_RESULTS||||||
+|3323|ZERO_RESULTS||||||
+|3324|ZERO_RESULTS||||||
+|3325|OK|Indiana, USA||United States|||
+|3326|ZERO_RESULTS||||||
+|3327|ZERO_RESULTS||||||
+|3328|OK|León, Guanajuato, Mexico||Mexico|||
+|3329|OK|Cabrerizos, Salamanca, Spain||Spain|Salamanca|SA|
+|3330|ZERO_RESULTS||||||
+|3331|ZERO_RESULTS||||||
+|3332|ZERO_RESULTS||||||
+|3333|ZERO_RESULTS||||||
+|3334|ZERO_RESULTS||||||
+|3335|ZERO_RESULTS||||||
+|3336|OK|Lleida, Spain||Spain|Lleida|Lleida|
+|3337|ZERO_RESULTS||||||
+|3338|OK|S. C. T., Chilpancingo, Guerrero, Mexico||Mexico|||
+|3339|ZERO_RESULTS||||||
+|3340|ZERO_RESULTS||||||
+|3341|ZERO_RESULTS||||||
+|3342|ZERO_RESULTS||||||
+|3343|ZERO_RESULTS||||||
+|3344|OK|Pedro de Guzmán, Sin Colonia, Ciudad Río Bravo, Tamaulipas, Mexico||Mexico|||
+|3345|ZERO_RESULTS||||||
+|3346|OK|Catalonia, Spain||Spain|||
+|3347|OK|Parcela, Poland||Poland|Jędrzejów County|Jędrzejów County|
+|3348|ZERO_RESULTS||||||
+|3349|ZERO_RESULTS||||||
+|3350|ZERO_RESULTS||||||
+|3351|ZERO_RESULTS||||||
+|3352|ZERO_RESULTS||||||
+|3353|OK|44400 Mora de Rubielos, Teruel, Spain|44400|Spain|Teruel|Teruel|
+|3354|OK|Edificio Berlín, Avenida Las Monjas 10, Guayaquil 090615, Ecuador|090615|Ecuador|||
+|3355|ZERO_RESULTS||||||
+|3356|ZERO_RESULTS||||||
+|3357|ZERO_RESULTS||||||
+|3358|OK|Morales, Infonavit Tamsa - Casas Tamsa - Infonavit Casas Tamsa, 94295 Boca del Río, Veracruz, Mexico|94295|Mexico|||
+|3359|ZERO_RESULTS||||||
+|3360|ZERO_RESULTS||||||
+|3361|ZERO_RESULTS||||||
+|3362|ZERO_RESULTS||||||
+|3363|ZERO_RESULTS||||||
+|3364|ZERO_RESULTS||||||
+|3365|OK|15820 Santiago de Compostela, A Coruña, Spain|15820|Spain|A Coruña|C|
+|3366|OK|Edificio Berlín, Avenida Las Monjas 10, Guayaquil 090615, Ecuador|090615|Ecuador|||
+|3367|ZERO_RESULTS||||||
+|3368|ZERO_RESULTS||||||
+|3369|ZERO_RESULTS||||||
+|3370|OK|Morales, Infonavit Tamsa - Casas Tamsa - Infonavit Casas Tamsa, 94295 Boca del Río, Veracruz, Mexico|94295|Mexico|||
+|3371|ZERO_RESULTS||||||
+|3372|ZERO_RESULTS||||||
+|3373|ZERO_RESULTS||||||
+|3374|ZERO_RESULTS||||||
+|3375|ZERO_RESULTS||||||
+|3376|ZERO_RESULTS||||||
+|3377|OK|15820 Santiago de Compostela, A Coruña, Spain|15820|Spain|A Coruña|C|
+|3378|OK|05-552 Kolonia Mrokowska, Poland|05-552|Poland|Piaseczno County|Piaseczno County|
+|3379|ZERO_RESULTS||||||
+|3380|ZERO_RESULTS||||||
+|3381|ZERO_RESULTS||||||
+|3382|ZERO_RESULTS||||||
+|3383|ZERO_RESULTS||||||
+|3384|OK|Torun, Poland||Poland|Toruń County|Toruń County|
+|3385|OK|Torun, Poland||Poland|Toruń County|Toruń County|
+|3386|ZERO_RESULTS||||||
+|3387|ZERO_RESULTS||||||
+|3388|ZERO_RESULTS||||||
+|3389|OK|430 20 Veddige, Sweden|43020|Sweden|Varberg|Varberg|
+|3390|ZERO_RESULTS||||||
+|3391|ZERO_RESULTS||||||
+|3392|ZERO_RESULTS||||||
+|3393|ZERO_RESULTS||||||
+|3394|ZERO_RESULTS||||||
+|3395|ZERO_RESULTS||||||
+|3396|ZERO_RESULTS||||||
+|3397|ZERO_RESULTS||||||
+|3398|ZERO_RESULTS||||||
+|3399|ZERO_RESULTS||||||
+|3400|ZERO_RESULTS||||||
+|3401|ZERO_RESULTS||||||
+|3402|ZERO_RESULTS||||||

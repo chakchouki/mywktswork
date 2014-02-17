@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<acceptance_status xmlns="uri:com.transwide.comm/twFormat/acceptance/v13">
+	<version>V13</version>
+	<event_time>2014-02-12T15:20:54</event_time>
+	<sequence>43</sequence>
+	<contact>
+		<firstName>FNAME</firstName>
+		<lastName>LNAME</lastName>
+	</contact>
+	<action>REJECT</action>
+	<medium>ROAD</medium>
+	<calloffData>
+		<shipper>
+			<ref>1392043163259</ref>
+			<name>Avebe U.A.</name>
+		</shipper>
+		<carrier>
+			<ref>1392194660538</ref>
+			<name>OLDENBURGER FRITOM</name>
+		</carrier>
+		<calloffRef>80887478-A</calloffRef>
+		<cmrRef></cmrRef>
+		<groupageRef></groupageRef>
+	</calloffData>
+</acceptance_status>

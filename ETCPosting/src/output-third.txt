@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+|1|OK|Luxembourg||Luxembourg|||Luxembourg|Luxembourg|
+|2|OK|Luxembourg||Luxembourg|||Luxembourg|Luxembourg|
+|3|OK|Luxembourg||Luxembourg|||Luxembourg|Luxembourg|
+|4|OK|Luxembourg||Luxembourg|||Luxembourg|Luxembourg|
+|5|OK|Luxembourg||Luxembourg|||Luxembourg|Luxembourg|
+|6|OK|Luxembourg||Luxembourg|||Luxembourg|Luxembourg|
+|7|OK|Luxembourg||Luxembourg|||Luxembourg|Luxembourg|
+|8|OK|Luxembourg||Luxembourg|||||
+|9|ZERO_RESULTS||||||||
+|10|OK|Avenue Archimède, 02100 Saint-Quentin, France|02100|France|Aisne|Aisne|Picardy|Picardy|
+|11|OK|France||France|||||
+|12|ZERO_RESULTS||||||||
+|13|ZERO_RESULTS||||||||
+|14|OVER_QUERY_LIMIT||||||||
+|15|OVER_QUERY_LIMIT||||||||
+|16|OVER_QUERY_LIMIT||||||||
+|17|OK|Le Rheu, France||France|Ille-et-Vilaine|35|Brittany|Brittany|
+|18|OVER_QUERY_LIMIT||||||||
+|19|OVER_QUERY_LIMIT||||||||
+|20|OVER_QUERY_LIMIT||||||||
+|21|OVER_QUERY_LIMIT||||||||
+|22|OVER_QUERY_LIMIT||||||||
+|23|OVER_QUERY_LIMIT||||||||
+|24|ZERO_RESULTS||||||||
+|25|ZERO_RESULTS||||||||
+|26|OVER_QUERY_LIMIT||||||||
+|27|OVER_QUERY_LIMIT||||||||
+|28|OVER_QUERY_LIMIT||||||||
+|29|OK|Club d'arts martiaux de Flavigny, judo, jujitsu et karaté., Rue du Chaubourot, 54630 Flavigny-sur-Moselle, France|54630|France|Meurthe-et-Moselle|54|Lorraine|Lorraine|
+|30|INVALID_REQUEST||||||||
+|31|OK|École De SURF TAIBA BIDART, Avenue d'Espagne, 64210 Bidart, France|64210|France|Pyrénées-Atlantiques|64|Aquitaine|Aquitaine|
+|32|OK|École maternelle, 6 Rue des Écoles, 24430 Marsac-sur-l'Isle, France|24430|France|Dordogne|24|Aquitaine|Aquitaine|
+|33|OK|Charles De Gaulle Airport (CDG), 95700 Roissy-en-France, France|95700|France|||Île-de-France|IDF|
+|34|OK|France||France|||||
+|35|ZERO_RESULTS||||||||
+|36|OK|France||France|||||
+|37|OK|Velaines, France||France|Meuse|55|Lorraine|Lorraine|
+|38|OK|Gymnase de Buzancais, Avenue du 8 Mai, 36500 Buzançais, France|36500|France|Indre|36|Centre|Centre|
+|39|OK|Bressolles, France||France|Allier|03|Auvergne|Auvergne|
+|40|OK|Lyss, 3250 Lyss, Switzerland|3250|Switzerland|Aarberg District|Aarberg District|Canton of Bern|BE|
+|41|OVER_QUERY_LIMIT||||||||
+|42|OVER_QUERY_LIMIT||||||||
+|43|OVER_QUERY_LIMIT||||||||
+|44|OVER_QUERY_LIMIT||||||||
+|45|OVER_QUERY_LIMIT||||||||
+|46|OVER_QUERY_LIMIT||||||||
+|47|OVER_QUERY_LIMIT||||||||
+|48|OVER_QUERY_LIMIT||||||||
+|49|OVER_QUERY_LIMIT||||||||
+|50|OVER_QUERY_LIMIT||||||||
+|51|OVER_QUERY_LIMIT||||||||
+|52|ZERO_RESULTS||||||||
+|53|OK|Rue Louis Delage, 72650 La Chapelle-Saint-Aubin, France|72650|France|Sarthe|72|Pays de la Loire|Pays de la Loire|
+|54|ZERO_RESULTS||||||||
+|55|ZERO_RESULTS||||||||
+|56|ZERO_RESULTS||||||||
+|57|ZERO_RESULTS||||||||
+|58|ZERO_RESULTS||||||||
+|59|OK|Liposthey, France||France|Landes|40|Aquitaine|Aquitaine|
+|60|OK|Vergèze, France||France|Gard|30|Languedoc-Roussillon|Languedoc-Roussillon|
+|61|ZERO_RESULTS||||||||
+|62|OK|Lycée Jehan de Chelles SA, 47 Rue des Cités, 77500 Chelles, France|77500|France|Seine-et-Marne|77|Île-de-France|IDF|
+|63|OK|Saint-Vigor-d'Ymonville, France||France|Seine-Maritime|76|Upper Normandy|Upper Normandy|
+|64|ZERO_RESULTS||||||||
+|65|OVER_QUERY_LIMIT||||||||
+|66|OVER_QUERY_LIMIT||||||||
+|67|OVER_QUERY_LIMIT||||||||
+|68|OVER_QUERY_LIMIT||||||||
+|69|OVER_QUERY_LIMIT||||||||
+|70|OVER_QUERY_LIMIT||||||||
+|71|OVER_QUERY_LIMIT||||||||
+|72|OVER_QUERY_LIMIT||||||||
+|73|OK|Am Gewerbegebiet 21, 27243 Groß Ippener, Germany|27243|Germany|||Lower Saxony|NDS|
+|74|OK|Stralsund, Germany||Germany|||Mecklenburg-Vorpommern|MV|
+|75|OK|Heimatmuseum Papenburg, Hauptkanal rechts 13, 26871 Papenburg, Germany|26871|Germany|||Lower Saxony|NDS|
+|76|ZERO_RESULTS||||||||
+|77|OK|Angermünder Straße 19, Biosphärenreservat Schorfheide-Chorin, 16247 Althüttendorf, Germany|16247|Germany|||Brandenburg|BB|
+|78|OK|Schlehenweg 2, 29690 Schwarmstedt, Germany|29690|Germany|||Lower Saxony|NDS|
+|79|OK|Amt Mecklenburgische Schweiz Verwaltungsstelle Jördenstorf, Neue Straße 1, 17168 Jördenstorf, Germany|17168|Germany|||Mecklenburg-Vorpommern|MV|
+|80|OK|Ringstraße 32, 19089 Wessin, Germany|19089|Germany|||Mecklenburg-Vorpommern|MV|
+|81|OK|Neumünster, Germany||Germany|||Schleswig-Holstein|SH|
+|82|OK|30521 Hanover, Germany|30521|Germany|||Lower Saxony|NDS|
+|83|OK|Passow, Germany||Germany|||Mecklenburg-Vorpommern|MV|
+|84|OVER_QUERY_LIMIT||||||||
+|85|OVER_QUERY_LIMIT||||||||
+|86|OK|12105 Berlin, Germany|12105|Germany|||Berlin|Berlin|
+|87|OVER_QUERY_LIMIT||||||||
+|88|OVER_QUERY_LIMIT||||||||
+|89|OK|PHARMA GREEN Apotheke Hasbergen, Osnabrücker Straße 42, 49205 Hasbergen, Germany|49205|Germany|||Lower Saxony|NDS|
+|90|OK|Tennis-Center Teningen-Nimburg, Waidplatzstraße 3, 79331 Teningen, Germany|79331|Germany|Freiburg|Freiburg|Baden-Wurttemberg|BW|
+|91|OK|Gemeindeverwaltung Ortsgemeinde Quirnheim, Langgasse 24, 67280 Quirnheim, Germany|67280|Germany|||Rhineland-Palatinate|RP|
+|92|OK|Elbauenpark Magdeburg, Tessenowstraße 5A, 39114 Magdeburg, Germany|39114|Germany|||Saxony-Anhalt|SA|
+|93|OK|Illingen (Saar), 66557 Illingen, Germany|66557|Germany|||Saarland|SL|
+|94|OK|Issel, 54338 Schweich, Germany|54338|Germany|||Rhineland-Palatinate|RP|
+|95|OK|Nempitz, Germany||Germany|||Saxony-Anhalt|SA|
+|96|OK|Rotenhäuser Straße 8, 21109 Hamburg, Germany|21109|Germany|||Hamburg|HH|
+|97|OK|Hamburg, 22767 Hamburg, Germany|22767|Germany|||Hamburg|HH|
+|98|OK|Germany||Germany|||Bremen|HB|
+|99|OK|Stadtbibliothek Vahrenwald, Vahrenwalder Straße 92, 30165 Hanover, Germany|30165|Germany|||Lower Saxony|NDS|
+|100|OK|Steimker Straße 2, 29386 Hankensbüttel, Germany|29386|Germany|||Lower Saxony|NDS|
+|101|OK|Gemeindeverwaltung Morl, Schulberg 8, 06193 Petersberg, Germany|06193|Germany|||Saxony-Anhalt|SA|
+|102|OK|Jördenstorf, Germany||Germany|||Mecklenburg-Vorpommern|MV|
+|103|OK|Konz-Könen, 54329 Konz, Germany|54329|Germany|||Rhineland-Palatinate|RP|
+|104|OK|Coleman Falls, VA 24536, USA|24536|United States|||Virginia|VA|
+|105|ZERO_RESULTS||||||||
+|106|OK|Trollenhagen, Germany||Germany|||Mecklenburg-Vorpommern|MV|
+|107|ZERO_RESULTS||||||||
+|108|OK|Bad Schwartau, 23611 Bad Schwartau, Germany|23611|Germany|||Schleswig-Holstein|SH|
+|109|OK|PHARMA GREEN Apotheke Hasbergen, Osnabrücker Straße 42, 49205 Hasbergen, Germany|49205|Germany|||Lower Saxony|NDS|
+|110|OK|PHARMA GREEN Apotheke Hasbergen, Osnabrücker Straße 42, 49205 Hasbergen, Germany|49205|Germany|||Lower Saxony|NDS|
+|111|OK|Handwerkskammer Cottbus BTZ- Berufsbildung- u. Technologiezentrum Gallinchen, Schorbuser Weg 2, 03051 Cottbus, Germany|03051|Germany|||Brandenburg|BB|
+|112|OK|Heerweger Moor, 27721 Ritterhude, Germany|27721|Germany|||Lower Saxony|NDS|
+|113|OK|Gewerbestraße, 26845 Nortmoor, Germany|26845|Germany|||Lower Saxony|NDS|
+|114|OVER_QUERY_LIMIT||||||||
+|115|OVER_QUERY_LIMIT||||||||
+|116|OVER_QUERY_LIMIT||||||||
+|117|OVER_QUERY_LIMIT||||||||
+|118|OVER_QUERY_LIMIT||||||||
+|119|OVER_QUERY_LIMIT||||||||
+|120|OVER_QUERY_LIMIT||||||||
+|121|OVER_QUERY_LIMIT||||||||
+|122|OVER_QUERY_LIMIT||||||||
+|123|OVER_QUERY_LIMIT||||||||
+|124|OVER_QUERY_LIMIT||||||||
+|125|OVER_QUERY_LIMIT||||||||
+|126|OVER_QUERY_LIMIT||||||||
+|127|OVER_QUERY_LIMIT||||||||
+|128|OVER_QUERY_LIMIT||||||||
+|129|OVER_QUERY_LIMIT||||||||
+|130|OK|Hennersdorf, Obere Dorfstraße 9, 01762 Schmiedeberg, Germany|01762|Germany|Dresden|DD|Saxony|SN|
+|131|OK|Helmstedt, Germany||Germany|||Lower Saxony|NDS|
+|132|OK|Luftsportgemeinschaft Rheinstetten e.V., Segelfluggelände Rheinstetten, Kutschenweg 40, 76287 Rheinstetten, Germany|76287|Germany|Karlsruhe|KA|Baden-Wurttemberg|BW|
+|133|INVALID_REQUEST||||||||
+|134|OK|Bargischow, Germany||Germany|||Mecklenburg-Vorpommern|MV|
+|135|OK|30521 Hanover, Germany|30521|Germany|||Lower Saxony|NDS|
+|136|OK|Stadt Großräschen, Allmosener Hauptstraße 13, 01983 Großräschen, Germany|01983|Germany|||Brandenburg|BB|
+|137|OK|Eisenach, Germany||Germany|||Thuringia|TH|
+|138|OK|EDNL, Flugplatz 16, 88299 Leutkirch im Allgäu, Germany|88299|Germany|Tübingen|TÜ|Baden-Wurttemberg|BW|
+|139|OK|13089 Berlin, Germany|13089|Germany|||Berlin|Berlin|
+|140|OVER_QUERY_LIMIT||||||||
+|141|OVER_QUERY_LIMIT||||||||
+|142|OVER_QUERY_LIMIT||||||||
+|143|OVER_QUERY_LIMIT||||||||
+|144|OVER_QUERY_LIMIT||||||||
+|145|OVER_QUERY_LIMIT||||||||
+|146|OVER_QUERY_LIMIT||||||||
+|147|OVER_QUERY_LIMIT||||||||
+|148|OVER_QUERY_LIMIT||||||||
+|149|OVER_QUERY_LIMIT||||||||
+|150|OK|Schlossstraße 69, 16278 Mark Landin, Germany|16278|Germany|||Brandenburg|BB|
+|151|OK|Pinnow, 17390 Murchin, Germany|17390|Germany|||Mecklenburg-Vorpommern|MV|
+|152|OK|Pleetzer Weg 32, 17098 Friedland, Germany|17098|Germany|||Mecklenburg-Vorpommern|MV|
+|153|OK|Am Rothengrund, 17192 Waren, Germany|17192|Germany|||Mecklenburg-Vorpommern|MV|
+|154|OK|Grundschule Roggendorf, Gadebuscher Straße 6, 19205 Roggendorf, Germany|19205|Germany|||Mecklenburg-Vorpommern|MV|
+|155|OK|Klein Bünzow, Germany||Germany|||Mecklenburg-Vorpommern|MV|
+|156|OK|Museum Hagenow, Lange Straße 79, 19230 Hagenow, Germany|19230|Germany|||Mecklenburg-Vorpommern|MV|
+|157|OK|Hopfenstraße 11, 91207 Lauf an der Pegnitz, Germany|91207|Germany|Middle Franconia|Middle Franconia|Bavaria|BY|
+|158|OK|Rambin, Germany||Germany|||Mecklenburg-Vorpommern|MV|
+|159|OK|Bergkoppel 13, 23881 Breitenfelde, Germany|23881|Germany|||Schleswig-Holstein|SH|
+|160|OK|Rügkamper Weg 1, 23992 Zurow, Germany|23992|Germany|||Mecklenburg-Vorpommern|MV|
+|161|OVER_QUERY_LIMIT||||||||
+|162|OVER_QUERY_LIMIT||||||||
+|163|OVER_QUERY_LIMIT||||||||
+|164|OVER_QUERY_LIMIT||||||||
+|165|OK|Germany||Germany|||||
+|166|OVER_QUERY_LIMIT||||||||
+|167|OVER_QUERY_LIMIT||||||||
+|168|OVER_QUERY_LIMIT||||||||
+|169|OVER_QUERY_LIMIT||||||||
+|170|OVER_QUERY_LIMIT||||||||
+|171|OVER_QUERY_LIMIT||||||||
+|172|OVER_QUERY_LIMIT||||||||
+|173|OK|Nienburger Straße 12, 49453 Rehden, Germany|49453|Germany|||Lower Saxony|NDS|
+|174|OK|Gemeindeverwaltung Passow, Charlottenhofer Weg 57, 19386 Passow, Germany|19386|Germany|||Mecklenburg-Vorpommern|MV|
+|175|OK|Germany||Germany|||||
+|176|OK|Samtgemeinde Rosche, Lüchower Straße 15, 29571 Rosche, Germany|29571|Germany|||Lower Saxony|NDS|
+|177|OK|Osterburg, 39606 Osterburg, Germany|39606|Germany|||Saxony-Anhalt|SA|
+|178|OK|38350 Helmstedt, Germany|38350|Germany|||Lower Saxony|NDS|
+|179|OK|Gemeindeverwaltung Badel Dorfgemeinschaftshaus, Bahnhofstraße 46a, 39624 Kalbe, Germany|39624|Germany|||Saxony-Anhalt|SA|
+|180|OK|Spangenberg, 34286 Spangenberg, Germany|34286|Germany|Kassel|KS|Hesse|HE|
+|181|OK|Lüchow, 29439 Lüchow, Germany|29439|Germany|||Lower Saxony|NDS|
+|182|OK|Kindertagesstätte, Schulstraße 77, 39638 Gardelegen, Germany|39638|Germany|||Saxony-Anhalt|SA|
+|183|OVER_QUERY_LIMIT||||||||
+|184|OVER_QUERY_LIMIT||||||||
+|185|OVER_QUERY_LIMIT||||||||
+|186|OVER_QUERY_LIMIT||||||||
+|187|OVER_QUERY_LIMIT||||||||
+|188|OVER_QUERY_LIMIT||||||||
+|189|OVER_QUERY_LIMIT||||||||
+|190|OVER_QUERY_LIMIT||||||||
+|191|OVER_QUERY_LIMIT||||||||
+|192|OVER_QUERY_LIMIT||||||||
+|193|OVER_QUERY_LIMIT||||||||
+|194|OVER_QUERY_LIMIT||||||||
+|195|OVER_QUERY_LIMIT||||||||
+|196|OVER_QUERY_LIMIT||||||||
+|197|OVER_QUERY_LIMIT||||||||
+|198|OK|31542 Bad Nenndorf, Germany|31542|Germany|||Lower Saxony|NDS|
+|199|OVER_QUERY_LIMIT||||||||
+|200|OK|Heimatsmuseum Mittenwalde, Salzmarkt 5, 15749 Mittenwalde, Germany|15749|Germany|||Brandenburg|BB|
+|201|OK|Hamburger Chaussee 23, 24623 Großenaspe, Germany|24623|Germany|||Schleswig-Holstein|SH|
+|202|OK|55606 Kirn, Germany|55606|Germany|||Rhineland-Palatinate|RP|
+|203|OK|Gemeindeverwaltung Morl, Schulberg 8, 06193 Petersberg, Germany|06193|Germany|||Saxony-Anhalt|SA|
+|204|OK|Lüchow, 29439 Lüchow, Germany|29439|Germany|||Lower Saxony|NDS|
+|205|OK|Kindergarten Wardenburg, Röbeler Straße 16, 26203 Wardenburg, Germany|26203|Germany|||Lower Saxony|NDS|
+|206|OK|22113 Hamburg, Germany|22113|Germany|||Hamburg|HH|
+|207|OK|13597 Berlin, Germany|13597|Germany|||Berlin|Berlin|
+|208|OK|Grundschule Schönböcken, Schönböckener Hauptstraße 18, 23556 Lübeck, Germany|23556|Germany|||Schleswig-Holstein|SH|
+|209|OK|22113 Hamburg, Germany|22113|Germany|||Hamburg|HH|
+|210|OK|Gumtow, Germany||Germany|||Brandenburg|BB|
+|211|OK|Lilienthal, 28865 Lilienthal, Germany|28865|Germany|||Lower Saxony|NDS|
+|212|OK|39418 Staßfurt, Germany|39418|Germany|||Saxony-Anhalt|SA|
+|213|OK|Heimatmuseum Echterdingen, Hauptstraße 79, 70771 Leinfelden-Echterdingen, Germany|70771|Germany|Stuttgart|S|Baden-Wurttemberg|BW|
+|214|OVER_QUERY_LIMIT||||||||
+|215|OK|Rük 15, 37581 Bad Gandersheim, Germany|37581|Germany|||Lower Saxony|NDS|
+|216|OK|Auetal, 31749 Auetal, Germany|31749|Germany|||Lower Saxony|NDS|
+|217|OK|Oberhavel Kliniken - Klinik Hennigsdorf, Marwitzer Straße 91, 16761 Henningsdorf, Germany|16761|Germany|||Brandenburg|BB|
+|218|OK|Gemeindeverwaltung Mohlsdorf Bauverwaltung, Straße der Einheit 6, 07987, Germany|07987|Germany|||Thuringia|TH|
+|219|OK|Sandstein- Und Märchenhöhle, Marienstraße 6, 98639 Walldorf b. Meiningen, Germany|98639|Germany|||Thuringia|TH|
+|220|OK|07907 Oettersdorf, Germany|07907|Germany|||Thuringia|TH|
+|221|OK|Allmosener Hauptstraße, 01983 Großräschen, Germany|01983|Germany|||Brandenburg|BB|
+|222|OK|Schönberg, Germany||Germany|||Schleswig-Holstein|SH|
+|223|OK|Touristinformation, Eutiner Straße 2, 23738 Lensahn, Germany|23738|Germany|||Schleswig-Holstein|SH|
+|224|OK|Heilshoop, Germany||Germany|||Schleswig-Holstein|SH|
+|225|OK|Industriestraße 2, Industriegebiet Straßäcker, 94330 Salching, Germany|94330|Germany|Lower Bavaria|Lower Bavaria|Bavaria|BY|
+|226|OVER_QUERY_LIMIT||||||||
+|227|OK|Heimatsmuseum Mittenwalde, Salzmarkt 5, 15749 Mittenwalde, Germany|15749|Germany|||Brandenburg|BB|
+|228|OVER_QUERY_LIMIT||||||||
+|229|OVER_QUERY_LIMIT||||||||
+|230|OVER_QUERY_LIMIT||||||||
+|231|OVER_QUERY_LIMIT||||||||
+|232|OVER_QUERY_LIMIT||||||||
+|233|OVER_QUERY_LIMIT||||||||
+|234|OVER_QUERY_LIMIT||||||||
+|235|OVER_QUERY_LIMIT||||||||
+|236|OK|Alsfeld, Germany||Germany|Giessen|GI|Hesse|HE|
+|237|OK|Klein Schulzendorf, Trebbin, Germany||Germany|||Brandenburg|BB|
+|238|OK|Hermann-Graebke-Straße 12, 16928 Pritzwalk, Germany|16928|Germany|||Brandenburg|BB|
+|239|OK|Hauptstraße, 27374 Visselhövede, Germany|27374|Germany|||Lower Saxony|NDS|
+|240|OK|Stadtverwaltung Premnitz, Gerhart-Hauptmann-Straße 21, 14727 Premnitz, Germany|14727|Germany|||Brandenburg|BB|
+|241|OK|Freiwillige Feuerwehr der Stadt Werder (Havel) Ortsfeuerwehr Glindow, Dr.-Külz-Straße 22, 14542 Werder (Havel) OT Glindow, Germany|14542|Germany|||Brandenburg|BB|
+|242|OK|14959 Trebbin, Germany|14959|Germany|||Brandenburg|BB|
+|243|OK|Tierpark Angermünde, 16278 Angermünde, Germany|16278|Germany|||Brandenburg|BB|
+|244|OK|Barbis, 37431 Bad Lauterberg, Germany|37431|Germany|||Lower Saxony|NDS|
+|245|OK|Germany||Germany|||||
+|246|OVER_QUERY_LIMIT||||||||
+|247|OVER_QUERY_LIMIT||||||||
+|248|OK|Polleben, 06295 Eisleben, Germany|06295|Germany|||Saxony-Anhalt|SA|
+|249|OVER_QUERY_LIMIT||||||||
+|250|OVER_QUERY_LIMIT||||||||
+|251|OVER_QUERY_LIMIT||||||||
+|252|OVER_QUERY_LIMIT||||||||
+|253|OVER_QUERY_LIMIT||||||||
+|254|OVER_QUERY_LIMIT||||||||
+|255|OVER_QUERY_LIMIT||||||||
+|256|OVER_QUERY_LIMIT||||||||
+|257|OVER_QUERY_LIMIT||||||||
+|258|OVER_QUERY_LIMIT||||||||
+|259|OVER_QUERY_LIMIT||||||||
+|260|OK|Dunlap, TN 37327, USA|37327|United States|||Tennessee|TN|
+|261|OK|Am Bauergarten 7, 06642 Kaiserpfalz, Germany|06642|Germany|||Saxony-Anhalt|SA|
+|262|OK|Schortentalstraße 26, 07613 Heideland, Germany|07613|Germany|||Thuringia|TH|
+|263|OK|Bahnhofstraße 13, 99100 Döllstädt, Germany|99100|Germany|||Thuringia|TH|
+|264|OK|Landwirtschaftsamt Leinefelde, Lisztstraße 2, 37327 Leinefelde-Worbis, Germany|37327|Germany|||Thuringia|TH|
+|265|OK|13089 Berlin, Germany|13089|Germany|||Berlin|Berlin|
+|266|OK|44807 Bochum, Germany|44807|Germany|Arnsberg|Arnsberg|North Rhine-Westphalia|NRW|
+|267|OK|44807 Bochum, Germany|44807|Germany|Arnsberg|Arnsberg|North Rhine-Westphalia|NRW|
+|268|OK|Industriestraße 35, 28876 Oyten, Germany|28876|Germany|||Lower Saxony|NDS|
+|269|OK|Sandhorst, 26607 Aurich, Germany|26607|Germany|||Lower Saxony|NDS|
+|270|OK|SoVD-Beratungszentrum Aschendorf (Sozialverband Deutschland e.V.), Von-Galen-Straße 19, 26871 Aschendorf, Germany|26871|Germany|||Lower Saxony|NDS|
+|271|OK|Uplengen, Germany||Germany|||Lower Saxony|NDS|
+|272|OK|27478 Cuxhaven, Germany|27478|Germany|||Lower Saxony|NDS|
+|273|OK|Bakum, Kirchstraße 3, 49456 Bakum, Germany|49456|Germany|||Lower Saxony|NDS|
+|274|OK|Feuerwehr Buecken, Marktstraße 34, 27333 Bücken|27333|Germany|||Lower Saxony|NDS|
+|275|OK|Bakum, Kirchstraße 3, 49456 Bakum, Germany|49456|Germany|||Lower Saxony|NDS|
+|276|OK|Neubörger Straße, 26909 Neulehe, Germany|26909|Germany|||Lower Saxony|NDS|
+|277|OK|Glittenbergstraße 52, 26676 Barßel, Germany|26676|Germany|||Lower Saxony|NDS|
+|278|OK|Kindergarten Nortmoor, Dorfstraße 56, 26845 Nortmoor, Germany|26845|Germany|||Lower Saxony|NDS|
+|279|OK|Bakumer Straße 2, 49456 Bakum, Germany|49456|Germany|||Lower Saxony|NDS|
+|280|OVER_QUERY_LIMIT||||||||
+|281|OVER_QUERY_LIMIT||||||||
+|282|OVER_QUERY_LIMIT||||||||
+|283|OVER_QUERY_LIMIT||||||||
+|284|OVER_QUERY_LIMIT||||||||
+|285|OVER_QUERY_LIMIT||||||||
+|286|OVER_QUERY_LIMIT||||||||
+|287|OVER_QUERY_LIMIT||||||||
+|288|OVER_QUERY_LIMIT||||||||
+|289|OK|Germany||Germany|||||
+|290|OK|Meesmannstraße 32, 44807 Bochum, Germany|44807|Germany|Arnsberg|Arnsberg|North Rhine-Westphalia|NRW|
+|291|OK|Visselhövede, Germany||Germany|||Lower Saxony|NDS|
+|292|OK|Rurbenden 34, 52382 Niederzier, Germany|52382|Germany|Cologne|K|North Rhine-Westphalia|NRW|
+|293|OK|Loburg, 39279 Möckern, Germany|39279|Germany|||Saxony-Anhalt|SA|
+|294|OK|Fehrbellin, 16833 Fehrbellin, Germany|16833|Germany|||Brandenburg|BB|
+|295|OK|Günthersdorfer Straße 1, 39387 Oschersleben, Germany|39387|Germany|||Saxony-Anhalt|SA|
+|296|OK|Kirche Sieversdorf, Dorfstraße, 16845 Sieversdorf-Hohenofen, Germany|16845|Germany|||Brandenburg|BB|
+|297|OK|Derenburg, Germany||Germany|||Saxony-Anhalt|SA|
+|298|OK|54634 Bitburg, Germany|54634|Germany|||Rhineland-Palatinate|RP|
+|299|OVER_QUERY_LIMIT||||||||
+|300|OVER_QUERY_LIMIT||||||||
+|301|OVER_QUERY_LIMIT||||||||
+|302|OK|Saalestraße 34, 39126 Magdeburg, Germany|39126|Germany|||Saxony-Anhalt|SA|
+|303|OVER_QUERY_LIMIT||||||||
+|304|OVER_QUERY_LIMIT||||||||
+|305|OVER_QUERY_LIMIT||||||||
+|306|OVER_QUERY_LIMIT||||||||
+|307|OVER_QUERY_LIMIT||||||||
+|308|OVER_QUERY_LIMIT||||||||
+|309|OVER_QUERY_LIMIT||||||||
+|310|OK|Am Schulwald 3, Media Markt, 25813 Husum, Germany|25813|Germany|||Schleswig-Holstein|SH|
+|311|OK|Gerüstbau Dedelow GmbH, Basedower Straße 4, 17291 Prenzlau, Germany|17291|Germany|||Brandenburg|BB|
+|312|OK|Kleeth, 17091 Knorrendorf, Germany|17091|Germany|||Mecklenburg-Vorpommern|MV|
+|313|OK|Miniaturstadt Bützow, 18246 Bützow, Germany|18246|Germany|||Mecklenburg-Vorpommern|MV|
+|314|OK|Museum der Stadt Bad Schwartau, Schillerstraße 8-10, 23611 Bad Schwartau, Germany|23611|Germany|||Schleswig-Holstein|SH|
+|315|OK|Neumünster, Germany||Germany|||Schleswig-Holstein|SH|
+|316|OK|Hamburger Chaussee 23, 24623 Großenaspe, Germany|24623|Germany|||Schleswig-Holstein|SH|
+|317|OK|28876 Oyten, Germany|28876|Germany|||Lower Saxony|NDS|
+|318|OK|Sandhorst, 26607 Aurich, Germany|26607|Germany|||Lower Saxony|NDS|
+|319|OK|SoVD-Beratungszentrum Aschendorf (Sozialverband Deutschland e.V.), Von-Galen-Straße 19, 26871 Aschendorf, Germany|26871|Germany|||Lower Saxony|NDS|
+|320|OVER_QUERY_LIMIT||||||||
+|321|OVER_QUERY_LIMIT||||||||
+|322|OVER_QUERY_LIMIT||||||||
+|323|OVER_QUERY_LIMIT||||||||
+|324|OVER_QUERY_LIMIT||||||||
+|325|OVER_QUERY_LIMIT||||||||
+|326|OVER_QUERY_LIMIT||||||||
+|327|OVER_QUERY_LIMIT||||||||
+|328|OVER_QUERY_LIMIT||||||||
+|329|OK|13089 Berlin, Germany|13089|Germany|||Berlin|Berlin|
+|330|OVER_QUERY_LIMIT||||||||
+|331|OVER_QUERY_LIMIT||||||||
+|332|OK|Zu den Eichen 1, 09661 Hainichen, Germany|09661|Germany|Chemnitz|C|Saxony|SN|
+|333|OK|Stadtklinik Frankenthal, Elsa-Brändström-Straße 1, 67227 Frankenthal, Germany|67227|Germany|||Rhineland-Palatinate|RP|
+|334|OK|03044 Cottbus, Germany|03044|Germany|||Brandenburg|BB|
+|335|OK|Sarcelles, France||France|Val-d'Oise|95|Île-de-France|IDF|
+|336|OK|Fit GmbH, Steinsmark 2, 58540 Meinerzhagen, Germany|58540|Germany|||North Rhine-Westphalia|NRW|
+|337|OK|Gemeindeverwaltung Döllstädt, Lindenhof 1, 99100 Döllstädt, Germany|99100|Germany|||Thuringia|TH|
+|338|OK|Schaugehege Döberitzer Heide Wustermark-Elstal, 14641 Wustermark, Germany|14641|Germany|||Brandenburg|BB|
+|339|OK|Heimathaus Schöneiche, Dorfaue 8, 15566 Schöneiche, Germany|15566|Germany|||Brandenburg|BB|
+|340|OK|22419 Hamburg, Germany|22419|Germany|||Hamburg|HH|
+|341|OK|Volksschule Parsdorf, Purfinger Straße 20, 85599 Vaterstetten, Germany|85599|Germany|Upper Bavaria|Upper Bavaria|Bavaria|BY|
+|342|OK|96052 Bamberg, Germany|96052|Germany|Upper Franconia|Upper Franconia|Bavaria|BY|
+|343|OK|Feuerwehr Dortmund, Steinstraße 25, 44147 Dortmund, Germany|44147|Germany|Arnsberg|Arnsberg|North Rhine-Westphalia|NRW|
+|344|OVER_QUERY_LIMIT||||||||
+|345|OVER_QUERY_LIMIT||||||||
+|346|OVER_QUERY_LIMIT||||||||
+|347|OK|Elsterschloss-Gymnasium, Schloßplatz, 04910 Elsterwerda, Germany|04910|Germany|||Brandenburg|BB|
+|348|OVER_QUERY_LIMIT||||||||
+|349|OVER_QUERY_LIMIT||||||||
+|350|OK|37081 Göttingen, Germany|37081|Germany|||Lower Saxony|NDS|
+|351|OK|MEC Halle 04 e.V./ Saale Bulls - Eisdom, Messestraße 10, 06116 Halle|06116|Germany|||Saxony-Anhalt|SA|
+|352|OK|Büromaschinen-Museum Barsbüttel, Am Eichenhain 7, 22885 Barsbüttel, Germany|22885|Germany|||Schleswig-Holstein|SH|
+|353|OK|30165 Hanover, Germany|30165|Germany|||Lower Saxony|NDS|
+|354|OK|07747 Jena, Germany|07747|Germany|||Thuringia|TH|
+|355|OK|Bismarckturm-Verein Lützschena-Stahmeln e. V., Am Brunnen 4, 04159 Leipzig, Germany|04159|Germany|Leipzig|Leipzig|Saxony|SN|
+|356|OK|Lübeck Airport (LBC), Blankenseer Str. 101, 23560 Hansestadt Lübeck|23560|Germany|||Schleswig-Holstein|SH|
+|357|OK|Zoologischer Garten Magdeburg, Zooallee 1, 39124 Magdeburg, Germany|39124|Germany|Magdeburg|MD|Saxony-Anhalt|SA|
+|358|OK|06217 Merseburg (Saale), Germany|06217|Germany|||Saxony-Anhalt|SA|
+|359|OK|Alemannenstraße 1, Gewerbepark Ilmendorf, 85290 Geisenfeld, Germany|85290|Germany|Upper Bavaria|Upper Bavaria|Bavaria|BY|
+|360|OK|Gemeindeverwaltung Admannshagen-Bargeshagen Bauamt, Hauptstraße 58, 18211 Admannshagen-Bargeshagen, Germany|18211|Germany|||Mecklenburg-Vorpommern|MV|
+|361|OVER_QUERY_LIMIT||||||||
+|362|OVER_QUERY_LIMIT||||||||
+|363|OVER_QUERY_LIMIT||||||||
+|364|OK|Klein Bünzow, Germany||Germany|||Mecklenburg-Vorpommern|MV|
+|365|OK|1110, Austria|1110|Austria|||Vienna|Vienna|
+|366|OK|8020, Austria|8020|Austria|||Styria|Stmk.|
+|367|OK|Salzburg Airport (SZG), 5020 Salzburg, Austria|5020|Austria|Salzburg|Salzburg|Salzburg|Sbg.|
+|368|OK|Haller Feld, 6060 Hall in Tirol, Austria|6060|Austria|Innsbruck-Land District|Innsbruck-Land District|Tyrol|Tir.|
+|369|ZERO_RESULTS||||||||
+|370|ZERO_RESULTS||||||||
+|371|OK|Schulfit Feldkirchen, Kreuzstraße 11, 85622 Feldkirchen, Germany|85622|Germany|Upper Bavaria|Upper Bavaria|Bavaria|BY|
+|372|OK|Büromaschinen-Museum Barsbüttel, Am Eichenhain 7, 22885 Barsbüttel, Germany|22885|Germany|||Schleswig-Holstein|SH|
+|373|OK|Sternwarte und Planetarium, Weinbergstraße 17, 19061 Schwerin, Germany|19061|Germany|||Mecklenburg-Vorpommern|MV|
+|374|ZERO_RESULTS||||||||
+|375|OK|Bakum, Kirchstraße 3, 49456 Bakum, Germany|49456|Germany|||Lower Saxony|NDS|
+|376|OVER_QUERY_LIMIT||||||||
+|377|OVER_QUERY_LIMIT||||||||
+|378|OVER_QUERY_LIMIT||||||||
+|379|OVER_QUERY_LIMIT||||||||
+|380|OK|Liebigstraße 38, 22113 Hamburg, Germany|22113|Germany|||Hamburg|HH|
+|381|OK|Gemeindeverwaltung Wallersdorf Bauamt, Marktplatz 19, 94522 Wallersdorf, Germany|94522|Germany|Lower Bavaria|Lower Bavaria|Bavaria|BY|
+|382|OK|Hackethalstraße 6, 30179 Hanover, Germany|30179|Germany|||Lower Saxony|NDS|
+|383|OK|Lohheide, Germany||Germany|||Lower Saxony|NDS|
+|384|OK|Helmstedt, Germany||Germany|||Lower Saxony|NDS|
+|385|OK|Im Mittelfeld 20, 04509 Krostitz, Germany|04509|Germany|Leipzig|Leipzig|Saxony|SN|
+|386|OK|Amtsgericht, Rosa-Luxemburg-Straße 16, 04720 Döbeln, Germany|04720|Germany|Leipzig|Leipzig|Saxony|SN|
+|387|OK|Funpark Wiesmoor, Am Stadion 33, 26639 Wiesmoor, Germany|26639|Germany|||Lower Saxony|NDS|
+|388|OK|Melle, 49324 Melle, Germany|49324|Germany|||Lower Saxony|NDS|
+|389|OK|Liebigstraße 38, 22113 Hamburg, Germany|22113|Germany|||Hamburg|HH|
+|390|OK|Mohriner Allee 30, 12347 Berlin, Germany|12347|Germany|||Berlin|Berlin|
+|391|OVER_QUERY_LIMIT||||||||
+|392|OVER_QUERY_LIMIT||||||||
+|393|OK|14478 Potsdam, Germany|14478|Germany|||Brandenburg|BB|
+|394|OVER_QUERY_LIMIT||||||||
+|395|OVER_QUERY_LIMIT||||||||
+|396|OVER_QUERY_LIMIT||||||||
+|397|OK|Zufahrt zum Flughafen Tegel, Berlin, Germany||Germany|||Berlin|Berlin|
+|398|OK|Stadtverwaltung Zell am Harmersbach, Hauptstraße 19, 77736 Zell, Germany|77736|Germany|Freiburg|Freiburg|Baden-Wurttemberg|BW|
+|399|OK|Gemeindeverwaltung Offenberg Bauamt, Rathausplatz 1, 94560 Offenberg, Germany|94560|Germany|Lower Bavaria|Lower Bavaria|Bavaria|BY|
+|400|OK|Hauptstraße 42, 98617 Obermaßfeld-Grimmenthal, Germany|98617|Germany|||Thuringia|TH|
+|401|OK|Schalkauer Straße 53, 98673 Eisfeld, Germany|98673|Germany|||Thuringia|TH|
+|402|OK|Verwaltungsgemeinschaft Buttelstedt, Markt 2, 99439 Buttelstedt, Germany|99439|Germany|||Thuringia|TH|
+|403|OK|Tennis -u. Squashcenter Illingen, Gymnasialstraße 89, 66557 Illingen, Germany|66557|Germany|||Saarland|SL|
+|404|OK|55606 Kirn, Germany|55606|Germany|||Rhineland-Palatinate|RP|
+|405|OK|Haller Feld, 6060 Hall in Tirol, Austria|6060|Austria|Innsbruck-Land District|Innsbruck-Land District|Tyrol|Tir.|
+|406|OK|Wienstraße, 26122 Oldenburg, Germany|26122|Germany|||Lower Saxony|NDS|
+|407|OK|Fabianistraße 8, 1110 Vienna, Austria|1110|Austria|||Vienna|Vienna|
+|408|OVER_QUERY_LIMIT||||||||
+|409|OVER_QUERY_LIMIT||||||||
+|410|OVER_QUERY_LIMIT||||||||
+|411|OVER_QUERY_LIMIT||||||||
+|412|OVER_QUERY_LIMIT||||||||
+|413|OVER_QUERY_LIMIT||||||||
+|414|OVER_QUERY_LIMIT||||||||
+|415|OVER_QUERY_LIMIT||||||||
+|416|OVER_QUERY_LIMIT||||||||
+|417|OVER_QUERY_LIMIT||||||||
+|418|OVER_QUERY_LIMIT||||||||
+|419|OVER_QUERY_LIMIT||||||||
+|420|OVER_QUERY_LIMIT||||||||
+|421|OK|1627 LL Hoorn, The Netherlands|1627 LL|The Netherlands|||North Holland|NH|
+|422|OK|2351 AX Leiderdorp, The Netherlands|2351 AX|The Netherlands|||South Holland|ZH|
+|423|OK|5408 SZ Volkel, The Netherlands|5408 SZ|The Netherlands|Uden|Uden|North Brabant|NB|
+|424|OK|s Heer Arendskerke, Driesprong, 4458 's-Heer Arendskerke, The Netherlands||The Netherlands|Goes|Goes|Zeeland|ZE|
+|425|OK|Rue Géron 28, 5300 Andenne, Belgium|5300|Belgium|Namur|NA|Walloon Region|Walloon Region|
+|426|OK|Ritterhude, Germany||Germany|||Lower Saxony|NDS|
+|427|ZERO_RESULTS||||||||
+|428|OK|9988 Usquert, The Netherlands||The Netherlands|Eemsmond|Eemsmond|Groningen|GR|
+|429|OK|8501 XD Joure, The Netherlands|8501 XD|The Netherlands|Skarsterlân|Skarsterlân|Friesland|FR|
+|430|OK|8355 Giethoorn, The Netherlands||The Netherlands|Steenwijkerland|Steenwijkerland|Overijssel|OV|
+|431|OK|Melsele Koolputstraat, 9120 Beveren, Belgium|9120|Belgium|East Flanders|OV|Flanders|Flanders|
+|432|ZERO_RESULTS||||||||
+|433|OVER_QUERY_LIMIT||||||||
+|434|OVER_QUERY_LIMIT||||||||
+|435|OVER_QUERY_LIMIT||||||||
+|436|OVER_QUERY_LIMIT||||||||
+|437|OVER_QUERY_LIMIT||||||||
+|438|OVER_QUERY_LIMIT||||||||
+|439|OVER_QUERY_LIMIT||||||||
+|440|OVER_QUERY_LIMIT||||||||
+|441|OVER_QUERY_LIMIT||||||||
+|442|OVER_QUERY_LIMIT||||||||
+|443|OVER_QUERY_LIMIT||||||||
+|444|OVER_QUERY_LIMIT||||||||
+|445|OK|455 35 Munkedal, Sweden|45535|Sweden|||Västra Götaland County|Västra Götaland County|
+|446|OK|783 93 storaskedvi, Sweden|78393|Sweden|||Dalarna County|Dalarna County|
+|447|OK|541 34 Skövde, Sweden|54134|Sweden|||Västra Götaland County|Västra Götaland County|
+|448|OK|591 95 Motala, Sweden|59195|Sweden|||Östergötland County|Östergötland County|
+|449|OK|Fabriksgatan 18, 602 23 Norrköping, Sweden|60223|Sweden|Norrköping|Norrköping|Östergötland County|Östergötland County|
+|450|OK|Scandinavia|||||||
+|451|OK|572 32 Oskarshamn, Sweden|57232|Sweden|||||
+|452|OK|Scandinavian Institute of Maritime Law, St. Olavs gt. 23, 0166 Oslo, Norway|0166|Norway|||Oslo|Oslo|
+|453|OK|Scandinavia|||||||
+|454|OK|Scandinavia|||||||
+|455|OVER_QUERY_LIMIT||||||||
+|456|OK|Scandinavia|||||||
+|457|OVER_QUERY_LIMIT||||||||
+|458|OVER_QUERY_LIMIT||||||||
+|459|OVER_QUERY_LIMIT||||||||
+|460|OVER_QUERY_LIMIT||||||||
+|461|OVER_QUERY_LIMIT||||||||
+|462|OVER_QUERY_LIMIT||||||||
+|463|OVER_QUERY_LIMIT||||||||
+|464|OK|Cham, 93413 Cham, Switzerland|93413|Switzerland|||Canton of Zug|ZG|
+|465|OVER_QUERY_LIMIT||||||||
+|466|OVER_QUERY_LIMIT||||||||
+|467|OVER_QUERY_LIMIT||||||||
+|468|OVER_QUERY_LIMIT||||||||
+|469|OK|3196 KC Vondelingenplaat, The Netherlands|3196 KC|The Netherlands|Government of Rotterdam|Government of Rotterdam|South Holland|ZH|
+|470|OK|Antarcticaweg 199, 3199 KA Maasvlakte Rotterdam, The Netherlands|3199 KA|The Netherlands|Government of Rotterdam|Government of Rotterdam|South Holland|ZH|
+|471|ZERO_RESULTS||||||||
+|472|ZERO_RESULTS||||||||
+|473|ZERO_RESULTS||||||||
+|474|ZERO_RESULTS||||||||
+|475|ZERO_RESULTS||||||||
+|476|ZERO_RESULTS||||||||
+|477|OK|Avenida Juan B. Justo, City Bell, Buenos Aires Province, Argentina||Argentina|La Plata|La Plata|Buenos Aires Province|BA|
+|478|OK|Alleegasse, 2454 Trautmannsdorf an der Leitha, Austria|2454|Austria|Bruck an der Leitha District|Bruck an der Leitha District|Lower Austria|NÖ|
+|479|OVER_QUERY_LIMIT||||||||
+|480|OVER_QUERY_LIMIT||||||||
+|481|OVER_QUERY_LIMIT||||||||
+|482|ZERO_RESULTS||||||||
+|483|OVER_QUERY_LIMIT||||||||
+|484|OVER_QUERY_LIMIT||||||||
+|485|OVER_QUERY_LIMIT||||||||
+|486|OVER_QUERY_LIMIT||||||||
+|487|OVER_QUERY_LIMIT||||||||
+|488|OVER_QUERY_LIMIT||||||||
+|489|OK|JVA Adelsheim, Dr.-Traugott-Bender-Straße 2, 74740 Adelsheim, Germany|74740|Germany|Karlsruhe|KA|Baden-Wurttemberg|BW|
+|490|OVER_QUERY_LIMIT||||||||
+|491|OVER_QUERY_LIMIT||||||||
+|492|OVER_QUERY_LIMIT||||||||
+|493|OVER_QUERY_LIMIT||||||||
+|494|OVER_QUERY_LIMIT||||||||
+|495|ZERO_RESULTS||||||||
+|496|OK|Oberhonnefeld, Germany||Germany|||Rhineland-Palatinate|RP|
+|497|ZERO_RESULTS||||||||
+|498|OK|Lübbendorfer Chaussee 4, 19249 Lübtheen, Germany|19249|Germany|||Mecklenburg-Vorpommern|MV|
+|499|OK|Neustädter Hafen, Bremen, Germany||Germany|||Bremen|HB|
+|500|ZERO_RESULTS||||||||
+|501|ZERO_RESULTS||||||||
+|502|ZERO_RESULTS||||||||
+|503|ZERO_RESULTS||||||||
+|504|ZERO_RESULTS||||||||
+|505|OK|Rue Ampère, 16440 Nersac, France|16440|France|Charente|16|Poitou-Charentes|PCh|
+|506|OK|3 Rue Jacques Cartier, 17440 Aytré, France|17440|France|Charente-maritime|17|Poitou-Charentes|PCh|
+|507|OK|85170 Belleville-sur-Vie, France|85170|France|Vendee|85|Pays de la Loire|Pays de la Loire|
+|508|OVER_QUERY_LIMIT||||||||
+|509|OVER_QUERY_LIMIT||||||||
+|510|OVER_QUERY_LIMIT||||||||
+|511|OVER_QUERY_LIMIT||||||||
+|512|OVER_QUERY_LIMIT||||||||
+|513|OVER_QUERY_LIMIT||||||||
+|514|OVER_QUERY_LIMIT||||||||
+|515|OVER_QUERY_LIMIT||||||||
+|516|OVER_QUERY_LIMIT||||||||
+|517|OVER_QUERY_LIMIT||||||||
+|518|OVER_QUERY_LIMIT||||||||
+|519|OVER_QUERY_LIMIT||||||||
+|520|OK|Saint-Martin-de-Bossenay, France||France|Aube|10|Champagne-Ardenne|Champagne-Ardenne|
+|521|OK|BP-4654, 16, 08587 Alpens, Barcelona, Spain|08587|Spain|Barcelona|B|Catalonia|CT|
+|522|OK|105 Berth, Wilmington, CA 90744, USA|90744|United States|Los Angeles County|Los Angeles County|California|CA|
+|523|OK|3 Rue Jacques Cartier, 17440 Aytré, France|17440|France|Charente-maritime|17|Poitou-Charentes|PCh|
+|524|OK|Rue Bertrand Balguerie, 33520 Bruges, France|33520|France|Gironde|33|Aquitaine|Aquitaine|
+|525|OK|3 Rue du Val Clair, 51100 Reims, France|51100|France|Marne|51|Champagne-Ardenne|Champagne-Ardenne|
+|526|ZERO_RESULTS||||||||
+|527|OK|Mairie de Bonneuil-sur-Marne, 7 Rue d'Estienne d'Orves, 94380 Bonneuil-sur-Marne, France|94380|France|Val-de-Marne|94|Île-de-France|IDF|
+|528|OK|Rue Ampère, 16440 Nersac, France|16440|France|Charente|16|Poitou-Charentes|PCh|
+|529|OK|3 Rue Jacques Cartier, 17440 Aytré, France|17440|France|Charente-maritime|17|Poitou-Charentes|PCh|
+|530|OK|33130 Bègles, France|33130|France|Gironde|33|Aquitaine|Aquitaine|
+|531|OVER_QUERY_LIMIT||||||||
+|532|OVER_QUERY_LIMIT||||||||
+|533|OVER_QUERY_LIMIT||||||||
+|534|OVER_QUERY_LIMIT||||||||
+|535|OVER_QUERY_LIMIT||||||||
+|536|OVER_QUERY_LIMIT||||||||
+|537|OVER_QUERY_LIMIT||||||||
+|538|OVER_QUERY_LIMIT||||||||
+|539|OVER_QUERY_LIMIT||||||||
+|540|OVER_QUERY_LIMIT||||||||
+|541|OVER_QUERY_LIMIT||||||||
+|542|OVER_QUERY_LIMIT||||||||
+|543|OVER_QUERY_LIMIT||||||||
+|544|ZERO_RESULTS||||||||
+|545|ZERO_RESULTS||||||||
+|546|ZERO_RESULTS||||||||
+|547|ZERO_RESULTS||||||||
+|548|OK|69610 Aveize, France|69610|France|Rhône|69|Rhone-Alpes|RA|
+|549|OK|85400 Luçon, France|85400|France|Vendee|85|Pays de la Loire|Pays de la Loire|
+|550|OK|Rue Bertrand Balguerie, 33520 Bruges, France|33520|France|Gironde|33|Aquitaine|Aquitaine|
+|551|OK|Saint-Martin-de-Bossenay, France||France|Aube|10|Champagne-Ardenne|Champagne-Ardenne|
+|552|ZERO_RESULTS||||||||
+|553|OK|Route Nationale 106, 48700 Les Laubies, France|48700|France|Lozère|48|Languedoc-Roussillon|Languedoc-Roussillon|
+|554|OK|10220 Onjon, France|10220|France|Aube|10|Champagne-Ardenne|Champagne-Ardenne|
+|555|OVER_QUERY_LIMIT||||||||
+|556|OVER_QUERY_LIMIT||||||||
+|557|OVER_QUERY_LIMIT||||||||
+|558|OVER_QUERY_LIMIT||||||||
+|559|OVER_QUERY_LIMIT||||||||
+|560|OVER_QUERY_LIMIT||||||||
+|561|OVER_QUERY_LIMIT||||||||
+|562|OVER_QUERY_LIMIT||||||||
+|563|OVER_QUERY_LIMIT||||||||
+|564|OVER_QUERY_LIMIT||||||||
+|565|OVER_QUERY_LIMIT||||||||
+|566|OVER_QUERY_LIMIT||||||||
+|567|OVER_QUERY_LIMIT||||||||
+|568|OVER_QUERY_LIMIT||||||||
+|569|ZERO_RESULTS||||||||
+|570|ZERO_RESULTS||||||||
+|571|ZERO_RESULTS||||||||
+|572|OVER_QUERY_LIMIT||||||||
+|573|OVER_QUERY_LIMIT||||||||
+|574|OVER_QUERY_LIMIT||||||||
+|575|OVER_QUERY_LIMIT||||||||
+|576|ZERO_RESULTS||||||||
+|577|ZERO_RESULTS||||||||
+|578|OK|Calle Mary Anderson, 50830 Villanueva de Gállego, Zaragoza, Spain|50830|Spain|Zaragoza|Z|Aragon|Aragon|
+|579|ZERO_RESULTS||||||||
+|580|ZERO_RESULTS||||||||
+|581|ZERO_RESULTS||||||||
+|582|ZERO_RESULTS||||||||
+|583|ZERO_RESULTS||||||||
+|584|ZERO_RESULTS||||||||
+|585|ZERO_RESULTS||||||||
+|586|ZERO_RESULTS||||||||
+|587|ZERO_RESULTS||||||||
+|588|OVER_QUERY_LIMIT||||||||
+|589|OK|Km, East Bekasi, Bekasi, West Java 17112, Indonesia|17112|Indonesia|Bekasi|Bekasi|West Java|West Java|
+|590|ZERO_RESULTS||||||||
+|591|OVER_QUERY_LIMIT||||||||
+|592|OVER_QUERY_LIMIT||||||||
+|593|OVER_QUERY_LIMIT||||||||
+|594|OVER_QUERY_LIMIT||||||||
+|595|ZERO_RESULTS||||||||
+|596|OVER_QUERY_LIMIT||||||||
+|597|OVER_QUERY_LIMIT||||||||
+|598|OVER_QUERY_LIMIT||||||||
+|599|OVER_QUERY_LIMIT||||||||
+|600|OVER_QUERY_LIMIT||||||||
+|601|OVER_QUERY_LIMIT||||||||
+|602|OVER_QUERY_LIMIT||||||||
+|603|OVER_QUERY_LIMIT||||||||
+|604|OVER_QUERY_LIMIT||||||||
+|605|OVER_QUERY_LIMIT||||||||
+|606|OVER_QUERY_LIMIT||||||||
+|607|OVER_QUERY_LIMIT||||||||
+|608|OVER_QUERY_LIMIT||||||||
+|609|OVER_QUERY_LIMIT||||||||
+|610|ZERO_RESULTS||||||||
+|611|OK|Rua E, 4, Goiás, 75370-000, Brazil|75370-000|Brazil|Goianira|Goianira|Goiás|GO|
+|612|ZERO_RESULTS||||||||
+|613|ZERO_RESULTS||||||||
+|614|ZERO_RESULTS||||||||
+|615|ZERO_RESULTS||||||||
+|616|ZERO_RESULTS||||||||
+|617|ZERO_RESULTS||||||||
+|618|ZERO_RESULTS||||||||
+|619|OK|Marsvägen 2, 135 55 Tyresö, Sweden|13555|Sweden|Tyresö|Tyresö|Stockholm County|Stockholm County|
+|620|ZERO_RESULTS||||||||
+|621|OK|73-108 Wielichówko, Poland|73-108|Poland|Stargard County|Stargard County|West Pomeranian Voivodeship|West Pomeranian Voivodeship|
+|622|OVER_QUERY_LIMIT||||||||
